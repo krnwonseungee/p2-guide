@@ -41,6 +41,6 @@ projects release, however.
 
 ## Projects To Choose From
 
-* An [Online Discussion Forum](week-1/group-projects/online-discussion-forum.md)
-* A [Social Network](week-1/group-projects/social-network.md)
-* An [Online Survey System](week-1/group-projects/survey-system.md)
+* An [Online Discussion Forum](group-projects/online-discussion-forum.md)
+* A [Social Network](group-projects/social-network.md)
+* An [Online Survey System](group-projects/survey-system.md)
