@@ -1,9 +1,10 @@
 # Phase 2 Week 1
 1. [Prep](week-1/prep.md)
-2. [Learning Objectives](week-1/learning-objectives.md)
-3. [Group Projects](week-1/group-projects)
-4. [Side Project Ideas](#crazy-side-project-ideas)
-4. [Tutorials](#reasonable-tutorials)
+1. [Learning Objectives](week-1/learning-objectives.md)
+1. [Group Projects](week-1/group-projects)
+1. [Lightning Talks](week-1/lightning-talks.md)
+1. [Side Project Ideas](#crazy-side-project-ideas)
+1. [Tutorials](#reasonable-tutorials)
 
 
 ## Crazy Side Project Ideas
