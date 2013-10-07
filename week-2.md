@@ -1,3 +1,6 @@
+1. [Prep](#prep)
+2. [Learning Objectives](learning-objectives.md)
+
 ## Prep
 
 1. Work through levels 3, 4 and 5 in the [devtools
