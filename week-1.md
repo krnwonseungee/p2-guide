@@ -22,6 +22,7 @@
 1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website)
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/)
+1. [Designing With Class: Sinatra + PostgreSQL + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
 
 ### Level 2
 
