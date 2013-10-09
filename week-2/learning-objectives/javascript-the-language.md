@@ -13,6 +13,7 @@ it's kind of hard.
    javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
    frequently
 1. I always use `===` for equality tests
+1. I understand that every function creates a new scope for variable names
 
 ## :+1: :+1:
 1. I group related functions into objects to avoid namespace collisions
@@ -23,6 +24,7 @@ it's kind of hard.
 1. I can create object blueprints (classes for all intents an purposes) using the function `prototype` property and the `new` keyword
 1. I can accurately trace what [this](http://trephine.org/t/index.php?title=Understanding_JavaScript%27s_this_keyword) will be in most instances
 1. I can copy properties from one object into the prototype of a constructor function to add behavior to its instances
+1. I understand that the variable scopes captured by functions are kept around as long as the function is referenced by other code
 
 ## :+1: :+1: :+1:
 1. I write functions that return functions when appropriate
