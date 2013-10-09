@@ -12,6 +12,7 @@ it's kind of hard.
 1. I reference the [documentation for
    javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
    frequently
+1. I always use `===` for equality tests
 
 ## :+1: :+1:
 1. I group related functions into objects to avoid namespace collisions
@@ -28,4 +29,4 @@ it's kind of hard.
 1. I can use [call and
    apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply) to
    rebind `this` for given functions
-
+1. I can implement a value equality test for arrays and objects
