@@ -25,7 +25,6 @@ it's kind of hard.
 
 ## :+1: :+1: :+1:
 1. I write functions that return functions when appropriate
-1. I can write my own modules to mix into other objects
 1. I can use [call and
    apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply) to
    rebind `this` for given functions
