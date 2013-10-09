@@ -32,3 +32,4 @@ it's kind of hard.
    apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply) to
    rebind `this` for given functions
 1. I understand that there's always a sensible alternative to `with` and `eval`
+1. I understand that named functions have their delcarations "hoisted" to the top of the scope in which they are declared
