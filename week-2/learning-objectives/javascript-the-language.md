@@ -4,8 +4,7 @@ Javascript is a programming language. It's actually a pretty simple one, though
 it's kind of hard.
 
 ## :+1:
-1. I can define variables that contain Strings, Numbers, functions and object
-   literals
+1. I can define variables that contain Strings, Numbers, Functions and Object
 1. I am comfortable passing functions as arguments to other functions
 1. I use the `var` keyword to prevent variables from entering the global scope
 1. I can iterate over arrays and objects
