@@ -12,7 +12,7 @@ it's kind of hard.
 1. I reference the [documentation for
    javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
    frequently
-1. I always use `===` for equality tests
+1. I always use `===` for equality tests and I understand why this won't test value equality for arrays and objects
 1. I understand that every function creates a new scope for variable names
 
 ## :+1: :+1:
