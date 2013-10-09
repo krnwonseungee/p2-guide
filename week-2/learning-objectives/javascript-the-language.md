@@ -31,4 +31,4 @@ it's kind of hard.
 1. I can use [call and
    apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply) to
    rebind `this` for given functions
-
+1. I understand that there's always a sensible alternative to `with` and `eval`
