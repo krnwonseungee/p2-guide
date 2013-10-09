@@ -33,3 +33,4 @@ it's kind of hard.
    rebind `this` for given functions
 1. I understand that there's always a sensible alternative to `with` and `eval`
 1. I understand that named functions have their delcarations "hoisted" to the top of the scope in which they are declared
+1. I understand how to implement prototypical inheritance using the `__proto__` property of an object (or the `Object.{get/set}PrototypeOf` functions)
