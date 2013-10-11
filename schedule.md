@@ -28,7 +28,7 @@
 
 ####Thursday
 * 9:00 EI - Brief Meditation - Mindful listening
-* 9:30 - 11:30 Pair on challenges.
+* 9:30 - 11:30 Code Retreat 
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
@@ -37,7 +37,7 @@
 
 ####Friday
 * 9:00 Small group check-ins
-* 9:30 - 11:30 Pair on challenges.
+* 9:30 - 11:30 Pair on [HTML and CSS](../../../challenge-html-and-css)
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-1/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
