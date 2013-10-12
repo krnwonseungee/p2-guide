@@ -1,7 +1,7 @@
 # Week 2 Prep
 
 1. Build and deploy the first two releases of
-   [Craigslist Jr](../../../challenge-craigslist-jr).
+   [Craigslist Jr](../../../../challenge-craigslist-jr).
    and submit your attempt as a pull request.
 1. Complete Team Treehouses' [Javascript
    Foundations](http://teamtreehouse.com/library/websites/javascript-foundations)
