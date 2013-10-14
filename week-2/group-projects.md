@@ -6,7 +6,7 @@
 ## Projects To Choose From
 
 1. TypeRacer Clone!
-1. Draw Something Clone!
+1. [Doodle Chat](group-projects/doodle-chat.md)
 
 
 ## Project Learning Objectives
