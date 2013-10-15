@@ -1,19 +1,28 @@
 # JavaScript for Web Applications
 
-While Javascript, as a language, is quite small (if slightly ugly), the amount
-of complexity that comes when you attempt to make browser-based applications
-that work across all browsers is both hard and complex.
+While Javascript the _language_, is quite small (if slightly ugly), the
+browser's API is both larger and more complex.
 
-Enter [jQuery](http://jquery.com/)! jQuery is a cross-browser compatible library
-that provides a standard interface for:
+Enter [jQuery]! The jQuery library implements a [facade] over each browser's
+API (sadly they do not all export the same API) that serves two purposes: the
+code written for it works unmodified in all the major browsers; and the facade
+API itself is cleaner and easier to use.
 
-1. Retrieving elements from the DOM
-1. Manipulating said elements
-1. Binding and triggering events
-1. Making AJAX requests
+[jQuery]:http://jquery.com/
+[facade]:http://en.wikipedia.org/wiki/Facade_pattern
 
-While jQuery has some serious flaws, it's pretty much everywhere and should be
-learned in spite of how awful it is.
+Browsers are huge pieces of software that can do zillions of things (text
+display, graphics display, video/audio, networking, event capture etc.). jQuery
+does not provide a facade over _all_ the browser's APIs, it focuses on a few
+major areas:
+
+1. Searching a pages tree of html elements (the dom)
+1. Manipulating said tree
+1. Binding interactive events such as "click" to custom pieces of code
+1. "AJAX" - making HTTP requests over the network from whithin a page context
+1. Animating elements by modifying their appearance properties in a tight loop
+
+Many programmers prefer to use separate libraries for each of these tasks - as they can be studied and debugged in isolation - however, jQuery is still the most popular solution and worth understanding for that reason alone.
 
 ## :+1:
 1. I can use jQuery to retrieve elements from the DOM using CSS selectors
