@@ -25,27 +25,31 @@ major areas:
 Many programmers prefer to use separate libraries for each of these tasks - as they can be studied and debugged in isolation - however, jQuery is still the most popular solution and worth understanding for that reason alone.
 
 ## :+1:
+
 1. I can use jQuery to retrieve elements from the DOM using CSS selectors
 1. I can use jQuery's [traversal methods](http://api.jquery.com/category/traversing/)
    to find elements relative to the given element
-1. I can bind events to elements I've pulled from the DOM
-1. I can trigger events on elements I've pulled from the DOM
-1. I can use jQuery to append and replace elements on the page
+1. I can bind my code to events triggered on elements I've pulled from the DOM
+1. I can trigger my own events on elements I've pulled from the DOM
+1. I can use jQuery to modify the tree structure of DOM
 
 
 ## :+1: :+1:
+
 1. I can use `querySelectorAll` to retrieve elements without jQuery
 1. I can use `addEventListener` to bind events without jQuery
-1. I can explain the difference between an HTMLElement and a JQueryHTMLElement
-1. I use jQuery to implement Event Delegation with the `on` function
+1. I can explain the difference between an HTMLElement and a jQuery Object
+1. I use jQuery to implement event delegation
 1. I separate my view concerns from my data verification concerns
-1. I use AJAX to retrieve partials from the server and replace or append
-   them to a website
+1. I can use AJAX to retrieve "partial" html strings from the server and 
+   modify and existing DOM to display them
 
 ## :+1: :+1: :+1:
+
 1. I separate my view concerns from my data retrieval and storage concerns
 1. I can do AJAX without jQuery
-1. I use AJAX to retrieve JSON from the server and then modify the page based on
-   the JSON
-1. I use MustacheJS or underscores templating library to convert JSON to HTML
-1. I can use jQuery to bind and trigger events on plain old JavaScript objects
+1. I use AJAX to retrieve JSON encoded data from the server and then modify 
+   the page based on that data
+1. I use Mustache or underscore's templating library to dynamically render HTML
+1. I can use jQuery to bind and trigger custom events on objects that are not
+   part of the DOM
