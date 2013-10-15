@@ -6,7 +6,7 @@ it's kind of hard.
 ## :+1:
 
 1. I can define variables that contain Strings, Numbers, Functions and Objects
-1. I am comf  ortable passing functions as arguments to other functions
+1. I am comfortable passing functions as arguments to other functions
 1. I declare variables with the `var` keyword to prevent them from being
    defined at the global scope
 1. I can iterate over the elements in an arrays and they key/value pairs in
