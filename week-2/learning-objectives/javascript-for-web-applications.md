@@ -22,7 +22,9 @@ major areas:
 1. "AJAX" - making HTTP requests over the network from whithin a page context
 1. Animating elements by modifying their appearance properties in a tight loop
 
-Many programmers prefer to use separate libraries for each of these tasks - as they can be studied and debugged in isolation - however, jQuery is still the most popular solution and worth understanding for that reason alone.
+Many programmers prefer to use separate libraries for each of these tasks - as
+they can be studied and debugged in isolation - however, jQuery is still the 
+most popular solution and worth understanding for that reason alone.
 
 ## :+1:
 
