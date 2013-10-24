@@ -2,9 +2,9 @@
 
 1. [Coders Mindset](../week-1/learning-objectives/coders-mindset.md)
 1. [Javascript the Language](learning-objectives/javascript-the-language.md)
-1. [Debugging Javascript](learning-objectives/debugging-javascript.md)
 1. [Testing JavaScript](learning-objectives/testing-javascript.md)
-1. Javascript for Web Applications
+1. [Debugging Javascript](learning-objectives/debugging-javascript.md)
+1. [Javascript for Web Applications](learning-objectives/javascript-for-web-applications.md)
 
 ## Self Evaluation Card
 
