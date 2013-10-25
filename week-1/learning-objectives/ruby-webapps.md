@@ -32,7 +32,7 @@ Below is a set of expected capabilities:
 1. I've written a program that uses
    [Socket](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html)^
    to communicate between two computers on a local network
-1. I use some restful routes in my application
+1. I use some [restful routes](http://guides.rubyonrails.org/routing.html) in my application
 
 ## :+1: :+1: :+1:
 1. I've deployed a rack compliant app to a hosting service other than heroku

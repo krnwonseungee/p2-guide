@@ -62,7 +62,7 @@
 ####Tuesday
 * 9:00 EI
 * 9:30 - 11:30 Pair on [Orange Trees]((../../../challenge-orange-trees)).
-* 11:30 - 12:30 Lecture
+* 11:30 - 12:30 Lecture on AJAX
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 7:00 : Journal.
 * 3:00 - 7:00 Group Project
@@ -96,6 +96,9 @@
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
 
+#### Weekend
+* Do [Prep for Week 6](week-3.md#prep).
+
 ### Week 6: [Major Learning Objectives for this week](week-3/learning-objectives.md)
 
 ####Monday:
@@ -109,35 +112,37 @@
 
 ####Tuesday
 * 9:00 EI
-* 9:30 - 11:30 Pair on Challenges.
+* 9:30 - 11:30 Pair on [Faker-Lite](week-3/challenges/faker-lite.md)
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 7:00 : Journal.
 * 3:00 - 7:00 Group Project
+* 7:00 : Journal.
+* 7:15 - Late: Optimize your Learning
 
-####Wednesday
+#### Wednesday
 * 9:00 EI
 * 9:30 - 11:30 Pair on Challenges.
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 7:00 : Journal.
 * 3:00 - 7:00 Group Project
+* 7:00 : Journal.
+* 7:00 - Late: Optimize Your Learning
 
-####Thursday
+#### Thursday
 * 9:00 EI
-* 9:30 - 11:30 Pair on Challenges / ASSESSMENT
+* 9:30 - 11:30 [Opt in Assessment](assessment.md) / Solo Day
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 7:00 : Journal.
 * 3:00 - 7:00 Group Project
+* 7:00 : Journal.
+* 7:15 - Late: Optimize your Learning
 
 ####Friday
-* 9:00 Group Checkins
-* 9:30 - 11:30 Pair on Challenges.
-* 11:30 - 12:30 Lecture
-* 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 3:00 GRADUATION!!
-* 4:00 Retrospective
-* 3:00 - 7:00 Group Projects
-* 7:00 : Journal.
-* 7:30 - LATE :  Optimize your learning
+* 9:00: Group Checkins
+* 9:30 - 10:30:  [Distributed Retro](https://docs.google.com/a/devbootcamp.com/document/d/1W4TOvjJJQp9ZOEz_oHuwRShI7vWauOiDp12jGlioZjM/edit)
+* 10:30 - 4:30: Group Projects
+* 4:30: GRADUATION!!
+* 5:00 - 5:45: Demos!
+* 5:45 Check-out
+* 6:00: Journal
+* 6:30 - LATE:  Get Crunk

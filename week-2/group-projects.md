@@ -5,7 +5,7 @@
 
 ## Projects To Choose From
 
-1. TypeRacer Clone!
+1. [TypeRacer Clone!](group-projects/typeracer.md)
 1. [Doodle Chat](group-projects/doodle-chat.md)
 
 
