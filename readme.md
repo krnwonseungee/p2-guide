@@ -16,9 +16,9 @@ Phase 2 is broken into three weeks with the following themes:
 * Advanced Web Application Techniques
 
 Each day looks pretty much the same:
-* Mornings pair on a [challenge](#pair-challenges)
-* Afternoons teams work on [projects](#group-projects)
+* During the day you will pair on a [challenge](#pair-challenges) - with Wednesday being Solo Optional days
 * Evenings you [optimize your learning](#optimizing-your-learning)
+* Fridays and weekends you will work on team [projects](#group-projects) and continue to [optimize your learning](#optimizing-your-learning)
 
 For more information, peruse the [week by week
 breakdown](#week-by-week-breakdown), the [day in the
@@ -27,20 +27,20 @@ life](#a-day-in-the-life), and [what we work on](#what-do-we-work-on).
 ## Week By Week Breakdown
 
 ### [Week 1](week-1.md) - Testing, Simple Web Applications, and Github
-In week 1, we introduce rspec, sinatra, ActiveRecord, Github, and Heroku. Your
+In week 1, we introduce rspec, sinatra, ActiveRecord, and HTML, CSS, and Heroku. Your
 primary objective is to feel confident that you can create simple web
 applications on a team and on your own, test them, and get them hosted on the
 Internet for your friends and loved ones to see.
 
 ### [Week 2](week-2.md) - Enhancing Web Applications With JavaScript
-In week 2 we add JavaScript, the best programming language ever, as a way to
+In week 2 we add JavaScript,  as a way to
 enhance your web applications. By the end of this week you should be capable of
-creating web applications that leverage JavaScript to create rich interactions.
+creating web applications that leverage JavaScript to create rich interactions. You will also have a solid introduction to JavaScript the language.
 
 ### [Week 3](week-3.md) - Non-trivial Web Applications
 Week 3 ties it all together. Now that you're capable of creating rich web
 applications, you must push your abilities to their limit as you discover how to
-use AJAX, background jobs, OAuth, and other APIs.
+use background jobs, OAuth, and other APIs.
 
 ## A Day In The Life
 
@@ -53,30 +53,20 @@ After search inside yourself, boots:
 1. Work through the [pair challenge](#pair-challenges).
 2. Prepare their afternoon [lightning talk](#lightning-talks).
 
-Mornings may include an optional lecture on a specific topic.
+Mornings will often include an optional lecture on a specific topic.
 
 ### Afternoons
-Monday - Friday at 2 PM we meet in the cave for [lightning
-talks](#lightning-talks).
+Monday - Friday at 2 PM we meet in the cave for [lightning talks](#lightning-talks) or techer lead lectures on an topic of your choice.
 
-After lightning talks we have team standup. Each team answers the following
-questions:
-
-1. What did your team build yesterday?
-2. What are you planning to build today?
-3. What is slowing you down?
-
-After standup, teams work on [group projects](#group-projects). Teams wind down
-their work on projects at 6PM and must stop work by 7PM.
 
 ### Evenings
-We have another standup at 5:30. Each boot answers the following questions:
+We have sometimes end the day with a 5:30 standup. Each boot answers the following questions:
 
 1. What did you wind up doing yesterday evening?
 2. What are you planning to do this evening?
 3. What "Aha!" moments did you have in the last 24 hours?
 
-After standup, you should finish your group project work for the day and begin
+After standup, you should finish your pair work for the day and begin
 [optimizing your learning.](#optimizing-your-learning).
 
 ## What Do We Work On?
@@ -86,10 +76,9 @@ Pair challenges are handed out every morning, and are intended to give an
 isolated look at at the technical topics we'll be covering.
 
 ### Group Projects
-Group projects are only to be worked on until 6~7pm. You will not 'finish' your
+Group projects are a great way to bring together everything you've learned from the week and learn to work on a team.   You will not 'finish' your
 group project. There is always more to do, more enhancements to be made, more
-features to be added, and more bugs to fix. This is why there is a 7PM hard
-stop.
+features to be added, and more bugs to fix. But you will create something to be proud of and to learn from. 
 
 
 ### Emotional Intelligence
