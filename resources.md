@@ -1,3 +1,28 @@
+##Useful Links:
+
+### ActiveRecord
+* [3.2.x Documentation (default version on the site is 4.x)](http://guides.rubyonrails.org/v3.2.13/)
+* Ever wondered what you're getting by having your models inherit from ActiveRecord::Base? [Take a look.](http://rubydoc.info/gems/activerecord/3.2.13/ActiveRecord/Base)
+
+### CSS: 
+* [List of Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
+### Git
+* [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [Git Merge Conflicts](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line)
+* [Git Immersion](http://gitimmersion.com/)
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Git Flow -thanks Lloyd](https://github.com/netelder/tictactoe/blob/master/git_procedure.txt)
+
+### Ruby Gems
+* [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2) 
+
+### More to come ....
+* [Resource Doc from previous cohorts.]
+(https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AuNSBNuN519HdFVTOHRBRk9GWDJObkQ5MmljTE1kZ2c#gid=0)
+
+* [Creating the basic User model: a strollthrough](https://github.com/labe/sinatra_user_accounts)
+
+
 # Resources
 
 ## Week 1
