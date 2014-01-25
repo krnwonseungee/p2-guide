@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ##Schedule of a Day
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Daily Retrospective, Presentation, Choose Afternoon Lecture  (mandatory attend)
@@ -356,4 +354,4 @@
 * 5:45 Check-out
 * 6:00: Journal
 * 6:30 - LATE:  Get Crunk
->>>>>>> format
+
