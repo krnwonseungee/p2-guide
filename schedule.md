@@ -19,9 +19,8 @@
 * 3:00-6:00 : Pair on Challenges
   * [Deaf Sinatra 1: Synchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-1-synchronous-forms-challenge)
   * [Anagram Server 1: The Basics](https://github.com/sea-lions-2014/anagram-server-1-the-basics-challenge)
-  * STRETCH [Anagram Server 2: Ludicrous Speed]()
-  * Check [Sinatra Todos](../../../sinatra-todos)
-  * Check [thing-o]()
+  * STRETCH [Anagram Server 2: Ludicrous Speed](https://github.com/sea-lions-2014/anagram-server-2-ludicrous-speed-challenge)
+  * STRETCH [thing-o : Release 0](https://github.com/sea-lions-2014/thing-o-challenge)
 
 ####Tuesday - Solo Optional Day
 [Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
@@ -31,6 +30,7 @@
 * 9:10 Daily Overview Lecture (optional)
 * 9:30 - 12:00 Pair on challenges 
  * [Sinatra Sandbox]()
+ * Check [Sinatra Todos](../../../sinatra-todos)
  * [Craigslist, Jr]()
  * [Blog 1: Anonymous Blog]()
 * 12:00 - 12:30 EE Dive Deep (mandatory)
