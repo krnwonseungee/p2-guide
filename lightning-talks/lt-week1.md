@@ -1,4 +1,3 @@
-# Week 1 Lightning Talks
 Lightning talks are 4~5 minute talks covering a topic or answering a question.
 Because you only have 4 minutes, you must prioritize what is the most important
 part of a topic.
@@ -11,7 +10,11 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 3. Put your name in front of the talk title.
 4. Submit a pull request!
 
+
+# Week 1 Lightning Talks
+
 ## Tuesday
+* name - talk title
 
 ## Wednesday
 
@@ -42,7 +45,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is rack anyway?
 * What does 'semantic markup' mean?
 * When do I use test doubles?
-* How do I deploy a sinatra app to heroku?
+* How do I deploy a sinatra app to Heroku?
 * How can I use $LOAD\_PATH to avoid using require\_relative?
 * What are environment variables?
 * What is a code kata?

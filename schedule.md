@@ -9,89 +9,10 @@
 * 5:50 End of day stand up
 * 6:00 - really late at night ... finish challenges, work on portfolio, optimize your learning.
 
-##Schedule of the Phase
-### Week 4: [Major Learning Objectives for this week](https://gist.github.com/dbc-challenges/59c97467618ae77c320c)
 
-####Monday
+### Week 5: 
 
-* AM - Welcome new Phase to DBC - group teach in. 
-* 2:00 LECTURE : Web Applications Overview
-* 3:00-6:00 : Pair on Challenges
-  * [Deaf Sinatra 1: Synchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-1-synchronous-forms-challenge)
-  * [Anagram Server 1: The Basics](https://github.com/sea-lions-2014/anagram-server-1-the-basics-challenge)
-  * STRETCH [Anagram Server 2: Ludicrous Speed](https://github.com/sea-lions-2014/anagram-server-2-ludicrous-speed-challenge)
-  * STRETCH [thing-o : Release 0](https://github.com/sea-lions-2014/thing-o-challenge)
-
-####Tuesday - Solo Optional Day
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
-
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture (optional)
-* 9:30 - 12:00 Pair on challenges 
- * [Sinatra Sandbox]()
- * Check [Sinatra Todos](../../../sinatra-todos)
- * [Craigslist, Jr]()
- * [Blog 1: Anonymous Blog]()
-* 12:00 - 12:30 EE Dive Deep (mandatory)
-* 12:30 - 2:00 Lunch 
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Pair on challenges
-
-####Wednesday
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture (optional)
-* 9:30 - 12:30 Pair on challenges.
- * [Sinatra URL Shortener]()
- * [Dummy Users]()
- * [Sinatra URL Shortener: With Users]()
- * STRETCH[Blog 2: Multi - Author ]()
- * Check [Active Record Resource Library](../../../activerecord-resource-library)
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Pair on Challenges
-
-####Thursday - Solo Optional Day
-
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
-
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture (optional)
-* 9:30 - 12:30 Pair on challenges. 
- * [Layout Drill: Left-hand Navigation]()
- * [Layout Drill: Right-hand Navigation]()
- * [Layout Drill: Top Navigation]()
- * [Layout Drill: Fixed Navigation]()
- * [Layout Drill: Pagination Navigation]()
- * [Layout Drill: Proper Typesetting]()
- * [Layout Drill: Sticky Side Menu]()
- * STRETCH[Blog 3: Pagination]()
- * Check [Code Retreat]()
- * Check [HTML and CSS](../../../challenge-html-and-css)
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Pair on challenges. 
-* 6:00 - Possible speaker check the calendar at [DBC Speakers]()
-
-####Friday
-
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00 Small group check-ins
-* 10:00 Brief lecture on Agile, Trello, Team strategies. 
-* 10:00 Group Project in Teams. 
- * [Web Flash Cards 1: Mulitple Decks]()
- * STRETCH [ Web Flash Cards 2: AJAX Guessing]()
-* 5:00 Present your MVP (5 minutes).
-
-####Weekend
-
-* Fill out the [learning objectives survey]() 
-* Work on group projects - presentation on Monday
-* Try to have 4 of the Portfolio Challenges finished
-* Catch up on Week 4 Challenges that you didn't finish.
-* Do [Prep for Week 5]().
-
-### Week 5: [Major Learning Objectives for Week 5](https://gist.github.com/dbc-challenges/858e30d23c2bef9508f0)
+[Learning Competencies](learning-competencies/week-5-lc.md)
 
 ####Monday
 
@@ -177,6 +98,8 @@
 
 ### Week 6: 
 
+[Learning Competencies](learning-competencies/week-6-lc.md)
+
 ####Monday: 
 
 * 8:45 - 9:00 Meet with accountability buddies
@@ -226,8 +149,7 @@
 * 9:40 Daily Overview Lecture (optional)
 * 10:00 - 12:30 Solo on challenges. 
  * [Testing Challenge]()
- * [Heroku 1: Getting Started]()
- * [Heroku 2: Apps Ahoy]()
+ 
  * [Tending the Zoo \(OOJS/TDD\)]()
  Check * 9:30 - 11:30 [Opt in Assessment](assessment.md) 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks

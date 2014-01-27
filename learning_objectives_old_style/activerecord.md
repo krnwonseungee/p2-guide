@@ -1,11 +1,11 @@
-# ActiveRecord
+# Active Record
 
-ActiveRecord is an [Object Relationship
+Active Record is an [Object Relationship
 Mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 gem loosely based on the [Active
 Record](https://en.wikipedia.org/wiki/Active_Record) design pattern.
 
-You'll be using ActiveRecord throughout your time here; so know it well.
+You'll be using Active Record throughout your time here; so know it well.
 
 ## :+1:
 1. I've created migrations and models
