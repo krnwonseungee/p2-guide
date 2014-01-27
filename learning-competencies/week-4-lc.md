@@ -47,6 +47,7 @@ Identify limitations of model approximation of a problem
 * Communicate state changes via CSS (ex: error state vs correct state) 
 * Change basic CSS appearance: colors, widths, padding, margin 
 * style CSS inputs 
+* position elements using fixed positioning
 
 ###HTML Forms
 
