@@ -1,37 +1,16 @@
-##Useful Links:
-
-### ActiveRecord
-* [3.2.x Documentation (default version on the site is 4.x)](http://guides.rubyonrails.org/v3.2.13/)
-* Ever wondered what you're getting by having your models inherit from ActiveRecord::Base? [Take a look.](http://rubydoc.info/gems/activerecord/3.2.13/ActiveRecord/Base)
-
-### CSS: 
-* [List of Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
-### Git
-* [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-* [Git Merge Conflicts](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line)
-* [Git Immersion](http://gitimmersion.com/)
-* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-* [Git Flow -thanks Lloyd](https://github.com/netelder/tictactoe/blob/master/git_procedure.txt)
-
-### Ruby Gems
-* [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2) 
-
-### More to come ....
-* [Resource Doc from previous cohorts.]
-(https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AuNSBNuN519HdFVTOHRBRk9GWDJObkQ5MmljTE1kZ2c#gid=0)
-
-* [Creating the basic User model: a strollthrough](https://github.com/labe/sinatra_user_accounts)
-
-
 # Resources
 
+##Table Of Contents
+
 ## Week 1
+
 * [Ruby Web Apps and Sinatra](#ruby-web-apps-and-sinatra)
 * [Testing](#testing)
 * [Active Record](#active-record)
 * [HTML and CSS](#HTML-and-CSS)
 
 ## Week 2
+
 * [JavaScript](#javascript)
 * [JavaScript Testing - Jasmine](#jasmine)
 * [JavaScript Frameworks and Libraries](#javascript-frameworks-and-libraries)
@@ -40,9 +19,15 @@
 
 ## Week 3
 
-## Soft Skills
-1. [Code Review](http://blog.codeclimate.com/blog/2013/10/09/unexpected-outcomes-of-code-reviews/?utm_source=Code+Climate&utm_campaign=ef73e7adfa-newsletter-2013-10&utm_medium=email&utm_term=0_672a7f5529-ef73e7adfa-318096897), from Zee
-1. [Coding Interview Tips](http://www.interviewcake.com/tips-and-tricks), from Paul
+* [API](#API)
+
+## All Weeks
+
+* [EE](#engineering-empathy)
+* [Soft Skills](#soft-skills)
+* [More Tutorials](#tutorials)
+
+
 
 ### Ruby Web Apps
 ####Sinatra
@@ -50,6 +35,7 @@
 1. [Sinatra](http://www.sinatrarb.com), :level_1, :documentation
 1. [Designing With Class: Sinatra + PostgreSQL + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/), :level_1, :tutorial
 1. [Deploying Sinatra Apps to Heroku](http://cloud.dzone.com/articles/deploying-sinatra-app-heroku-0),:level_2, :tutorial
+1. [Creating the basic User model: a strollthrough](https://github.com/labe/sinatra_user_accounts)
 1. [ERB](http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html), :level_1, :documentation
 1. [request/response cycle](http://devhub.fm/http-requestresponse-basics/), :level_1, :tutorial
 1. [URI](https://en.wikipedia.org/wiki/URI_scheme#Examples), :level_1, :tutorial
@@ -68,6 +54,9 @@
 1. [$LOAD_PATH](http://selfless-singleton.rickwinfrey.com/2012/12/20/-rubys-load-path/), :documentation, :level_2
 1. [Gemfiles](http://bundler.io/v1.3/gemfile.html) , :level_1
 1. [Managing Secret Data in Open Source Projects](https://gist.github.com/ndelage/7026164)
+1. [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2) 
+
+
 
 #### Heroku
 1. [Heroku and Ruby Version](https://devcenter.heroku.com/articles/getting-started-with-ruby#specify-ruby-version-and-declare-dependencies-with-a-gemfile), :level_2
@@ -88,8 +77,6 @@
 1. [RSpec Rake Tasks](https://www.relishapp.com/rspec/rspec-core/docs/command-line/rake-task), :level_2, :documentation
 1.  [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers), :level_2, :documentation
 
-
-
 ### Active Record
 1. [Active Record Migrations](http://api.rubyonrails.org/classes/ActiveRecord/Migration.html), :level_1, :documentation
 1. [Active Record Relationss](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html), :level_1, :documentation
@@ -97,6 +84,8 @@
 1.  [Active Record Query Interface](http://guides.rubyonrails.org/active_record_querying.html), :level_1, :documentation
 1. [sinatra-activrecord gem](https://github.com/janko-m/sinatra-activerecord), :level_1, :documentation
 [Active Record Scopes](http://guides.rubyonrails.org/active_record_querying.html#scopes), :level_3, :documentation
+1. [3.2.x Documentation (default version on the site is 4.x)](http://guides.rubyonrails.org/v3.2.13/)
+1. Ever wondered what you're getting by having your models inherit from ActiveRecord::Base? [Take a look.](http://rubydoc.info/gems/activerecord/3.2.13/ActiveRecord/Base)
 
 ### HTML and CSS
 1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website), :level_1, :tutorial
@@ -107,6 +96,16 @@
 1. [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html), :level_1
 1. [CSS Tricks]([pseudo-selectors](http://css-tricks.com), :level_2, :tutorial
 1. [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial
+### CSS: 
+1. [List of Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
+
+### Git
+* [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [Git Merge Conflicts](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line)
+* [Git Immersion](http://gitimmersion.com/)
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Git Flow -thanks Lloyd](https://github.com/netelder/tictactoe/blob/master/git_procedure.txt)
+
 
 ### JavaScript
 
@@ -139,3 +138,36 @@
 * So you want to be a front end engineer? -
   [Slides](https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer)
   [Video](http://www.youtube.com/watch?v=Lsg84NtJbmI)
+
+## API
+* Check back soon ...
+
+
+##Engineering Empathy
+* [SIY video overview](http://www.youtube.com/watch?v=r8fcqrNO7so)
+* [SIY course videos](http://www.siyli.org/take-the-course/siy-curriculum/)
+* [SIY in the news](http://www.huffingtonpost.com/2013/09/29/googles-jolly-good-fellow_n_3975944.html)
+
+## Soft Skills
+1. [Code Review](http://blog.codeclimate.com/blog/2013/10/09/unexpected-outcomes-of-code-reviews/?utm_source=Code+Climate&utm_campaign=ef73e7adfa-newsletter-2013-10&utm_medium=email&utm_term=0_672a7f5529-ef73e7adfa-318096897), from Zee
+1. [Coding Interview Tips](http://www.interviewcake.com/tips-and-tricks), from Paul
+
+
+
+## Tutorials
+
+1. [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
+1. [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/)
+1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website)
+1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
+1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/)
+1. [Designing With Class: Sinatra + PostgreSQL + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
+
+### Level 2
+
+1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm)
+1. [Deploying Sinatra Apps to Heroku](http://cloud.dzone.com/articles/deploying-sinatra-app-heroku-0)
+1. [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
+1. [exercism.io JavaScript](exercism.io/setup/javascript)
+1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
+
