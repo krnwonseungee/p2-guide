@@ -56,8 +56,6 @@
 1. [Managing Secret Data in Open Source Projects](https://gist.github.com/ndelage/7026164)
 1. [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2) 
 
-
-
 #### Heroku
 1. [Heroku and Ruby Version](https://devcenter.heroku.com/articles/getting-started-with-ruby#specify-ruby-version-and-declare-dependencies-with-a-gemfile), :level_2
 
@@ -80,12 +78,12 @@
 ### Active Record
 1. [Active Record Migrations](http://api.rubyonrails.org/classes/ActiveRecord/Migration.html), :level_1, :documentation
 1. [Active Record Relationss](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html), :level_1, :documentation
-1.[Active Record Validations](http://guides.rubyonrails.org/active_record_validations.html), :level_1, :documentation
-1.  [Active Record Query Interface](http://guides.rubyonrails.org/active_record_querying.html), :level_1, :documentation
+1. [Active Record Validations](http://guides.rubyonrails.org/active_record_validations.html), :level_1, :documentation
+1. [Active Record Query Interface](http://guides.rubyonrails.org/active_record_querying.html), :level_1, :documentation
 1. [sinatra-activrecord gem](https://github.com/janko-m/sinatra-activerecord), :level_1, :documentation
-[Active Record Scopes](http://guides.rubyonrails.org/active_record_querying.html#scopes), :level_3, :documentation
+1. [Active Record Scopes](http://guides.rubyonrails.org/active_record_querying.html#scopes), :level_3, :documentation
 1. [3.2.x Documentation (default version on the site is 4.x)](http://guides.rubyonrails.org/v3.2.13/)
-1. Ever wondered what you're getting by having your models inherit from ActiveRecord::Base? [Take a look.](http://rubydoc.info/gems/activerecord/3.2.13/ActiveRecord/Base)
+1. [ActiveRecord::Base](http://rubydoc.info/gems/activerecord/3.2.13/ActiveRecord/Base)
 
 ### HTML and CSS
 1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website), :level_1, :tutorial
@@ -95,9 +93,8 @@
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/),:level_2, :tutorial
 1. [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html), :level_1
 1. [CSS Tricks]([pseudo-selectors](http://css-tricks.com), :level_2, :tutorial
-1. [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial
-### CSS: 
-1. [List of Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
+1. [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial 
+1. [List of CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 
 ### Git
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
