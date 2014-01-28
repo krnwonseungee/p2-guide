@@ -26,14 +26,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 * name 1 - talk title
-* name 2 - talk title
+* Darcey -  What is the params hash?
 * Spencer - What is the difference between GET and POST?
 * Patrick - How can I use $LOAD\_PATH to avoid using require\_relative?
 * Christina - Introspection in Ruby
 * name 6 - talk title
 
 ## Thursday
-* Matt - How can I use git branches to make spiking easier?
+* name 1 - talk title
 * name 2 - talk title
 * name 3 - talk title
 * name 4 - talk title
@@ -49,10 +49,10 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What are the 4 rules of simple design?
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good commit?
-* What is the params hash?
 * What is the request response cycle?
 * What is the different ways to use the css display property?
 * What is refactoring?
+* How can I use git branches to make spiking easier?
 * What makes a good pull request?
 * What is red green refactor?
 *
