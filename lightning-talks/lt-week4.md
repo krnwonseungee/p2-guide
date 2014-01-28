@@ -27,7 +27,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 * name 1 - talk title
 * name 2 - talk title
-* name 3 - talk title
+* Spencer - What is the difference between GET and POST?
 * name 4 - talk title
 * name 5 - talk title
 * name 6 - talk title
@@ -56,7 +56,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
 * What is red green refactor?
-* What is the difference between GET and POST?
+*
 * How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
