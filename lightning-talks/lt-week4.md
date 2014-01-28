@@ -29,7 +29,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * name 2 - talk title
 * Spencer - What is the difference between GET and POST?
 * name 4 - talk title
-* name 5 - talk title
+* Christina - Introspection in Ruby
 * name 6 - talk title
 
 ## Thursday
