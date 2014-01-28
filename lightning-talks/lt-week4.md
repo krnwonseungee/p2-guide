@@ -28,7 +28,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * name 1 - talk title
 * name 2 - talk title
 * Spencer - What is the difference between GET and POST?
-* name 4 - talk title
+* Patrick - How can I use $LOAD\_PATH to avoid using require\_relative?
 * Christina - Introspection in Ruby
 * name 6 - talk title
 
@@ -67,7 +67,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What does 'semantic markup' mean?
 * When do I use test doubles?
 * How do I deploy a sinatra app to Heroku?
-* How can I use $LOAD\_PATH to avoid using require\_relative?
 * What are environment variables?
 * What is a code kata?
 * How can I use `let` and `context` to dry up my tests?
