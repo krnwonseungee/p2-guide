@@ -33,7 +33,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * name 6 - talk title
 
 ## Thursday
-* name 1 - talk title
+* Alex - What is rack anyway?
 * name 2 - talk title
 * name 3 - talk title
 * name 4 - talk title
