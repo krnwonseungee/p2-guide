@@ -4,21 +4,42 @@ part of a topic.
 
 Everyone will do a lightning talk every week. To volunteer for a talk:
 
-1. Create a branch named "your-name-volunteers-for--talk-x-on-day-y"
-2. Move the talk from the [available talks](#availabl-talks) to the appropriate
+** INSTRUCTIONS: READ CAREFULLY**
+1. Check if there are any open pull request to the guide for lightning talks.  Merge these into master(on github).
+2. Clone a copy of the phase-1-guide repo to your local machine (if you have previously cloned then pull the latest version of master).
+3. Create a branch named "your-name-volunteers-for--talk-x-on-day-y"
+4. Move the talk from the [available talks](#availabl-talks) to the appropriate
    day.
-3. Put your name in front of the talk title.
-4. Submit a pull request!
+5. Put your name in front of the talk title.
+6. Submit a pull request!  (and get someone else to merge it)
 
 
 # Week 1 Lightning Talks
 
 ## Tuesday
-* name - talk title
+* name 1 - talk title
+* name 2 - talk title
+* name 3 - talk title
+* name 4 - talk title
+* name 5 - talk title
+* name 6 - talk title
 
 ## Wednesday
+* name 1 - talk title
+* name 2 - talk title
+* name 3 - talk title
+* name 4 - talk title
+* name 5 - talk title
+* name 6 - talk title
 
 ## Thursday
+* name 1 - talk title
+* name 2 - talk title
+* name 3 - talk title
+* name 4 - talk title
+* name 5 - talk title
+* name 6 - talk title
+
 
 ## Friday
 

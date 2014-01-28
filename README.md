@@ -4,7 +4,7 @@
 
 ##Schedule - Week 4: 
 
-###[Learning Competencies](learning-competencies/week-4-lc.md)
+###[Learning Competencies](learning-competencies/week-4-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week4.md)
 
 ####Monday
 

@@ -23,3 +23,4 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Friday
 
 ## Available Talks
+.. check back soon ...
