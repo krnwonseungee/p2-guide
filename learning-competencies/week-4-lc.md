@@ -48,18 +48,23 @@ Identify limitations of model approximation of a problem
 * Change basic CSS appearance: colors, widths, padding, margin 
 * style CSS inputs 
 * position elements using fixed positioning
+* Implement fonts and typographic styling in CSS
+* Use CSS psuedo-classes to create dynamic behavior (like :hover)
 
-###HTML Forms
 
-* use URL parameters to pass data into a server application
-* use form controls to pass data into a server application
-* use ruby flow control to change server response
-* use redirect
+### HTML
+
+* Use the DOM to access and modify HTML elements
 
 ### Request / Response Cycle
 
 * map the flow of data through a web application
 * describe where rendering occurs in the stack request cycle
+* use URL parameters to pass data into a server application
+* use form controls to pass data into a server application
+* use ruby flow control to change server response
+* use redirect
+
 
 ### Web Programming
 
@@ -67,6 +72,8 @@ Identify limitations of model approximation of a problem
 * Implement secure authentication in a web application
 * Implement a user authorization scheme to limit unauthorized access to specific pages in a web application 
 * Deploy a web application on a hosting server (like Heroku)
+* Implement a new feature and make changes across the MVC architecture to support the feature
+* Incorporate third-party gems into a web application using bundler
 
 ### HTTP
 
