@@ -19,7 +19,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Tuesday
 * Kevin - Sinatra Partial Views
 * Eli - CSS Display Property
-* name 3 - talk title
+* John - responsive web design
 * name 4 - talk title
 * name 5 - talk title
 * name 6 - talk title
