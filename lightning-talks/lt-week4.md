@@ -55,14 +55,12 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
 * What is red green refactor?
-*
 * How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the difference between abstraction and indirection?
 * What is the different ways to use the css position property?
 * What makes a good test?
-* What is rack anyway?
 * What does 'semantic markup' mean?
 * When do I use test doubles?
 * How do I deploy a sinatra app to Heroku?
