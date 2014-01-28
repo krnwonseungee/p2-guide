@@ -18,7 +18,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 * Kevin - Sinatra Partial Views
-* name 2 - talk title
+* Eli - CSS Display Property
 * name 3 - talk title
 * name 4 - talk title
 * name 5 - talk title
@@ -50,7 +50,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good commit?
 * What is the request response cycle?
-* What is the different ways to use the css display property?
 * What is refactoring?
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
