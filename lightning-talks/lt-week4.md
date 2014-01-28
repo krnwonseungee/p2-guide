@@ -33,7 +33,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * name 6 - talk title
 
 ## Thursday
-* name 1 - talk title
+* Matt - How can I use git branches to make spiking easier?
 * name 2 - talk title
 * name 3 - talk title
 * name 4 - talk title
@@ -53,7 +53,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is the request response cycle?
 * What is the different ways to use the css display property?
 * What is refactoring?
-* How can I use git branches to make spiking easier?
 * What makes a good pull request?
 * What is red green refactor?
 *
