@@ -17,7 +17,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 # Week 1 Lightning Talks
 
 ## Tuesday
-* name 1 - talk title
+* Kevin - Sinatra Partial Views
 * name 2 - talk title
 * name 3 - talk title
 * name 4 - talk title
