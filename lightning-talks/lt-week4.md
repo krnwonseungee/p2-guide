@@ -17,7 +17,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 # Week 1 Lightning Talks
 
 ## Tuesday
-* Kevin - Sinatra Partial Views
+* Kevin - Sinatra Partial Views (https://gist.github.com/kyeh/1f1ed754aee4a71de503)
 * Eli - CSS Display Property
 * Emmanuel - Database indexing (https://gist.github.com/mechamanny/4ef213af5b7e09c1bff2)
 * John - responsive web design
@@ -65,3 +65,4 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * How do I deploy a sinatra app to Heroku?
 * What is a code kata?
 * How can I use `let` and `context` to dry up my tests?
+* How can I use the sessions hash in Sinatra?
