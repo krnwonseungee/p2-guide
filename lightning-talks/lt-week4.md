@@ -63,6 +63,5 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What does 'semantic markup' mean?
 * When do I use test doubles?
 * How do I deploy a sinatra app to Heroku?
-* What is a code kata?
 * How can I use `let` and `context` to dry up my tests?
 * How can I use the sessions hash in Sinatra?
