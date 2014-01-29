@@ -35,7 +35,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Thursday
 * Alex - What is rack anyway?
 * Elliot - What is a protocol
-* name 3 - talk title
+* David - What is a code kata?
 * name 4 - talk title
 * name 5 - talk title
 * name 6 - talk title
