@@ -36,7 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Alex - What is rack anyway?
 * Elliot - What is a protocol
 * David - What is a code kata?
-* name 4 - talk title
+* Henry - red green refactor
 * name 5 - talk title
 * name 6 - talk title
 
@@ -45,7 +45,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Available Talks
 * What is the  arrange act assert pattern?
-* What is a protocol?
 * What are the 4 rules of simple design?
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good commit?
@@ -53,7 +52,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is refactoring?
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
-* What is red green refactor?
 * How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
