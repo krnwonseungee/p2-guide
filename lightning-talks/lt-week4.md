@@ -20,7 +20,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Kevin - Sinatra Partial Views
 * Eli - CSS Display Property
 * Emmanuel - Database indexing (https://gist.github.com/mechamanny/4ef213af5b7e09c1bff2)
-* name 4 - talk title
+* John - responsive web design
 * name 5 - talk title
 * name 6 - talk title
 
