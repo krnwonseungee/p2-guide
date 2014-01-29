@@ -1,0 +1,19 @@
+the params hash is a rack object that is accesible through Sinatra's request object. 
+It holds info posted by html forms in the structure of a hash, which the input name attribute being the key 
+and the user submitted info is the hash.
+
+You can also nest an array of hashes as the value to your key value pair of params. 
+adding a key value pair on that same layer will add it into the same hash
+
+
+Realize that because the params hash stores form data, the user’s entry should always be the value of a key-value pair.
+If you think of params hash as having a pointer to what will be returned, then everytime you add an extra layer, the data type of the extra layer – be it array or hash, will be the return of the formerly-lowest layer.
+In other words, <input name="game[][name][]" /> sets the value of the :name=>value pair to an array, and although this wouldn’t break your app, it doesn’t make that much sense because there would be no way to track the attributes of a particular object. Every entry would be added to the array, rather than the array containing hash elements.
+Therefore you must end it with a key-value pair like <input name="game[][name][][syllables]" />. Apologies for the quirky example, but here the user would input the number of syllables in the game’s name, of which there are many: such as “ping pong,” “table tennis,” and “pong.”
+By convention, you leave the top-layer of the params hash as being without square brackets, despite the fact that it is a key-value pair inside the params hash.
+
+when in doubt use 
+require 'rack'
+def p(params)
+ Rack::Utils.parse_nested_query(params)
+end
