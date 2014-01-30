@@ -34,7 +34,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 * Alex - What is rack anyway?
-* Elliot - What is a protocol
+* Elliot - How can I use git branches to make spiking easier?
 * David - What is a code kata?
 * Henry - red green refactor
 * Aditya - SASS - https://gist.github.com/amahesh0501/bd659da3b8d1b44c2108
@@ -50,7 +50,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What makes a good commit?
 * What is the request response cycle?
 * What is refactoring?
-* How can I use git branches to make spiking easier?
 * What makes a good pull request?
 * How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
