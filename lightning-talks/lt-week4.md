@@ -38,7 +38,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * David - What is a code kata?
 * Henry - red green refactor
 * Aditya - SASS - https://gist.github.com/amahesh0501/bd659da3b8d1b44c2108
-* name 6 - talk title
+* Andy - Deploying Sinatra apps to heroku
 
 
 ## Friday
@@ -60,6 +60,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What makes a good test?
 * What does 'semantic markup' mean?
 * When do I use test doubles?
-* How do I deploy a sinatra app to Heroku?
+
 * How can I use `let` and `context` to dry up my tests?
 * How can I use the sessions hash in Sinatra?
