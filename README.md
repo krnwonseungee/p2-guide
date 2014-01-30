@@ -9,7 +9,7 @@
 ####Monday
 
 * 9 AM - Welcome new Phase to DBC - group teach in.
-* 2:00 LECTURE : Web Applications Overview
+* 2:00 LECTURE : [Web Applications Overview](http://talks.devbootcamp.com/overview-of-web-applications)
 * 3:00-6:00 : Pair on Challenges
   * [Deaf Sinatra 1: Synchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-1-synchronous-forms-challenge)
   * [Anagram Server 1: The Basics](https://github.com/sea-lions-2014/anagram-server-1-the-basics-challenge)
@@ -31,14 +31,14 @@
 
 <!-- Check [Sinatra Todos](fox-squirrels .. sinatra-todos) -->
 
-* 12:00 - 12:30 EE Dive Deep (mandatory)
+* 12:00 - 12:30 EE Dive Deep : Difficult Discussions
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on challenges
 
 ####Wednesday
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture 
+* 9:10 Daily Overview Lecture CRUD n REST
 * 9:30 - 12:30 Pair on challenges.
  * [Sinatra URL Shortener](https://github.com/sea-lions-2014/sinatra-url-shortener-challenge)
  * [Dummy Users](https://github.com/sea-lions-2014/dummy-users-challenge)
@@ -64,11 +64,9 @@
  * [Layout Drill: Pagination Navigation](https://github.com/sea-lions-2014/layout-drill-pagination-navigation-challenge)
  * [Layout Drill: Proper Typesetting](https://github.com/sea-lions-2014/layout-drill-proper-typesetting-challenge)
  * [Layout Drill: Sticky Side Menu](https://github.com/sea-lions-2014/layout-drill-sticky-side-menu-challenge)
- * STRETCH [Blog 3: Pagination]()
+ * [HTML and CSS](https://github.com/sea-lions-2014/html-and-css-challenge)
+ * STRETCH [Blog 3: Pagination](https://github.com/sea-lions-2014/blog-3-pagination-challenge)
 
-<!-- Check [Code Retreat]()
-Check [HTML and CSS](fox-squirrels .. /challenge-html-and-css)
- -->
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on challenges. 
 * 6:00 - Possible speaker check the calendar at [DBC Speakers]()
