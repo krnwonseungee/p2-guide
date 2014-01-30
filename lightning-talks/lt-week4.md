@@ -37,7 +37,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Elliot - What is a protocol
 * David - What is a code kata?
 * Henry - red green refactor
-* name 5 - talk title
+* Aditya - SASS
 * name 6 - talk title
 
 
