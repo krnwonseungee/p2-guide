@@ -36,7 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Alex - What is rack anyway?
 * Elliot - How can I use git branches to make spiking easier?
 * David - What is a code kata? (https://gist.github.com/dgoodman1224/8720284)
-* Henry - red green refactor
+* Henry - red green refactor - https://github.com/henryh28/red_green.git
 * Aditya - SASS - https://gist.github.com/amahesh0501/bd659da3b8d1b44c2108
 * Andy - Deploying Sinatra apps to heroku - https://gist.github.com/hzla00/8718235
 
