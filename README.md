@@ -78,7 +78,7 @@
 * 10:00 Brief lecture on Agile, Trello, Team strategies. 
 * 10:00 Group Project in Teams. 
  * [Web Flash Cards 1: Multiple Decks]()
- * STRETCH [ Web Flash Cards 2: AJAX Guessing]()
+ 
 * 5:00 Present your MVP (5 minutes).
 
 ####Weekend
