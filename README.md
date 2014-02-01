@@ -85,6 +85,6 @@
 
 * Fill out the [learning objectives survey]() 
 * Work on group projects - presentation on Monday
-* Try to have 4 of the Portfolio Challenges finished
+* Try to have the first 4 [Portfolio Challenges](portfolio_challenges.md) finished
 * Catch up on Week 4 Challenges that you didn't finish.
-* Do [Prep for Week 5]().
+* Do [Prep for Week 5](week-5-prep.md)
