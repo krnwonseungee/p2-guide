@@ -8,13 +8,14 @@ Here is a list of competencies for the week broken down by topic area:
 
 ### TESTING AND DEBUGGING
 
-* Identify where the error is, decipher the error message, and infer the likely source of the error * Create a succinct description of an error that will yield accurate search results 
+* Identify where the error is, decipher the error message, and infer the likely source of the error 
+* Create a succinct description of an error that will yield accurate search results 
 * Use a debugging tool to stop the program during runtime, access variable states, and step through line by line 
 * Test code without attachment
 * Infer the behavior and structure of code variables, methods, and objects accessed from test code 
 * Build test methods with descriptive output and clear indicators of passing tests 
 * Work with testing libraries like Rspec 
-* Work with web testing libraries like Capybara
+* Work with user interaction testing libraries like Capybara
 
 ###MODELING
 
