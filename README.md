@@ -17,7 +17,10 @@
  * [Behavior Drill: Collapsible Side Menu](https://github.com/sea-lions-2014/behavior-drill-collapsible-side-menu-challenge)
  * [Behavior Drill: Style Editor](https://github.com/sea-lions-2014/behavior-drill-style-editor-challenge)
  * [Behavior Drill: Add Comments](https://github.com/sea-lions-2014/behavior-drill-add-comments-challenge)
- * [JavaScript Racer 1: Front-end](https://github.com/sea-lions-2014/javascript-racer-1-front-end-challenge)
+ * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
+ * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
+ * [Thing-o : Release 3,4](https://github.com/sea-lions-2014/thing-o-challenge)
+ 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00-6:00 Pair on Challenges
 
@@ -29,12 +32,11 @@
 * 9:00  EE Training, Choose Afternoon Lecture  
 * 9:10 Daily Overview Lecture (optional)
 * 9:30 - 12:00 Pair on challenges.
- 
- * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
+ * [JavaScript Racer 1: Front-end](https://github.com/sea-lions-2014/javascript-racer-1-front-end-challenge)
  * [JavaScript Racer 2: Back-end](https://github.com/sea-lions-2014/javascript-racer-2-back-end-challenge)
  * [JavaScript Racer 3: Sane JavaScript](https://github.com/sea-lions-2014/javascript-racer-3-sane-javascript-challenge)
  * [Orange Trees](https://github.com/sea-lions-2014/orange-jasmine-challenge)
-<!-- [JavaScript Code Retreat with Try Jasmine]() -->
+
 
 * 12:00 - 12:30 EE Dive Deep
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
@@ -47,12 +49,12 @@
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture (optional)
 * 9:30 - 12:30 Pair on challenges.
- * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
+
  * [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
  * [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
+ * [Dynamic Todos](https://github.com/sea-lions-2014/dynamic-todos-challenge)
  * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
  * [Hacker News Clone (Part 2)](https://github.com/sea-lions-2014/hacker-news-clone-part-2-challenge)
-<!-- [AJAXify Todos](../../../challenge-ajax-todos) -->
 * 2:00 Lecture 
 * 3:00 - 6:00 Pair on Challenges
 
@@ -67,6 +69,7 @@
 * 10:00 - 12:30 Pair on challenges.
  * [Behavior Drill: Form Validation](https://github.com/sea-lions-2014/behavior-drill-form-validation-challenge)
  * [Flickr, Jr.](https://github.com/sea-lions-2014/flickr-jr-challenge)
+ <!-- [JavaScript Code Retreat with Try Jasmine]() -->
  * STRETCH [Behavior Drill: Image Carousel](https://github.com/sea-lions-2014/behavior-drill-image-carousel-challenge)
  * STRETCH [Behavior Drill: Persisting Order]()
  
