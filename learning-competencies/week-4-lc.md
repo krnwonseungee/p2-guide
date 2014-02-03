@@ -21,7 +21,7 @@ Here is a list of competencies for the week broken down by topic area:
 
 * Translate between different modes of modeling a problem (user stories, diagrams, pseudocode, etc.) 
 * Use Pseudocode effectively to model problem-solving
-* Read Pseudocode and translate to code #p1
+* Read Pseudocode and translate to code ''
 Identify limitations of model approximation of a problem
 * Identify the possible states of a program and explain under what conditions it will enter each state
 * Build a wireframe to model application views
