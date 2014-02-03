@@ -23,4 +23,17 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Friday
 
 ## Available Talks
-.. check back soon ...
+
+* jQuery Events
+* jQuery Effects
+* jQuery Selectors
+* jQuery Traversal
+* JavaScript scope
+* JavaScript 'this'
+* JavaScript Object Literals vs Constructor Function Objects
+* JavaScript Prototype
+* Active Record : Single Table Inheritance / Polymorphism
+* JavaScript Form Validation
+
+... more to come check back soon ...
+
