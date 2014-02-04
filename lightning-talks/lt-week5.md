@@ -36,7 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * name 3 - talk title
 * name 4 - talk title
 * name 5 - talk title
-* name 6 - talk title
+* Active Record : includes and "The N+1 Problem"
 
 ## Available Talks
 
@@ -48,7 +48,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * JavaScript Object Literals vs Constructor Function Objects
 * JavaScript Prototype
 * JavaScript Form Validation
-* Active Record : includes and "The N+1 Problem"
 * Dynamic Event binding and `on()`
 * Password hashing with bcrypt gem
 * helper methods
