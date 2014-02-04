@@ -15,7 +15,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 * Kevin - Rspec Testing Retrospective (https://gist.github.com/kyeh/5dfcae0f9aeedbf15bd0)
-* name 2 - talk title
+* Spencer - When to use ';' in Javascript?
 * name 3 - talk title
 * name 4 - talk title
 * name 5 - talk title
@@ -23,7 +23,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Wednesday
-* name 1 - talk title
+* Emily - JavaScript 'this'
 * name 2 - talk title
 * name 3 - talk title
 * name 4 - talk title
@@ -32,11 +32,11 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
-* 
 * Elliot - JavaScript 'this'
+* Darcey-helper methods
 * name 4 - talk title
 * name 5 - talk title
-* name 6 - talk title
+* Christina -Active Record : includes and "The N+1 Problem"
 
 ## Available Talks
 
@@ -45,14 +45,11 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * jQuery Selectors
 * jQuery Traversal
 * JavaScript scope
-* JavaScript 'this'
 * JavaScript Object Literals vs Constructor Function Objects
 * JavaScript Prototype
 * JavaScript Form Validation
-* Active Record : includes and "The N+1 Problem"
 * Dynamic Event binding and `on()`
 * Password hashing with bcrypt gem
-* helper methods 
 * JavaScript selectors (and traversal)
 * Database Migration constraints
 * Partials
