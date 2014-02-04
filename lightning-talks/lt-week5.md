@@ -35,7 +35,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Elliot - JavaScript 'this'
 * Darcey-helper methods
 * Rick - Partials
-* name 5 - talk title
+* Eli- Describe (some) benefits of (Angular/Ember/Backbone)
 * Christina -Active Record : includes and "The N+1 Problem"
 
 ## Available Talks
@@ -52,7 +52,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Database Migration constraints
 * Partials
 * JavaScript templates (underscore, mustache)
-* Describe (some) benefits of (Angular/Ember/Backbone)
 * Testing (shoulda-matchers)
 * Testing (Capybara)
 * Testing (Jasmine)
