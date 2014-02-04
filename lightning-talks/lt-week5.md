@@ -25,7 +25,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 * Emily - JavaScript 'this'
 * David -  jQuery Traversal
-* Alex - JavaScript Scopr
+* Alex - JavaScript Scope
 * name 4 - talk title
 * name 5 - talk title
 * name 6 - talk title
