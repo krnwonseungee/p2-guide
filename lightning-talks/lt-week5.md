@@ -24,8 +24,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 * Emily - JavaScript 'this'
-* name 2 - talk title
-* name 3 - talk title
+* David -  jQuery Traversal
+* Alex - JavaScript Scope
 * name 4 - talk title
 * name 5 - talk title
 * name 6 - talk title
@@ -34,8 +34,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
 * Elliot - JavaScript 'this'
 * Darcey-helper methods
-* name 4 - Describe (some) benefits of (Angular/Ember/Backbone)
-* name 5 - talk title
+* Rick - Partials
+* Eli- Describe (some) benefits of (Angular/Ember/Backbone)
 * Christina -Active Record : includes and "The N+1 Problem"
 
 ## Available Talks
@@ -43,8 +43,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * jQuery Events
 * jQuery Effects
 * jQuery Selectors
-* jQuery Traversal
-* JavaScript scope
 * JavaScript Object Literals vs Constructor Function Objects
 * JavaScript Prototype
 * JavaScript Form Validation
