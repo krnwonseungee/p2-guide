@@ -21,6 +21,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
+
 ## Friday
 
 ## Available Talks
