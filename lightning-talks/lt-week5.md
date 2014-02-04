@@ -20,7 +20,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 
 ## Thursday
-
+* Patrick - Active Record : Single Table Inheritance / Polymorphism
 ## Friday
 
 ## Available Talks
@@ -33,7 +33,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * JavaScript 'this'
 * JavaScript Object Literals vs Constructor Function Objects
 * JavaScript Prototype
-* Active Record : Single Table Inheritance / Polymorphism
 * JavaScript Form Validation
 
 ... more to come check back soon ...
