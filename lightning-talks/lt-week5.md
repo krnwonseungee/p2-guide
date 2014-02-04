@@ -32,7 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
-* name 2 - talk title
+* Elliot - JavaScript 'this'
 * name 3 - talk title
 * name 4 - talk title
 * name 5 - talk title
