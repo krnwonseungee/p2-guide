@@ -27,7 +27,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * David -  jQuery Traversal
 * Alex - JavaScript Scope
 * John - Javascript callbacks
-* name 5 - talk title
+* Matt - jQuery Selectors
 * name 6 - talk title
 
 ## Thursday
@@ -42,7 +42,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * jQuery Events
 * jQuery Effects
-* jQuery Selectors
 * JavaScript Object Literals vs Constructor Function Objects
 * JavaScript Prototype
 * JavaScript Form Validation
