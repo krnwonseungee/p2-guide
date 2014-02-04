@@ -14,6 +14,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 # Week 2 Lightning Talks
 
 ## Tuesday
+* Kevin - Rspec Testing Retrospective (https://gist.github.com/kyeh/5dfcae0f9aeedbf15bd0)
 * name - talk title
 
 ## Wednesday
