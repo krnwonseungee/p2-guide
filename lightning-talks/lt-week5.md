@@ -36,7 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * name 3 - talk title
 * name 4 - talk title
 * name 5 - talk title
-* Active Record : includes and "The N+1 Problem"
+* Chrisina -Active Record : includes and "The N+1 Problem"
 
 ## Available Talks
 
