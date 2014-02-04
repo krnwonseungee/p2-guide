@@ -1,3 +1,5 @@
+// This is a great example from stack overflow: http://stackoverflow.com/a/500459
+
 // a globally-scoped variable
 var a=1;
 
