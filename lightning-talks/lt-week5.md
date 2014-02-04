@@ -32,8 +32,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
-*Darcey-helper methods
-* name 3 - talk title
+* Elliot - JavaScript 'this'
+* Darcey-helper methods
 * name 4 - talk title
 * name 5 - talk title
 * Christina -Active Record : includes and "The N+1 Problem"
