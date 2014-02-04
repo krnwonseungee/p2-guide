@@ -32,7 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
-* name 2 - talk title
+*Darcey-helper methods
 * name 3 - talk title
 * name 4 - talk title
 * name 5 - talk title
@@ -51,7 +51,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Active Record : includes and "The N+1 Problem"
 * Dynamic Event binding and `on()`
 * Password hashing with bcrypt gem
-* helper methods
 * JavaScript selectors (and traversal)
 * Database Migration constraints
 * Partials
