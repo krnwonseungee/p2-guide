@@ -15,7 +15,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 * Kevin - Rspec Testing Retrospective (https://gist.github.com/kyeh/5dfcae0f9aeedbf15bd0)
-* name 2 - talk title
+* Spencer - When to use ';' in Javascript?
 * name 3 - talk title
 * name 4 - talk title
 * name 5 - talk title
