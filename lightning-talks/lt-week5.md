@@ -14,13 +14,29 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 # Week 2 Lightning Talks
 
 ## Tuesday
-* name - talk title
+* name 1 - talk title
+* name 2 - talk title
+* name 3 - talk title
+* name 4 - talk title
+* name 5 - talk title
+* name 6 - talk title
 
 ## Wednesday
+* name 1 - talk title
+* name 2 - talk title
+* name 3 - talk title
+* name 4 - talk title
+* name 5 - talk title
+* name 6 - talk title
 
 ## Thursday
+* name 1 - talk title
+* name 2 - talk title
+* name 3 - talk title
+* name 4 - talk title
+* name 5 - talk title
+* name 6 - talk title
 
-## Friday
 
 ## Available Talks
 
@@ -34,6 +50,19 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * JavaScript Prototype
 * Active Record : Single Table Inheritance / Polymorphism
 * JavaScript Form Validation
+* Active Record : includes and "The N+1 Problem"
+* Dynamic Event binding and `on()`
+* Password hashing with bcrypt gem
+* helper methods 
+* JavaScript selectors (and traversal)
+* Database Migration constraints
+* Partials
+* JavaScript templates (underscore, mustache)
+* Describe (some) benefits of (Angular/Ember/Backbone)
+* Testing (Rspec)
+* Testing (shoulda-matchers)
+* Testing (Capybara)
+* Testing (Jasmine)
 
 ... more to come check back soon ...
 

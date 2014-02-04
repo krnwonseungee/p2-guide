@@ -18,6 +18,7 @@
  * [Behavior Drill: Style Editor](https://github.com/sea-lions-2014/behavior-drill-style-editor-challenge)
  * [Behavior Drill: Add Comments](https://github.com/sea-lions-2014/behavior-drill-add-comments-challenge)
  * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
+ * [Layout Drill: Button Navigation](https://github.com/sea-lions-2014/layout-drill-button-style-navigation-bar-challenge)
  * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
  * [Thing-o : Release 3,4](https://github.com/sea-lions-2014/thing-o-challenge)
  
@@ -30,7 +31,7 @@
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  
-* 9:10 Daily Overview Lecture (optional)
+* 9:10 Daily Overview Lecture : Testing
 * 9:30 - 12:00 Pair on challenges.
  * [JavaScript Racer 1: Front-end](https://github.com/sea-lions-2014/javascript-racer-1-front-end-challenge)
  * [JavaScript Racer 2: Back-end](https://github.com/sea-lions-2014/javascript-racer-2-back-end-challenge)
@@ -39,15 +40,15 @@
 
 
 * 12:00 - 12:30 EE Dive Deep
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* Breakout - Setting Up Jasmine : TDD Orange Trees
+* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks  - OOJS
+<!-- Breakout - Setting Up Jasmine : TDD Orange Trees -->
 * 3:00 - 6:00 Pair on challenges.
 
 ####Wednesday
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture (optional)
+* 9:10 Daily Overview Lecture Into AJAX
 * 9:30 - 12:30 Pair on challenges.
 
  * [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
@@ -55,7 +56,7 @@
  * [Dynamic Todos](https://github.com/sea-lions-2014/dynamic-todos-challenge)
  * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
  * [Hacker News Clone (Part 2)](https://github.com/sea-lions-2014/hacker-news-clone-part-2-challenge)
-* 2:00 Lecture 
+* 2:00 Lecture : Closures and Callbacks
 * 3:00 - 6:00 Pair on Challenges
 
 ####Thursday  - Solo Optional Day
@@ -80,7 +81,7 @@
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00 Small group check-ins
-* 10:00 Brief lecture on Group Project
+* 10:00 Brief lecture on Group Project : Agile / Team dynamics
 * 10:00 Group Project in Teams. 
  * [Survey Gorilla]()
 
