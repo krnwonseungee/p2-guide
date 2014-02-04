@@ -23,7 +23,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Wednesday
-* name 1 - talk title
+* Emily - JavaScript 'this'
 * name 2 - talk title
 * name 3 - talk title
 * name 4 - talk title
@@ -45,14 +45,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * jQuery Selectors
 * jQuery Traversal
 * JavaScript scope
-* JavaScript 'this'
 * JavaScript Object Literals vs Constructor Function Objects
 * JavaScript Prototype
 * JavaScript Form Validation
 * Active Record : includes and "The N+1 Problem"
 * Dynamic Event binding and `on()`
 * Password hashing with bcrypt gem
-* helper methods 
+* helper methods
 * JavaScript selectors (and traversal)
 * Database Migration constraints
 * Partials
