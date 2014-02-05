@@ -28,7 +28,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Alex - JavaScript Scope
 * John - Javascript callbacks
 * Matt - jQuery Selectors
-* name 6 - talk title
+* Roy - Password hashing with bcrypt gem
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
@@ -47,7 +47,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * JavaScript Prototype
 * JavaScript Form Validation
 * Dynamic Event binding and `on()`
-* Password hashing with bcrypt gem
+
 * JavaScript selectors (and traversal)
 * Database Migration constraints
 * Partials
