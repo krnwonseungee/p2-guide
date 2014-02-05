@@ -28,7 +28,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Alex - JavaScript Scope
 * John - Javascript callbacks
 * Matt - jQuery Selectors
-* Aditya - Coffee Script
+* name 6 - talk title
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
@@ -37,6 +37,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Rick - Partials
 * Eli- Describe (some) benefits of (Angular/Ember/Backbone)
 * Christina -Active Record : includes and "The N+1 Problem"
+* Aditya - Coffee Script
 
 ## Available Talks
 
