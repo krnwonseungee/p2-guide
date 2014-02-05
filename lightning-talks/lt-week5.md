@@ -40,12 +40,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Eli- Describe (some) benefits of (Angular/Ember/Backbone)
 * Christina -Active Record : includes and "The N+1 Problem"
 * Aditya - Coffee Script
+* Andy - JavaScript Object Literals vs Constructor Function Objects
 
 ## Available Talks
 
 * jQuery Events
 * jQuery Effects
-* JavaScript Object Literals vs Constructor Function Objects
+
 * JavaScript Prototype
 * JavaScript Form Validation
 *
