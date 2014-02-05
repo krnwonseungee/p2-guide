@@ -26,7 +26,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Emily - JavaScript 'this'
 * David -  jQuery Traversal
 * Alex - JavaScript Scope
-* John - Javascript callbacks
+* John - Dynamic Event binding and on()
 * Matt - jQuery Selectors
 * Roy - Password hashing with bcrypt gem
 * Henry - Javascript prototype (https://github.com/henryh28/js_prototype.git)
@@ -48,7 +48,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * JavaScript Object Literals vs Constructor Function Objects
 * JavaScript Prototype
 * JavaScript Form Validation
-* Dynamic Event binding and `on()`
+*
 
 * JavaScript selectors (and traversal)
 * Database Migration constraints
