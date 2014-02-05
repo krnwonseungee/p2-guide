@@ -29,6 +29,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * John - Javascript callbacks
 * Matt - jQuery Selectors
 * Roy - Password hashing with bcrypt gem
+* Henry - Javascript prototype (https://github.com/henryh28/js_prototype.git)
 
 ## Thursday
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
