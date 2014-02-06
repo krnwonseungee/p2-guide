@@ -26,14 +26,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Emily - JavaScript 'this'
 * David -  jQuery Traversal
 * Alex - JavaScript Scope
-* John - Dynamic Event binding and on()
+* John - Dynamic Event binding and on(STI and Polymorphism.md)
 * Matt - jQuery Selectors
 * Roy - Password hashing with bcrypt gem
 * Henry - Javascript prototype (https://github.com/henryh28/js_prototype.git)
 * Emmanuel - Angular Overview
 
 ## Thursday
-* Patrick - Active Record : Single Table Inheritance / Polymorphism
+* Patrick - [Active Record : Single Table Inheritance / Polymorphism]()
 * Elliot - JavaScript 'this'
 * Darcey-helper methods
 * Rick - [Partials](rick_partials.md)
