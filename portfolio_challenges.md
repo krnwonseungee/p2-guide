@@ -9,7 +9,7 @@ Portfolio challenges are provided for you optimize your learning.  You should co
 * [Portfolio 5 : Validations and Errors ](https://github.com/sea-lions-2014/ph2-p5-active-record-and-sinatra-propagating-validations-challenge)
 * [Portfolio 6 : JavaScript OO](https://github.com/sea-lions-2014/ph2-p6-javascript-refactor-procedural-to-oo-challenge)
 * [Portfolio 7 : AJAX and jQuery](https://github.com/sea-lions-2014/ph2-p7-javascript-ajax-and-jquery-challenge)
-* [Portfolio 8 : JavaScript Events]()
+* [Portfolio 8 : JavaScript Dynamic Events](https://github.com/sea-lions-2014/ph2-p8-javascript-dynamic-elements-and-events-challenge)  - This one should look familiar!
 * [Portfolio 9 : Client Server Scoping ]()
 * [Portfolio 10 : API  ]()
 * [Portfolio 11 : Testing]()

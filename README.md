@@ -71,7 +71,7 @@
  * [Behavior Drill: Form Validation](https://github.com/sea-lions-2014/behavior-drill-form-validation-challenge)
  * [Flickr, Jr.](https://github.com/sea-lions-2014/flickr-jr-challenge)
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Solo on Portfolio Challenges
+* 3:00 - 6:00 Solo on [Portfolio Challenges](portfolio_challenges.md)
 
 ####Friday
 
