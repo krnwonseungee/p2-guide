@@ -36,7 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Patrick - Active Record : Single Table Inheritance / Polymorphism
 * Elliot - JavaScript 'this'
 * Darcey-helper methods
-* Rick - Partials
+* Rick - [Partials](/rick_partials.md)
 * Eli- Describe (some) benefits of (Angular/Ember/Backbone)
 * Christina -Active Record : includes and "The N+1 Problem"
 * Aditya - Coffee Script
