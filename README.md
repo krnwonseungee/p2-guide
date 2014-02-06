@@ -70,12 +70,8 @@
 * 10:00 - 12:30 Pair on challenges.
  * [Behavior Drill: Form Validation](https://github.com/sea-lions-2014/behavior-drill-form-validation-challenge)
  * [Flickr, Jr.](https://github.com/sea-lions-2014/flickr-jr-challenge)
- <!-- [JavaScript Code Retreat with Try Jasmine]() -->
- * STRETCH [Behavior Drill: Image Carousel](https://github.com/sea-lions-2014/behavior-drill-image-carousel-challenge)
- * STRETCH [Behavior Drill: Persisting Order]()
- 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Pair on challenges.
+* 3:00 - 6:00 Solo on Portfolio Challenges
 
 ####Friday
 
