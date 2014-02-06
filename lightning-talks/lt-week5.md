@@ -33,7 +33,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Emmanuel - Angular Overview
 
 ## Thursday
-* Patrick - [Active Record : Single Table Inheritance / Polymorphism]()
+* Patrick - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * Elliot - JavaScript 'this'
 * Darcey-helper methods
 * Rick - [Partials](rick_partials.md)
