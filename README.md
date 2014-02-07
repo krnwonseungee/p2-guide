@@ -79,7 +79,7 @@
 * 9:00 Small group check-ins
 * 10:00 Brief lecture on Group Project : Agile / Team dynamics
 * 10:00 Group Project in Teams. 
- * [Survey Gorilla]()
+ * [Survey Gorilla](https://github.com/sea-lions-2014/survey-gorilla-challenge)
 
 ####Weekend
 
