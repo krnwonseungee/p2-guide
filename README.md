@@ -2,89 +2,74 @@
 
 [Overview of the Phase](overview.md) | [Resources](resources.md)  
 
-### Week 5: 
+####Week 5 : Weekend
 
-[Learning Competencies](learning-competencies/week-5-lc.md)
+* Fill out the [learning objectives survey]() - WAIT TILL SUNDAY NIGHT
+* Work on group projects - presentation on Monday
+* Have the first 9 Portfolio Challenges finished
+* Catch up on Week 5 Challenges that you didn't finish.
 
-####Monday
+### Week 6: 
+
+[Learning Competencies](learning-competencies/week-6-lc.md)
+
+####Monday: 
 
 * 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture 
+* 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Present group projects.
-* 9:30 Daily Overview Lecture 
+* 9:30 Daily Overview Lecture: API's and Exception Handling
 * 9:30-12:30 Pair on challenges
- * [jQuery Challenge](https://github.com/sea-lions-2014/jquery-challenge)
- * [Behavior Drill: Collapsible Side Menu](https://github.com/sea-lions-2014/behavior-drill-collapsible-side-menu-challenge)
- * [Behavior Drill: Style Editor](https://github.com/sea-lions-2014/behavior-drill-style-editor-challenge)
- * [Behavior Drill: Add Comments](https://github.com/sea-lions-2014/behavior-drill-add-comments-challenge)
- * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
- * [Layout Drill: Button Navigation](https://github.com/sea-lions-2014/layout-drill-button-style-navigation-bar-challenge)
- * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
- * [Thing-o : Release 3,4](https://github.com/sea-lions-2014/thing-o-challenge)
- 
+ * [Recent Tweets 1](https://github.com/sea-lions-2014/recent-tweets-1-challenge)
+ * [Recent Tweets 2](https://github.com/sea-lions-2014/recent-tweets-2-challenge)
+ * [Tweet Now 1: Single User](https://github.com/sea-lions-2014/tweet-now-1-single-user-challenge) 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00-6:00 Pair on Challenges
 
-####Tuesday  - Solo Optional Day
-
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
+####Tuesday  - Solo Day : Finish Portfolio Challenges
 
 * 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture  
-* 9:10 Daily Overview Lecture : Testing
-* 9:30 - 12:00 Pair on challenges.
- * [JavaScript Racer 1: Front-end](https://github.com/sea-lions-2014/javascript-racer-1-front-end-challenge)
- * [JavaScript Racer 2: Back-end](https://github.com/sea-lions-2014/javascript-racer-2-back-end-challenge)
- * [JavaScript Racer 3: Sane JavaScript](https://github.com/sea-lions-2014/javascript-racer-3-sane-javascript-challenge)
- * [Orange Trees](https://github.com/sea-lions-2014/orange-jasmine-challenge)
-
-
-* 12:00 - 12:30 EE Dive Deep
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks  - OOJS
-<!-- Breakout - Setting Up Jasmine : TDD Orange Trees -->
-* 3:00 - 6:00 Pair on challenges.
+* 9:00  EE Training, Choose Afternoon Lecture 
+* 9:10  Opt in Breakouts (through out the day)
+* 9:30 - 12:00 Pair on challenges. 
+ * [The Hardest Challenge Yet](https://github.com/sea-lions-2014/the-hardest-challenge-yet-challenge)
+ * Solo on [Portfolio Challenges](portfolio_challenges.md)
+* 12:00 - 12:30 EE Deep Dive
+* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
+* 3:00 - 6:00 Pair on challenges. 
+* Midnight - **Turn in Completed Portfolio** 
 
 ####Wednesday
 
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture Into AJAX - [AJAX Cheat Sheet](extras/ajax_cheat_sheet.md)
-* 9:30 - 12:30 Pair on challenges.
+[Assessments : Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
 
- * [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
- * [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
- * [Dynamic Todos](https://github.com/sea-lions-2014/dynamic-todos-challenge)
- * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
- * [Hacker News Clone (Part 2)](https://github.com/sea-lions-2014/hacker-news-clone-part-2-challenge)
-* 2:00 Lecture : Closures and Callbacks
-* 3:00 - 6:00 Pair on Challenges
+* 8:45 - 9:00 Meet with accountability buddies
+* 9:00  EE Training, Choose Afternoon Lecture  
+* 9:10 Daily Overview Lecture : Oauth
+ * [Tweet Now! 2: Multi User](https://github.com/sea-lions-2014/tweet-now-2-multi-user-challenge)
+ * [Tweet Later](https://github.com/sea-lions-2014/tweet-later-challenge)
+ * [Faker-Lite](https://github.com/sea-lions-2014/faker-lite-challenge)
+ * STRETCH [Oh My Auth! (Google)](https://github.com/sea-lions-2014/oh-my-auth-google-challenge)
+ 
+* 2:00 - LECTURE: Background Jobs (Sidekiq) / Lightning Talks
 
 ####Thursday  - Solo Optional Day
 
 [Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
 
 * 8:45 - 9:00 Meet with accountability buddies
-* 9:00 Phase 3 Pitches
-* 9:30  EE Training, Choose Afternoon Lecture  
-* 9:40 Daily Overview Lecture 
-* 10:00 - 12:30 Pair on challenges.
- * [Behavior Drill: Form Validation](https://github.com/sea-lions-2014/behavior-drill-form-validation-challenge)
- * [Flickr, Jr.](https://github.com/sea-lions-2014/flickr-jr-challenge)
+* 9:00  EE Training, Choose Afternoon Lecture : Integration Testing
+* 9:10 Daily Overview Lecture: Integration Testing
+* 10:00 - 12:30 Solo on challenges. 
+ * [Testing Challenge]()
+ 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Solo on [Portfolio Challenges](portfolio_challenges.md)
+* 3:00 - 6:00 Pair on challenges. 
 
 ####Friday
 
-* 8:45 - 9:00 Meet with accountability buddies
 * 9:00 Small group check-ins
-* 10:00 Brief lecture on Group Project : Agile / Team dynamics
-* 10:00 Group Project in Teams. 
- * [Survey Gorilla](https://github.com/sea-lions-2014/survey-gorilla-challenge)
-
-####Weekend
-
-* Fill out the [learning objectives survey]() 
-* Work on group projects - presentation on Monday
-* Try to have 8 of the Portfolio Challenges finished
-* Catch up on Week 5 Challenges that you didn't finish.
-
+* 9:30 Lecture : Design Patterns
+* 9:30 - 6:00 Team Project Day :   
+  * Refactor [Survey Gorilla Refactor]() team project in new teams .
+* 5:00 Present Refactors.
