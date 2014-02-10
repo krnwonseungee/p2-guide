@@ -13,11 +13,28 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 # Week 3 Lightning Talks
 
 ## Tuesday
-* name - talk title
+  * Eli - Google Maps API
+  * John - Exceptions and Errors in Sinatra
+  * Alex - Functional JavaScript (as opposed to OO)
+  * Andy - D3
+  * Kevin - Testing with API's
+  * Patrick - JavaScript Callbacks (again)
 
 ## Wednesday
+  * Elliot - falsey in JavaScript
+  * Matt - Eval in JavaScript
+  * Darcey - Prototypical Inheritance with new
+  * Christina - Strategy Design Pattern
+  * David - Template Method
+  * Spencer - Observer Design Pattern
 
 ## Thursday
+  * Emily - Singleton Design Pattern
+  * Aditya - Hoisting in JavaScript
+  * Henry - Adapter Design Pattern
+  * Emmanual - Prototypical Inheritance without new
+  * Rick - Closures
+  * Roy - Factory Design Pattern
 
 ## Available Talks
-.. check back soon ...
+All talks assigned this week.
