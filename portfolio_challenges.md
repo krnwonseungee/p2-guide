@@ -11,4 +11,4 @@ Portfolio challenges are provided for you optimize your learning.  You should co
 * [Portfolio 7 : AJAX and jQuery](https://github.com/sea-lions-2014/ph2-p7-javascript-ajax-and-jquery-challenge)
 * [Portfolio 8 : JavaScript Dynamic Events](https://github.com/sea-lions-2014/ph2-p8-javascript-dynamic-elements-and-events-challenge)  - This one should look familiar!
 * [Portfolio 9 : Client Server Scoping ](https://github.com/sea-lions-2014/ph2-p9-client-server-scoping-challenge)
-* [Portfolio 10 : API  ]()
+* [Portfolio 10 : API  ](https://github.com/sea-lions-2014/ph2-p10-ruby-api-s-challenge)
