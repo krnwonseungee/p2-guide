@@ -182,7 +182,7 @@
 
 ####Weekend
 
-* Fill out the [learning objectives survey]() - WAIT TILL SUNDAY NIGHT
+* Fill out the [learning objectives survey](https://docs.google.com/forms/d/1x6ciY8OgaEguzbrYbWIQEdkYVJNXHL8ZQrRDO_IvxtQ/viewform)
 * Work on group projects - presentation on Monday
 * Have the first 9 Portfolio Challenges finished
 * Catch up on Week 5 Challenges that you didn't finish.

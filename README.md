@@ -2,13 +2,6 @@
 
 [Overview of the Phase](overview.md) | [Resources](resources.md)  
 
-####Week 5 : Weekend
-
-* Fill out the [learning objectives survey]() - WAIT TILL SUNDAY NIGHT
-* Work on group projects - presentation on Monday
-* Have the first 9 Portfolio Challenges finished
-* Catch up on Week 5 Challenges that you didn't finish.
-
 ### Week 6: 
 
 [Learning Competencies](learning-competencies/week-6-lc.md)
