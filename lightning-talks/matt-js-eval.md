@@ -9,7 +9,7 @@ eval("2+2");    // returns 4
 It can also be used to execute a statement or series of statements:
 
 ```JavaScript
-eval("foo = foo + 2;alert(foo);")     // evalutes the first statement, then opens a dialog box with result of that statement
+eval("foo = 2; foo = foo + 2;alert(foo);")    // evalutes the first statement, then opens a dialog box with result of that statement
 ```
 
 ### eval() is dangerous!!!
