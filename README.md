@@ -48,16 +48,14 @@
 
 ####Thursday  - Solo Optional Day
 
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
-
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture : Integration Testing
-* 9:10 Daily Overview Lecture: Integration Testing
+* 9:10 Daily Overview Lecture: Testing
 * 10:00 - 12:30 Solo on challenges. 
- * [Testing Challenge]()
+ * [Testing Challenge](https://github.com/sea-lions-2014/testing-challenge)
  
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Pair on challenges. 
+* 2:00 - Lightning Talks
+* 3:00 - 6:00 Solo on challenges. 
 
 ####Friday
 
