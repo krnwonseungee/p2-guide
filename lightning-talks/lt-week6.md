@@ -32,7 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Emily - Singleton Design Pattern
   * Aditya - Hoisting in JavaScript
   * Henry - Adapter Design Pattern
-  * Emmanual - Prototypical Inheritance without new
+  * Emmanual - Prototypical Inheritance without new GIST: https://gist.github.com/mechamanny/6eddb55a0338bee15241
   * Rick - Closures
   * Roy - Factory Design Pattern
 
