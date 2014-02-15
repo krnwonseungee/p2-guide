@@ -8,14 +8,14 @@
 ## How This Phase Works
 Phase 2 is broken into three weeks with the following themes:
 
-* Testing and Simple Web Applications
-* Enhancing Web Applications with JavaScript
-* Advanced Web Application Techniques
+- Testing and Simple Web Applications
+- Enhancing Web Applications with JavaScript
+- Advanced Web Application Techniques
 
 Each day looks pretty much the same:
-* During the day you will pair on a [challenge](#pair-challenges) - with Wednesday being Solo Optional days
-* Evenings you [optimize your learning](#optimizing-your-learning)
-* Fridays and weekends you will work on team [projects](#group-projects) and continue to [optimize your learning](#optimizing-your-learning)
+- During the day you will pair on a [challenge](#pair-challenges) - with Wednesday being Solo Optional days
+- Evenings you [optimize your learning](#optimizing-your-learning)
+- Fridays and weekends you will work on team [projects](#group-projects) and continue to [optimize your learning](#optimizing-your-learning)
 
 For more information, peruse the [week by week
 breakdown](#week-by-week-breakdown), the [day in the life](#a-day-in-the-life), and [what we work on](#what-do-we-work-on).
@@ -38,15 +38,15 @@ use background jobs, OAuth, and other APIs.
 
 ## A Day In The Life
 Most days will look like this:
-  * 8:45 - 9:00 Meet with accountability buddies
-  * 9:00  EE Training, Daily Retrospective, Presentation, Choose Afternoon Lecture  (mandatory attend)
-  * 9:10 - 9:30 daily overview lecture (optional)
-  * 9:30 -12:30 work on challenges 
-  * 12:30 -2:00 Lunch. Optional Yoga Wednesday and Friday
-  * 2:00 - 3:00 Afternoon lecture on chosen topic or lightning talks.  
-  * 3:00 - 5:50 work on challenges
-  * 5:50 End of day stand up
-  * 6:00 - really late at night ... finish challenges, work on portfolio, optimize your learning.
+  - 8:45 - 9:00 Meet with accountability buddies
+  - 9:00  EE Training, Daily Retrospective, Presentation, Choose Afternoon Lecture  (mandatory attend)
+  - 9:10 - 9:30 daily overview lecture (optional)
+  - 9:30 -12:30 work on challenges
+  - 12:30 -2:00 Lunch. Optional Yoga Wednesday and Friday
+  - 2:00 - 3:00 Afternoon lecture on chosen topic or lightning talks.
+  - 3:00 - 5:50 work on challenges
+  - 5:50 End of day stand up
+  - 6:00 - really late at night ... finish challenges, work on portfolio, optimize your learning.
 
 ## What Do We Work On?
 
@@ -57,7 +57,7 @@ isolated look at at the technical topics we'll be covering.
 ### Group Projects
 Group projects are a great way to bring together everything you've learned from the week and learn to work on a team.   You will not 'finish' your
 group project. There is always more to do, more enhancements to be made, more
-features to be added, and more bugs to fix. But you will create something to be proud of and to learn from. 
+features to be added, and more bugs to fix. But you will create something to be proud of and to learn from.
 
 ### Engineering Empathy
 A key part of being an exceptional junior developer is sensitivity to your code,
