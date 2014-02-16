@@ -17,7 +17,10 @@ Each day looks pretty much the same:
 - During the day you will pair on a [challenge](#pair-challenges) - with
   Wednesday being Solo Optional days
 - Evenings you [optimize your learning](#optimizing-your-learning)
-- Fridays and weekends you will work on team [projects](#group-projects) and continue to [optimize your learning](#optimizing-your-learning)
+- Fridays and weekends you will work on team [projects](#group-projects),
+  continue to [optimize your learning](#optimizing-your-learning), and complete
+  your [portfolio projects](#portfolio-projects)
+
 
 For more information, peruse the [week by week
 breakdown](#week-by-week-breakdown), the [day in the life](#a-day-in-the-life),
@@ -98,3 +101,21 @@ We all learn in different ways. Some of us learn best by:
 2. Reviewing videos and tutorials (look in [resources](resources.md) for some suggestions)
 3. Setting an absurd goal and working towards it
 4. Sleeping
+
+<a target="#portfolio-projects">
+
+### Portfolio Projects
+
+As a new developer you represent an unknown quantity to prospective employers.
+What kind of work do you do?  Do you write sloppy, unfocused commits?  How do
+you break a problem apart?  Do you paste dimly-understood nonsense from Stack
+Overflow?  The coding world needs the ability to get a read on you.
+
+Since the Renaissance a popular means for learning about the skills of an
+artisan has been to consult a portfolio of the arisan's work.  Once you leave
+DBC you will have to find pieces that fill out this portfolio on your own, but
+in Phase 2 we help get you started by providing **10** challenges that are
+designed to give you a means to reflect your personal skill level.
+
+These challenges are also a core part of your assessment of fitness for Phase
+3.  They will be made available to you as we cover the relevant content.
