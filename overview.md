@@ -1,9 +1,17 @@
 ## Table of Contents
 
 1. [How this Phase Works](#how-this-phase-works)
-1. [Week By Week Breakdown](#week-by-week-breakdown)
 1. [A Day In The Life](#a-day-in-the-life)
 1. [What We Work On](#what-do-we-work-on)
+  - [Pair Challenges](#pair-challenges)
+  - [Group Projects](#group-projects)
+  - [Engineering Empathy](#engineering-empathy)
+  - [Lightning Talks](#lightning-talks)
+  - [Optimize Your Learning](#optimize-your-learning)
+1. [Week By Week Breakdown](#week-by-week-breakdown)
+  - [Week 4](#week-4)
+  - [Week 5](#week-5)
+  - [Week 6](#week-6)
 
 ## How This Phase Works
 Phase 2 is broken into three weeks with the following themes:
@@ -13,40 +21,16 @@ Phase 2 is broken into three weeks with the following themes:
 - Advanced Web Application Techniques
 
 Each day looks pretty much the same:
-- During the day you will pair on a [challenge](#pair-challenges) - with Wednesday being Solo Optional days
-- Evenings you [optimize your learning](#optimizing-your-learning)
-- Fridays and weekends you will work on team [projects](#group-projects) and continue to [optimize your learning](#optimizing-your-learning)
+- During the day you will pair on a [challenge](#pair-challenges)–both Tuesday and Thursday are Solo Optional days
+- Evenings you [optimize your learning](#optimize-your-learning)
+- Fridays and weekends you will work on team [projects](#group-projects) and continue to [optimize your learning](#optimize-your-learning)
 
 For more information, peruse the [week by week
-breakdown](#week-by-week-breakdown), the [day in the life](#a-day-in-the-life), and [what we work on](#what-do-we-work-on).
-
-## Week By Week Breakdown
-
-### Week 4 : Testing, Simple Web Applications, and Github
-In week 4, we introduce Rspec, Sinatra, ActiveRecord, HTML, CSS, and Heroku. Your
-primary objective is to feel confident that you can create simple web applications on a team and on your own, test them, and get them hosted on the
-Internet for your friends and loved ones to see. See the [week 4 learning competencies](learning-competencies/week-4-lc.md) for more details.
-
-### Week 5 : Enhancing Web Applications With JavaScript
-In week 5 we add JavaScript,  as a way to enhance your web applications. By the end of this week you should be capable of creating web applications that leverage JavaScript to create rich interactions. You will also have a solid introduction to JavaScript the language. See the [week 5 learning competencies](learning-competencies/week-5-lc.md) for more details.
-
-
-### Week 6 : Non-trivial Web Applications
-Week 6 ties it all together. Now that you're capable of creating rich web
-applications, you must push your abilities to their limit as you discover how to
-use background jobs, OAuth, and other APIs.
+breakdown](#week-by-week-breakdown) and [what we work on](#what-do-we-work-on).
 
 ## A Day In The Life
-Most days will look like this:
-  - 8:45 - 9:00 Meet with accountability buddies
-  - 9:00  EE Training, Daily Retrospective, Presentation, Choose Afternoon Lecture  (mandatory attend)
-  - 9:10 - 9:30 daily overview lecture (optional)
-  - 9:30 -12:30 work on challenges
-  - 12:30 -2:00 Lunch. Optional Yoga Wednesday and Friday
-  - 2:00 - 3:00 Afternoon lecture on chosen topic or lightning talks.
-  - 3:00 - 5:50 work on challenges
-  - 5:50 End of day stand up
-  - 6:00 - really late at night ... finish challenges, work on portfolio, optimize your learning.
+
+Most days will adhere to our [daily schedule](schedule.md#daily-schedule).
 
 ## What Do We Work On?
 
@@ -70,10 +54,34 @@ Lightning talks are 5 minutes where you answer a single question or discuss a sp
 Lightning talks use a whiteboard only. No projector allowed! Feel free to practice
 sketching before giving the talk.
 
-### Optimizing Your Learning
+### Optimize Your Learning
 We all learn in different ways. Some of us learn best by:
 
 1. Playing with a technology on our own or with a pair
 2. Reviewing videos and tutorials (look in [resources](resources.md) for some suggestions)
 3. Setting an absurd goal and working towards it
 4. Sleeping
+
+## Week By Week Breakdown
+
+### Week 4
+
+**Testing, Simple Web Applications, and Github**
+
+In week 4, we cover Rspec, Sinatra, ActiveRecord, HTML, CSS, and Heroku. Your
+primary objective is to feel confident that you can create simple web applications on a team and on your own, test them, and get them hosted on the
+Internet for your friends and loved ones to see. See the [week 4 learning competenciess](learning-competencies/week-4-lc.md) for more details.
+
+### Week 5
+
+**Enhancing Web Applications With JavaScript**
+
+In week 5 we add JavaScript,  as a way to enhance your web applications. By the end of this week you should be capable of creating web applications that leverage JavaScript to create rich interactions. You will also have a solid introduction to JavaScript the language. See the [week 5 learning competencies](learning-competencies/week-5-lc.md) for more details.
+
+### Week 6
+
+**Complex Web Applications**
+
+Week 6 ties it all together. Now that you're capable of creating rich web
+applications, you must push your abilities to their limit as you discover how to
+use background jobs, OAuth, and other APIs.
