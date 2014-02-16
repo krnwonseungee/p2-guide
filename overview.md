@@ -4,6 +4,7 @@
 1. [Week By Week Breakdown](#week-by-week-breakdown)
 1. [A Day In The Life](#a-day-in-the-life)
 1. [What We Work On](#what-do-we-work-on)
+1. [Assessment](#assessment)
 
 ## How This Phase Works
 Phase 2 is broken into three weeks with the following themes:
@@ -119,3 +120,27 @@ designed to give you a means to reflect your personal skill level.
 
 These challenges are also a core part of your assessment of fitness for Phase
 3.  They will be made available to you as we cover the relevant content.
+
+<a name="assessment">
+
+### Assessment
+
+Assessment will be based on:
+
+1.  Portfolio challenges
+  1.  Were they complete?
+  1.  Did the developer complete the work on time?  Early?
+  1.  Did the developer take feedback and improve the code?
+  1.  Did the code committed reflect mastery and understanding?
+  1.  Did the developer find ways to extend the objective to demonstrate
+initiative and a zeal for exploration?
+1.  Group projects
+  1.  Did the developer make "real" contributions to the project
+  1.  Did the developer lead in the project
+  1.  Did the code committed reflect mastery and understanding?
+  1.  Did the developer find ways to extend the objective to demonstrate
+initiative and a zeal for exploration?
+1.  Lightning talks
+  1.  Could the developer speak and share a technical idea effectively?
+  1.  Did the developer handle questions well and handle the limits of their
+knowledge with grace?
