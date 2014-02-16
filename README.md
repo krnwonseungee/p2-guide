@@ -1,71 +1,72 @@
-# Phase 2
+# Phase 2 Resources
 
-[Overview of the Phase](overview.md) | [Resources](resources.md)
+- [Overview of the Phase](overview.md)
+- [Schedule](schedule.md)
+- [Resources](resources.md)
 
-## Schedule - Week 4:
+## Week 4 Resources
 
 ### [Learning Competencies](learning-competencies/week-4-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week4.md)
 
 #### Monday
 
 * 9 AM - Welcome new Phase to DBC - group teach in.
-* 2:00 LECTURE : [Web Applications Overview](http://talks.devbootcamp.com/overview-of-web-applications)
+* 2:00 LECTURE : Framing Your Progresss /  Web Applications Overview
 * 3:00-6:00 : Pair on Challenges
-  * [Deaf Sinatra 1: Synchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-1-synchronous-forms-challenge)
-  * [Anagram Server 1: The Basics](https://github.com/sea-lions-2014/anagram-server-1-the-basics-challenge)
-  * [Sinatra Sandbox](https://github.com/sea-lions-2014/sinatra-sandbox-challenge)
-  * STRETCH [Anagram Server 2: Ludicrous Speed](https://github.com/sea-lions-2014/anagram-server-2-ludicrous-speed-challenge)
+  * Deaf Sinatra 1: Synchronous Forms
+  * Anagram Server 1: The Basics
+  * Sinatra Sandbox
+  * STRETCH Anagram Server 2: Ludicrous Speed
 
 #### Tuesday - Solo Optional Day
-[Office Hours : Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+
+Office Hours : Book Your Appointment with A Teacher **TBD**
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture
 * 9:30 - 12:00 Pair on challenges
- * [Craigslist, Jr](https://github.com/sea-lions-2014/craigslist-jr-challenge)
- * [Blog 1: Anonymous Blog](https://github.com/sea-lions-2014/blog-1-anonymous-blog-challenge)
- * [Heroku 1: Getting Started](https://github.com/sea-lions-2014/heroku-1-getting-started-challenge)
- * [Heroku 2: Apps Ahoy](https://github.com/sea-lions-2014/heroku-2-apps-ahoy-challenge)
- * [thing-o : Release 0](https://github.com/sea-lions-2014/thing-o-challenge)
-
-<!-- Check [Sinatra Todos](fox-squirrels .. sinatra-todos) -->
+ * Craigslist, Jr
+ * Blog 1: Anonymous Blog
+ * Heroku 1: Getting Started
+ * Heroku 2: Apps Ahoy
+ * thing-o : Release 0
 
 * 12:00 - 12:30 EE Dive Deep : Difficult Discussions
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on challenges
 
 #### Wednesday
+
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture CRUD n REST
 * 9:30 - 12:30 Pair on challenges.
- * [Sinatra URL Shortener](https://github.com/sea-lions-2014/sinatra-url-shortener-challenge)
- * [Dummy Users](https://github.com/sea-lions-2014/dummy-users-challenge)
- * [Sinatra URL Shortener: With Users](https://github.com/sea-lions-2014/sinatra-url-shortener-with-users-challenge)
- * STRETCH [Blog 2: Multi - Author](https://github.com/sea-lions-2014/blog-2-multi-author-challenge)
+ * Sinatra URL Shortener
+ * Dummy Users
+ * Sinatra URL Shortener: With Users
+ * STRETCH Blog 2: Multi - Author
 
-<!-- Check [Active Record Resource Library]( fox-squirrels ..  activerecord-resource-library) -->
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on Challenges
 
 #### Thursday - Solo Optional Day
 
-[Office Hours : Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+Office Hours : Book Your Appointment with A Teacher **TBD**
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture
 * 9:30 - 12:30 Pair on challenges.
- * [Layout Drill: Left-hand Navigation](https://github.com/sea-lions-2014/layout-drill-left-hand-navigation-challenge)
- * [Layout Drill: Right-hand Navigation](https://github.com/sea-lions-2014/layout-drill-right-hand-navigation-challenge)
- * [Layout Drill: Top Navigation](https://github.com/sea-lions-2014/layout-drill-top-navigation-challenge)
- * [Layout Drill: Fixed Navigation](https://github.com/sea-lions-2014/layout-drill-fixed-navigation-challenge)
- * [Layout Drill: Pagination Navigation](https://github.com/sea-lions-2014/layout-drill-pagination-navigation-challenge)
- * [Layout Drill: Proper Typesetting](https://github.com/sea-lions-2014/layout-drill-proper-typesetting-challenge)
- * [Layout Drill: Sticky Side Menu](https://github.com/sea-lions-2014/layout-drill-sticky-side-menu-challenge)
- * [HTML and CSS](https://github.com/sea-lions-2014/html-and-css-challenge)
- * STRETCH [Blog 3: Pagination](https://github.com/sea-lions-2014/blog-3-pagination-challenge)
+ * Layout Drill: Left-hand Navigation
+ * Layout Drill: Right-hand Navigation
+ * Layout Drill: Top Navigation
+ * Layout Drill: Fixed Navigation
+ * Layout Drill: Pagination Navigation
+ * Layout Drill: Proper Typesetting
+ * Layout Drill: Sticky Side Menu
+ * HTML and CSS
+ * STRETCH Blog 3: Pagination
 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on challenges.
@@ -77,8 +78,6 @@
 * 9:00 Small group check-ins
 * 10:00 Brief lecture on Agile, Trello, Team strategies.
 * 10:00 Group Project in Teams.
- * [Web Flash Cards 1: Multiple Decks]()
- * STRETCH [ Web Flash Cards 2: AJAX Guessing]()
 * 5:00 Present your MVP (5 minutes).
 
 #### Weekend
