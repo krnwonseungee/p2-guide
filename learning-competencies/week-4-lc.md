@@ -1,6 +1,8 @@
 # Learning Competencies
 
-Learning competencies summarize the learning you should be gaining from each challenge.  After completing a challenge you should re-read the competencies to make sure you have at least a Basic understanding of each.
+Learning competencies summarize the learning you should be gaining from each
+challenge.  After completing a challenge you should re-read the competencies to
+make sure you have at least a Basic understanding of each.
 
 Here is a list of competencies for the week broken down by topic area:
 
@@ -26,6 +28,8 @@ Here is a list of competencies for the week broken down by topic area:
 - Build test methods with descriptive output and clear indicators of passing tests.
 - Work with testing libraries like RSpec.
 - Work with user interaction testing libraries like Capybara.
+* Use unit tests to ensure model function
+* Use controller tests to ensure controller function
 
 ### Modeling
 
@@ -56,8 +60,8 @@ Here is a list of competencies for the week broken down by topic area:
 - Describe the characteristics of the box model.
 - Communicate state changes via CSS (ex: error state vs correct state).
 - Change basic CSS appearance: colors, widths, padding, margin.
-- style CSS inputs.
-- position elements using fixed positioning.
+- Style CSS inputs.
+- Position elements using fixed positioning.
 - Implement fonts and typographic styling in CSS.
 - Use CSS psuedo-classes to create dynamic behavior (like :hover).
 
@@ -87,4 +91,3 @@ Here is a list of competencies for the week broken down by topic area:
 
 - Recognize 5 HTTP verbs.
 - Recognize critical HTTP status codes (5xx,4xx, 300, 302, 303, 200).
-- Use sessions and HTTP cookies to implement state and work around HTTP statelessness.
