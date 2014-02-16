@@ -52,16 +52,25 @@ applications, you must push your abilities to their limit as you discover how to
 use background jobs, OAuth, and other APIs.
 
 ## A Day In The Life
-Most days will look like this:
-  - 8:45 - 9:00 Meet with accountability buddies
-  - 9:00  EE Training, Daily Retrospective, Presentation, Choose Afternoon Lecture  (mandatory attend)
-  - 9:10 - 9:30 daily overview lecture (optional)
-  - 9:30 -12:30 work on challenges
-  - 12:30 -2:00 Lunch. Optional Yoga Wednesday and Friday
-  - 2:00 - 3:00 Afternoon lecture on chosen topic or lightning talks.
-  - 3:00 - 5:50 work on challenges
-  - 5:50 End of day stand up
-  - 6:00 - really late at night ... finish challenges, work on portfolio, optimize your learning.
+
+Most days will look like the following.  On exceptional days we may need to run
+a longer lecture or may lead an intensive code-along session or breakout, so
+this is, as Captain Barbossa once said, "[more what you'd call
+guidelines][pirates]."
+
+[pirates]: http://www.imdb.com/title/tt0325980/quotes?item=qt0416601
+
+Time          | Activity
+------------- | :------------------------------------------------------------
+8:45 - 9:00   | Meet with accountability buddies
+9:00 - 9:15   | EE Training, balance of time for A-ha (where available)
+9:15 - 9:50   | Lecture (target 25 mintues with 10 minutes for Q&A)
+10:00 - 12:30 | Work on Challenges (one teacher "planning period" )
+12:30 -2:00   | Lunch–Optional Yoga Wednesday and Friday
+2:00 - 2:30   | Lightning talks
+2:30 - 5:50   | Work on Challenges (other teacher "planning period")
+5:50 - 6:00   | End of day stand up
+6:00 onward   | Finish challenges, work on portfolio, optimize your learning.
 
 ## What Do We Work On?
 
