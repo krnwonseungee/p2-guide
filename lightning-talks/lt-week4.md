@@ -4,7 +4,7 @@ part of a topic.
 
 Everyone will do a lightning talk every week. To volunteer for a talk:
 
-** INSTRUCTIONS: READ CAREFULLY**
+**INSTRUCTIONS: READ CAREFULLY**
 
 1. Check if there are any open pull request to the guide for lightning talks.
 Merge these into master(on github).
