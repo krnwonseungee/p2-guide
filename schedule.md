@@ -117,6 +117,6 @@ Friday    | Introduce Group Project, Agile and Teams
 
 - Fill out the [learning objectives self-assessment survey]()
 - Work on group projects - presentation on Monday
-- Complete the first 4 [Portfolio Challenges](portfolio_challenges.md) finished
+- Complete the first 4 [Portfolio Challenges](portfolio-challenges.md) finished
 - Do [Prep for Week 5](week-5-prep.md)
 - Catch up on Week 4 Challenges that you didn't finish.

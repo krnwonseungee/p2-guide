@@ -3,6 +3,7 @@
 - [Overview of the Phase](overview.md)
 - [Resources](resources.md)
 - [Schedule](schedule.md)
+- [Portfolio Challenges](portfolio-challenges.md)
 
 ## Week 4 Resources
 
