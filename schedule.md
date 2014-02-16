@@ -23,21 +23,6 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 ## Lecture and Discussion Schedule
 
-### Week 1
-
-Day       | Topic
---------- | -----------
-Monday    | Morning Onboarding
-          | Course overview
-          | 1000 Foot view of the Internet, vocabulary (SGH)
-Tuesday   | The Request / Response Cycle (SGH)
-          | Using your Chrome tools to debug interactions (SGH)
-Wednesday | Deploy a simple app to Heroku (SM)
-          | Sessions & Portfolio Challenges (SGH)
-Thursday  | CSS (SM)
-          | *Possible*: More on Testing (What should we test, how should we test)(SM)
-Friday    | Introduce Group Project, Agile and Teams
-
 ## Schedule - Week 4:
 
 ###[Learning Competencies](learning-competencies/week-4-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week4.md)
@@ -46,7 +31,7 @@ Friday    | Introduce Group Project, Agile and Teams
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9 AM - Welcome new Phase to DBC - group teach in.
-- 2:00 - 2:35 Lecture: Web Applications Overview–A 1000 Foot view of the Internet and vocabulary
+- 2:00 - 2:35 Lecture: Course overview; 1000 Foot view of the Internet, vocabulary (Steven)
 - 2:35-5:50: Pair on Challenges
   - [Deaf Sinatra 1: Synchronous Forms](https://github.com/banana-slugs-2014/deaf-sinatra-1-synchronous-forms-challenge)
   - [Anagram Server 1: The Basics](https://github.com/banana-slugs-2014/anagram-server-1-the-basics-challenge)
@@ -59,7 +44,7 @@ Friday    | Introduce Group Project, Agile and Teams
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice: four-minute meditation
-- 9:15 The Request / Response Cycle Lecture ♽
+- 9:15 The Request / Response Cycle Lecture ♽ (Steven)
 - 9:50 - 12:00 Pair on challenges
   - [Craigslist, Jr](https://github.com/banana-slugs-2014/craigslist-jr-challenge)
   - [Blog 1: Anonymous Blog](https://github.com/banana-slugs-2014/blog-1-anonymous-blog-challenge)
@@ -67,20 +52,21 @@ Friday    | Introduce Group Project, Agile and Teams
   - [Heroku 2: Apps Ahoy](https://github.com/banana-slugs-2014/heroku-2-apps-ahoy-challenge)
   - [thing-o: Release 0](https://github.com/banana-slugs-2014/thing-o-challenge)
 - 12:00 - 12:30 EE Shallow Dive: Difficult Discussions
-- 2:00 - 2:50 - Lecture: Using Chrome tools to debug / Lightning Talks
+- 2:00 - 2:50 - Lecture: Using Chrome tools to debug (Steven) / Lightning Talks
 - 2:50 - 5:50 Pair on challenges
 - 5:50 - 6:00 End of day stand up
 
 #### Wednesday
+
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
-- 9:15 Lecture: Deploy a simple app to Heroku
+- 9:15 Lecture: Deploy a simple app to Heroku (Strand)
 - 9:50 - 12:30 Pair on challenges.
   - [Sinatra URL Shortener](https://github.com/banana-slugs-2014/sinatra-url-shortener-challenge)
   - [Dummy Users](https://github.com/banana-slugs-2014/dummy-users-challenge)
   - [Sinatra URL Shortener: With Users](https://github.com/banana-slugs-2014/sinatra-url-shortener-with-users-challenge)
   - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
-- 2:00 - 2:50 - Lecture: Sessions & Portfolio Challenges / Lightning Talks
+- 2:00 - 2:50 - Lecture: Sessions (Steven) &amp; Portfolio Challenges / Lightning Talks
 - 2:50 - 5:50 Pair on Challenges
 - 5:50 - 6:00 End of day stand up
 
@@ -108,7 +94,7 @@ Friday    | Introduce Group Project, Agile and Teams
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 Small group check-ins
-- 10:00 Brief lecture on Agile, Trello, Team strategies.
+- 10:00 Brief lecture on Agile, Trello, Team strategies (Strand)
 - 10:30 Group Project in Teams.
   - [Web Flash Cards 1: Multiple Decks](https://github.com/banana-slugs-2014/web-flash-cards-1-multiple-decks-challenge)
 - 5:00 Present your MVP (5 minutes).
