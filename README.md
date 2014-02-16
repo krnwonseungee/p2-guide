@@ -1,8 +1,8 @@
 # Phase 2 Resources
 
 - [Overview of the Phase](overview.md)
-- [Resources](resources.md)
 - [Schedule](schedule.md)
+- [Resources](resources.md)
 - [Portfolio Challenges](portfolio-challenges.md)
 
 ## Week 4 Resources
