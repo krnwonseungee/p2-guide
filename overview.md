@@ -102,7 +102,7 @@ We all learn in different ways. Some of us learn best by:
 3. Setting an absurd goal and working towards it
 4. Sleeping
 
-<a target="#portfolio-projects">
+<a name="portfolio-projects">
 
 ### Portfolio Projects
 
