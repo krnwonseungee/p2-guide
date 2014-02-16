@@ -1,6 +1,9 @@
 ## Portfolio Challenges
 
-Portfolio challenges are provided for you optimize your learning. You should complete these solo and make sure you meet all the learning competencies before you have 'finished'. These challenges will be used as part of your assessment for this phase.
+Portfolio challenges are provided for you optimize your learning. You should
+complete these solo and make sure you meet all the learning competencies before
+you have 'finished'. These challenges will be used as part of your assessment
+for this phase.
 
 * [Portfolio 1: Sinatra RESTful CRUD](https://github.com/sea-lions-2014/ph2-p1-sinatra-restful-crud-challenge)
 * [Portfolio 2: Active Record](https://github.com/sea-lions-2014/ph2-p2-active-record-people-skills-challenge)
