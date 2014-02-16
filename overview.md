@@ -76,7 +76,7 @@ Internet for your friends and loved ones to see. See the [week 4 learning compet
 
 **Enhancing Web Applications With JavaScript**
 
-In week 5 we add JavaScript,  as a way to enhance your web applications. By the end of this week you should be capable of creating web applications that leverage JavaScript to create rich interactions. You will also have a solid introduction to JavaScript the language. See the [week 5 learning competencies](learning-competencies/week-5-lc.md) for more details.
+In week 5 we add JavaScript,  as a way to enhance your web applications. By the end of this week you should be capable of creating web applications that leverage JavaScript to create rich interactions. You will also have a solid introduction to JavaScript the language.
 
 ### Week 6
 
