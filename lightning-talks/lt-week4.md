@@ -24,6 +24,7 @@ cloned then pull the latest version of master).
  
  Jose - Responsive Web Design
 
+ Johnny - What makes a good commit?
 
 ## Wednesday
 
@@ -39,7 +40,6 @@ cloned then pull the latest version of master).
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is rack anyway?
-* What makes a good commit?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
 * How can I use `let` and `context` to dry up my tests?
