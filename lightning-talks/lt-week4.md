@@ -30,6 +30,7 @@ cloned then pull the latest version of master).
 
  Jamie - What is the difference between `GET` and `POST`?
 
+ Mathilde - What are `ENV` variables?
 
 ## Wednesday
 
@@ -45,7 +46,6 @@ Mason - What are merge conflicts and how do I fix them?
 ## Available Talks
 
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
-* What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is rack anyway?
 * What is the request response cycle?
