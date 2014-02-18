@@ -21,6 +21,7 @@ cloned then pull the latest version of master).
 
 ## Tuesday
  Henry - How can I inform the user when active record validations fail?
+ Jose - Responsive Web Design
 
 
 ## Wednesday
