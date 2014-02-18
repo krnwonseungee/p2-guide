@@ -20,8 +20,8 @@ cloned then pull the latest version of master).
 # Week 1 Lightning Talks
 
 ## Tuesday
- Henry - How can I inform the user when active record validations fail?  
- 
+ Henry - How can I inform the user when active record validations fail?
+
  Jose - Responsive Web Design
 
  Johnny - What makes a good commit?
@@ -31,6 +31,7 @@ cloned then pull the latest version of master).
 Mason - What are merge conflicts and how do I fix them?
 
 ## Thursday
+Harry - What are the 4 rules of simple design?
 
 ## Friday
 
@@ -46,7 +47,6 @@ Mason - What are merge conflicts and how do I fix them?
 * What is the arrange act assert pattern?
 * How can I use `let` and `context` to dry up my tests?
 * When do I use test doubles?
-* What are the 4 rules of simple design?
 * What's the difference between ruby's standard library, core library, and gems?
 * What is refactoring?
 * What makes a good pull request?
