@@ -36,9 +36,9 @@ cloned then pull the latest version of master).
 Mason - What are merge conflicts and how do I fix them?
 
 ## Thursday
-Matthew - What is a code kata?
-Harry - What are the 4 rules of simple design?
-Chermaine - What is the 'params' hash?
+  Matthew - What is a code kata?
+  Harry - What are the 4 rules of simple design?
+  Chermaine - What is the 'params' hash?
 
 ## Friday
 
