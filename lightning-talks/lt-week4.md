@@ -20,7 +20,8 @@ cloned then pull the latest version of master).
 # Week 1 Lightning Talks
 
 ## Tuesday
- Henry - How can I inform the user when active record validations fail?
+ Henry - How can I inform the user when active record validations fail?  
+ 
  Jose - Responsive Web Design
 
 
