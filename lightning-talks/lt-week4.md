@@ -32,6 +32,8 @@ cloned then pull the latest version of master).
 
  Mathilde - What are `ENV` variables?
 
+ Tim - What is rack anyway?
+
 ## Wednesday
 
 Mason - What are merge conflicts and how do I fix them?
@@ -48,7 +50,6 @@ Mason - What are merge conflicts and how do I fix them?
 
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * How can I use local git branches to make spiking easier?
-* What is rack anyway?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
 * When do I use test doubles?
