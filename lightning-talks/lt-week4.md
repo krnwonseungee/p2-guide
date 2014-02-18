@@ -33,6 +33,7 @@ cloned then pull the latest version of master).
 Mason - What are merge conflicts and how do I fix them?
 
 ## Thursday
+* Matthew - What is a code kata?
 Harry - What are the 4 rules of simple design?
 
 ## Friday
@@ -62,5 +63,4 @@ Harry - What are the 4 rules of simple design?
 * CSS Display Property
 * Database indexing
 * Responsive web design
-* What is a code kata?
 * Red green refactor
