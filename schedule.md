@@ -1,3 +1,17 @@
+# Schedule
+
+**Table of Contents**
+
+- [Daily schedule](#daily-schedule)
+- [Weekly schedule](#weekly-schedule)
+- [Week 4](#week-4)
+  - [Monday](#monday)
+  - [Tuesday](#tuesday)
+  - [Wednesday](#wednesday)
+  - [Thursday](#thursday)
+  - [Friday](#friday)
+  - [Weekend](#weekend)
+
 ## Daily schedule
 
 Time          | Activity
@@ -21,9 +35,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
        | EE Shallow Dive | Yoga at Lunch |             | Yoga at lunch
        |               |               | Speaker       | Graduation (week 3)
 
-## Lecture and Discussion Schedule
-
-## Schedule - Week 4:
+## Week 4
 
 ###[Learning Competencies](learning-competencies/week-4-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week4.md)
 
@@ -39,8 +51,8 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
   - [Anagram Server 2: Ludicrous Speed](https://github.com/banana-slugs-2014/anagram-server-2-ludicrous-speed-challenge)
 - 5:50 - 6:00 End of day stand up
 
-**Links below this point are not yet live.**
-#### Tuesday - Solo Optional Day
+#### Tuesday
+**Solo Optional Day**
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice: four-minute meditation
@@ -56,6 +68,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 2:50 - 5:50 Pair on challenges
 - 5:50 - 6:00 End of day stand up
 
+**Links below this point are not yet live.**
 #### Wednesday
 
 - 8:45 - 9:00 Meet with accountability buddies
@@ -70,7 +83,8 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 2:50 - 5:50 Pair on Challenges
 - 5:50 - 6:00 End of day stand up
 
-#### Thursday - Solo Optional Day
+#### Thursday
+**Solo Optional Day**
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
