@@ -40,6 +40,7 @@ Mason - What are merge conflicts and how do I fix them?
   Matthew - What is a code kata?
   Harry - What are the 4 rules of simple design?
   Chermaine - What is the 'params' hash?
+  Irene - How can I use `let` and `context` to dry up my tests?
 
 ## Friday
 
@@ -50,7 +51,6 @@ Mason - What are merge conflicts and how do I fix them?
 * What is rack anyway?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
-* How can I use `let` and `context` to dry up my tests?
 * When do I use test doubles?
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good pull request?
