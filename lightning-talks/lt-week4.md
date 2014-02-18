@@ -20,7 +20,7 @@ cloned then pull the latest version of master).
 # Week 1 Lightning Talks
 
 ## Tuesday
- Henry - How can I inform the user when active record validations fail?
+ Henry - How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
 
  Jose - Responsive Web Design
 
