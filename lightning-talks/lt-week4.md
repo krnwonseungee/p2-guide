@@ -32,7 +32,7 @@ cloned then pull the latest version of master).
 ## Available Talks
 
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
-* What is the `params` hash?
+* What is the `params` hash
 * What is the difference between `GET` and `POST`?
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
