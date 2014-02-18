@@ -20,8 +20,8 @@ cloned then pull the latest version of master).
 # Week 1 Lightning Talks
 
 ## Tuesday
- Henry - How can I inform the user when active record validations fail?  
- 
+ Henry - How can I inform the user when active record validations fail?
+
  Jose - Responsive Web Design
 
  Johnny - What makes a good commit?
@@ -29,6 +29,7 @@ cloned then pull the latest version of master).
 ## Wednesday
 
 ## Thursday
+Matthew - What is a code kata?
 
 ## Friday
 
@@ -59,5 +60,4 @@ cloned then pull the latest version of master).
 * CSS Display Property
 * Database indexing
 * Responsive web design
-* What is a code kata?
 * Red green refactor
