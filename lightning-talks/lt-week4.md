@@ -28,6 +28,8 @@ cloned then pull the latest version of master).
 
 ## Wednesday
 
+Mason - What are merge conflicts and how do I fix them?
+
 ## Thursday
 
 ## Friday
