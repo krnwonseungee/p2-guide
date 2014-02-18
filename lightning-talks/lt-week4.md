@@ -29,7 +29,7 @@ cloned then pull the latest version of master).
 ## Wednesday
 
 ## Thursday
-Matthew - What is a code kata?
+* Matthew - What is a code kata?
 
 ## Friday
 
