@@ -28,6 +28,9 @@ cloned then pull the latest version of master).
 
  Stephen - Refactoring!
 
+ Jamie - What is the difference between `GET` and `POST`?
+
+
 ## Wednesday
 
 Mason - What are merge conflicts and how do I fix them?
@@ -42,7 +45,6 @@ Harry - What are the 4 rules of simple design?
 
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * What is the `params` hash?
-* What is the difference between `GET` and `POST`?
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is rack anyway?
@@ -52,7 +54,6 @@ Harry - What are the 4 rules of simple design?
 * When do I use test doubles?
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good pull request?
-* What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the difference between abstraction and indirection?
 * What is the different ways to use the css position property?
@@ -62,5 +63,4 @@ Harry - What are the 4 rules of simple design?
 * Sinatra Partial Views
 * CSS Display Property
 * Database indexing
-* Responsive web design
 * Red green refactor
