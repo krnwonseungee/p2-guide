@@ -20,6 +20,8 @@ cloned then pull the latest version of master).
 # Week 1 Lightning Talks
 
 ## Tuesday
+ Henry - How can I inform the user when active record validations fail?
+
 
 ## Wednesday
 
@@ -44,7 +46,6 @@ cloned then pull the latest version of master).
 * What's the difference between ruby's standard library, core library, and gems?
 * What is refactoring?
 * What makes a good pull request?
-* How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the difference between abstraction and indirection?
