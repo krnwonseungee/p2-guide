@@ -46,6 +46,9 @@ Mason - What are merge conflicts and how do I fix them?
 
 ## Friday
 
+Nic - What is the difference between abstraction and indirection?
+
+
 ## Available Talks
 
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
@@ -56,7 +59,6 @@ Mason - What are merge conflicts and how do I fix them?
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good pull request?
 * How do I use capybara to test sinatra?
-* What is the difference between abstraction and indirection?
 * What is the different ways to use the css position property?
 * What makes a good test?
 * What does 'semantic markup' mean?
