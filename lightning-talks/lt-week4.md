@@ -37,15 +37,15 @@ cloned then pull the latest version of master).
 Mason - What are merge conflicts and how do I fix them?
 
 ## Thursday
-* Matthew - What is a code kata?
-Harry - What are the 4 rules of simple design?
+  Matthew - What is a code kata?
+  Harry - What are the 4 rules of simple design?
+  Chermaine - What is the 'params' hash?
 
 ## Friday
 
 ## Available Talks
 
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
-* What is the `params` hash?
 * How can I use local git branches to make spiking easier?
 * What is rack anyway?
 * What is the request response cycle?
