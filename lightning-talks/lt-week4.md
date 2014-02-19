@@ -47,8 +47,10 @@ Mason - What are merge conflicts and how do I fix them?
 ## Friday
 
 Nic - What is the difference between abstraction and indirection?
+
 Anne - Sinatra Partial Views
 
+Chris - How can I use Capybara to test Sinatra?
 
 ## Available Talks
 
