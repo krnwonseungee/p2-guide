@@ -43,6 +43,9 @@ Quentin - How can I use the sessions hash in Sinatra?
 
 Elliot - When do I use test doubles?
 
+Jamie - What is the difference between `GET` and `POST`? PART TWO!!
+
+
 ## Thursday
   Matthew - What is a code kata?
 
