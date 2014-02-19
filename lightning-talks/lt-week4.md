@@ -43,6 +43,7 @@ Mason - What are merge conflicts and how do I fix them?
   Harry - What are the 4 rules of simple design?
   Chermaine - What is the 'params' hash?
   Irene - How can I use `let` and `context` to dry up my tests?
+  Darren - How can I use `$LOAD_PATH` to avoid using `require_relative`?
 
 ## Friday
 
@@ -54,7 +55,6 @@ Chris - How can I use Capybara to test Sinatra?
 
 ## Available Talks
 
-* How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
