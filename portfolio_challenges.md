@@ -25,3 +25,11 @@ the challenge.  Were you able to do it faster?  Did new gaps emerge?
 ## Availability
 
 They will be made available as we cover their content.
+
+## The Challenges
+
+* [P1 Sinatra Restful Crud][pf1]
+* [P2 Active Record People Skills][pf2]
+
+[pf1]: https://github.com/banana-slugs-2014/ph2-p1-sinatra-restful-crud-challenge
+[pf2]: https://github.com/banana-slugs-2014/ph2-p2-active-record-people-skills-challenge
