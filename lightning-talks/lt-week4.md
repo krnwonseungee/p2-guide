@@ -61,7 +61,6 @@ Chris - How can I use Capybara to test Sinatra?
 * When do I use test doubles?
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good pull request?
-* How do I use capybara to test sinatra?
 * What is the different ways to use the css position property?
 * What makes a good test?
 * What does 'semantic markup' mean?
