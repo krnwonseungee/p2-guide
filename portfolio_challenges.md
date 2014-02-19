@@ -26,6 +26,11 @@ the challenge.  Were you able to do it faster?  Did new gaps emerge?
 
 They will be made available as we cover their content.
 
+## Delivery
+
+After cloning the repository and completing the work on your branch, push your branch
+to the repo and open a pull request for it.
+
 ## The Challenges
 
 * [P1 Sinatra Restful Crud][pf1]
