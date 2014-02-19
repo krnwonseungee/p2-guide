@@ -40,11 +40,17 @@ Mason - What are merge conflicts and how do I fix them?
 
 Phil - What's the difference between ruby's standard library, core library, and gems?
 
+Quentin - How can I use the sessions hash in Sinatra?
+
 ## Thursday
   Matthew - What is a code kata?
+
   Harry - What are the 4 rules of simple design?
+
   Chermaine - What is the 'params' hash?
+
   Irene - How can I use `let` and `context` to dry up my tests?
+
   Darren - How can I use `$LOAD_PATH` to avoid using `require_relative`?
 
 ## Friday
@@ -65,7 +71,6 @@ Chris - How can I use Capybara to test Sinatra?
 * What is the different ways to use the css position property?
 * What makes a good test?
 * What does 'semantic markup' mean?
-* How can I use the sessions hash in Sinatra?
 * CSS Display Property
 * Database indexing
 * Red green refactor
