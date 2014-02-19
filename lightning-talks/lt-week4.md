@@ -36,7 +36,6 @@ cloned then pull the latest version of master).
 
 ## Wednesday
 
-Mason - What are merge conflicts and how do I fix them?
 
 Phil - What's the difference between ruby's standard library, core library, and gems?
 
