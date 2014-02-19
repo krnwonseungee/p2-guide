@@ -38,6 +38,8 @@ cloned then pull the latest version of master).
 
 Mason - What are merge conflicts and how do I fix them?
 
+Phil - What's the difference between ruby's standard library, core library, and gems?
+
 ## Thursday
   Matthew - What is a code kata?
   Harry - What are the 4 rules of simple design?
@@ -59,7 +61,6 @@ Chris - How can I use Capybara to test Sinatra?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
 * When do I use test doubles?
-* What's the difference between ruby's standard library, core library, and gems?
 * What makes a good pull request?
 * What is the different ways to use the css position property?
 * What makes a good test?
