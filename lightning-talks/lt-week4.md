@@ -42,6 +42,8 @@ Phil - What's the difference between ruby's standard library, core library, and 
 
 Quentin - How can I use the sessions hash in Sinatra?
 
+Elliot - When do I use test doubles?
+
 ## Thursday
   Matthew - What is a code kata?
 
@@ -66,7 +68,6 @@ Chris - How can I use Capybara to test Sinatra?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
-* When do I use test doubles?
 * What makes a good pull request?
 * What is the different ways to use the css position property?
 * What makes a good test?
