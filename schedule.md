@@ -103,7 +103,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 2:00 - 2:50 - Lecture: A Philosophy of Testing / Lightning Talks
 - 2:50 - 5:50 Pair on challenges.
 - 5:50 - 6:00 End of day stand up
-- 6:00 - Speaker: Chris Lloyd of [Assemblymade.com](Assemblymade.com)
+- 6:00 - Speaker: Rose Trujillo
 
 #### Friday
 
