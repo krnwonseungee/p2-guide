@@ -49,6 +49,8 @@ Jamie - What is the difference between `GET` and `POST`? PART TWO!!
 ## Thursday
   Matthew - What is a code kata?
 
+  Hunter - Red green refactor
+
   Harry - What are the 4 rules of simple design?
 
   Chermaine - What is the 'params' hash?
@@ -79,4 +81,4 @@ Mason - What makes a good Pull request?
 * What makes a good test?
 * CSS Display Property
 * Database indexing
-* Red green refactor
+
