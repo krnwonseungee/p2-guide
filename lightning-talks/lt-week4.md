@@ -47,6 +47,7 @@ Mason - What are merge conflicts and how do I fix them?
 ## Friday
 
 Nic - What is the difference between abstraction and indirection?
+Anne - Sinatra Partial Views
 
 
 ## Available Talks
@@ -63,7 +64,6 @@ Nic - What is the difference between abstraction and indirection?
 * What makes a good test?
 * What does 'semantic markup' mean?
 * How can I use the sessions hash in Sinatra?
-* Sinatra Partial Views
 * CSS Display Property
 * Database indexing
 * Red green refactor
