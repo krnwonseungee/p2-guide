@@ -68,7 +68,6 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 2:50 - 5:50 Pair on challenges
 - 5:50 - 6:00 End of day stand up
 
-**Links below this point are not yet live.**
 #### Wednesday
 
 - 8:45 - 9:00 Meet with accountability buddies
@@ -84,6 +83,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 2:50 - 5:50 Pair on Challenges
 - 5:50 - 6:00 End of day stand up
 
+**Links below this point are not yet live.**
 #### Thursday
 **Solo Optional Day**
 
