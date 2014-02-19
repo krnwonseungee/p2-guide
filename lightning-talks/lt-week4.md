@@ -67,6 +67,8 @@ Anne - Sinatra Partial Views
 
 Chris - How can I use Capybara to test Sinatra?
 
+Mason - What makes a good Pull request?
+
 ## Available Talks
 
 * How can I use local git branches to make spiking easier?
