@@ -57,6 +57,8 @@ Elliot - When do I use test doubles?
 
 ## Friday
 
+Armando - What does 'semantic markup' mean?
+
 Nic - What is the difference between abstraction and indirection?
 
 Anne - Sinatra Partial Views
@@ -71,7 +73,6 @@ Chris - How can I use Capybara to test Sinatra?
 * What makes a good pull request?
 * What is the different ways to use the css position property?
 * What makes a good test?
-* What does 'semantic markup' mean?
 * CSS Display Property
 * Database indexing
 * Red green refactor
