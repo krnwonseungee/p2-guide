@@ -84,6 +84,7 @@
 - [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial
 - [List of CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
+- [Sublime Shortcuts: Embedded ruby tag](https://github.com/eddorre/SublimeERB)
 
 #### Rack
 - [Rack Compliant Frameworks](https://devcenter.heroku.com/articles/rack#sinatra), :level_2
