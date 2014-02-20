@@ -84,11 +84,10 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 9:00 EE Practice
 - 9:15 Lecture: [Sessions](./lecture-notes/sessions-lecture)
 - 9:50 - 12:30 Pair on challenges.
-  - REQUIRED
-      - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
-      - [Blog 3: Pagination](https://github.com/banana-slugs-2014/blog-3-pagination-challenge)
-      - [Sinatra URL Shortener](https://github.com/banana-slugs-2014/sinatra-url-shortener-challenge)
-      - [Sinatra URL Shortener: With Users](https://github.com/banana-slugs-2014/sinatra-url-shortener-with-users-challenge)
+    - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
+    - [Blog 3: Pagination](https://github.com/banana-slugs-2014/blog-3-pagination-challenge)
+    - [Sinatra URL Shortener](https://github.com/banana-slugs-2014/sinatra-url-shortener-challenge)
+    - [Sinatra URL Shortener: With Users](https://github.com/banana-slugs-2014/sinatra-url-shortener-with-users-challenge)
 - 2:00 - 2:50 - Lightning Talks
 - 2:50 - 5:50 Pair on challenges.
 - 5:50 - 6:00 End of day stand up
