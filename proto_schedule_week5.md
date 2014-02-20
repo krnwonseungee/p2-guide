@@ -6,7 +6,7 @@
 
 [Learning Competencies](learning-competencies/week-5-lc.md)
 
-####Monday
+#### Monday
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
@@ -23,7 +23,7 @@
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00-6:00 Pair on Challenges
 
-####Tuesday  - Solo Optional Day
+#### Tuesday  - Solo Optional Day
 
 [Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
@@ -44,7 +44,7 @@
 * Breakout - Setting Up Jasmine : TDD Orange Trees
 * 3:00 - 6:00 Pair on challenges.
 
-####Wednesday
+#### Wednesday
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
@@ -61,7 +61,7 @@
 * 2:00 Lecture
 * 3:00 - 6:00 Pair on Challenges
 
-####Thursday  - Solo Optional Day
+#### Thursday  - Solo Optional Day
 
 [Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
@@ -78,7 +78,7 @@
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on challenges.
 
-####Friday
+#### Friday
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00 Small group check-ins
@@ -86,7 +86,7 @@
 * 10:00 Group Project in Teams.
  * [Survey Gorilla]()
 
-####Weekend
+#### Weekend
 
 * Fill out the [learning objectives survey]()
 * Work on group projects - presentation on Monday
