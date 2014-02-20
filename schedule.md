@@ -43,7 +43,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9 AM - Welcome new Phase to DBC - group teach in.
-- 2:00 - 2:35 Lecture: Course overview; 1000 Foot view of the Internet, vocabulary (Steven)
+- 2:00 - 2:35 Lecture: Course overview; [1000 Foot view of the Internet, - vocabulary (Steven)](./lecture-notes/1000_foot_view_of_internet)
 - 2:35-5:50: Pair on Challenges
   - [Deaf Sinatra 1: Synchronous Forms](https://github.com/banana-slugs-2014/deaf-sinatra-1-synchronous-forms-challenge)
   - [Anagram Server 1: The Basics](https://github.com/banana-slugs-2014/anagram-server-1-the-basics-challenge)
