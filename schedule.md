@@ -85,7 +85,8 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 **Links below this point are not yet live.**
 #### Thursday
-**Solo Optional Day**
+
+[Pairings](./2014-02-20-pairings.md)
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
