@@ -60,11 +60,8 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 9:50 - 12:00 Pair on challenges
   - [Craigslist, Jr](https://github.com/banana-slugs-2014/craigslist-jr-challenge)
   - [Blog 1: Anonymous Blog](https://github.com/banana-slugs-2014/blog-1-anonymous-blog-challenge)
-  - [Heroku 1: Getting Started](https://github.com/banana-slugs-2014/heroku-1-getting-started-challenge)
-  - [Heroku 2: Apps Ahoy](https://github.com/banana-slugs-2014/heroku-2-apps-ahoy-challenge)
-  - [thing-o: Release 0](https://github.com/banana-slugs-2014/thing-o-challenge)
 - 12:00 - 12:30 EE Shallow Dive: Difficult Discussions
-- 2:00 - 2:50 - Lecture: Using Chrome tools to debug (Steven) / Lightning Talks
+- 2:00 - 2:50 - Lecture: Review of REST and HTTP verbs (Steven) / Lightning Talks
 - 2:50 - 5:50 Pair on challenges
 - 5:50 - 6:00 End of day stand up
 
@@ -75,10 +72,6 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 9:15 Lecture: [REST in 10 minutes & Deploying to Heroku](lecture-notes/REST-and-heroku.md)
 - 9:50 - 12:30 Pair on challenges (**Controller and unit tests where
   appropriate are now expected, even if the challenge does not explicitly mention doing so**)
-  - [Sinatra URL Shortener](https://github.com/banana-slugs-2014/sinatra-url-shortener-challenge)
-  - [Dummy Users](https://github.com/banana-slugs-2014/dummy-users-challenge)
-  - [Sinatra URL Shortener: With Users](https://github.com/banana-slugs-2014/sinatra-url-shortener-with-users-challenge)
-  - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
 - 2:00 - 2:50 - Lecture: Sessions (Steven) &amp; Portfolio Challenges / Lightning Talks
 - 2:50 - 5:50 Pair on Challenges
 - 5:50 - 6:00 End of day stand up
@@ -89,18 +82,25 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
-- 9:15 Lecture: CSS
+- 9:15 Lecture: Sessions
 - 9:50 - 12:30 Pair on challenges.
-  - [Layout Drill: Left-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-left-hand-navigation-challenge)
-  - [Layout Drill: Right-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-right-hand-navigation-challenge)
-  - [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
-  - [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
-  - [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
-  - [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
-  - [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
-  - [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
-  - [Blog 3: Pagination](https://github.com/banana-slugs-2014/blog-3-pagination-challenge)
-- 2:00 - 2:50 - Lecture: A Philosophy of Testing / Lightning Talks
+  - REQUIRED
+    - [Sinatra URL Shortener](https://github.com/banana-slugs-2014/sinatra-url-shortener-challenge)
+    - [Sinatra URL Shortener: With Users](https://github.com/banana-slugs-2014/sinatra-url-shortener-with-users-challenge)
+  - Choose your own adventure:
+    - CSS Drills
+      - [Layout Drill: Left-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-left-hand-navigation-challenge)
+      - [Layout Drill: Right-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-right-hand-navigation-challenge)
+      - [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
+      - [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
+      - [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
+      - [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
+      - [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
+      - [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
+    - Core Web Server
+      - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
+      - [Blog 3: Pagination](https://github.com/banana-slugs-2014/blog-3-pagination-challenge)
+- 2:00 - 2:50 - Lightning Talks
 - 2:50 - 5:50 Pair on challenges.
 - 5:50 - 6:00 End of day stand up
 - 6:00 - Speaker: Rose Trujillo
