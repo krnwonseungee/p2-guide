@@ -1,18 +1,20 @@
 # Phase 2
 
-[Overview of the Phase](overview.md) | [Resources](resources.md)  
+[Overview of the Phase](overview.md) | [Resources](resources.md)
 
-### Week 5: 
+### Week 5:
 
 [Learning Competencies](learning-competencies/week-5-lc.md)
 
 ####Monday
 
 * 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture 
+* 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Present group projects.
-* 9:30 Daily Overview Lecture 
+* 9:30 Daily Overview Lecture
 * 9:30-12:30 Pair on challenges
+ * [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
+ * [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
  * [jQuery Challenge](https://github.com/sea-lions-2014/jquery-challenge)
  * [Behavior Drill: Collapsible Side Menu](https://github.com/sea-lions-2014/behavior-drill-collapsible-side-menu-challenge)
  * [Behavior Drill: Style Editor](https://github.com/sea-lions-2014/behavior-drill-style-editor-challenge)
@@ -23,13 +25,14 @@
 
 ####Tuesday  - Solo Optional Day
 
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
+[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
 * 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture  
+* 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Daily Overview Lecture (optional)
 * 9:30 - 12:00 Pair on challenges.
- 
+   * [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
+   * [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
  * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
  * [JavaScript Racer 2: Back-end](https://github.com/sea-lions-2014/javascript-racer-2-back-end-challenge)
  * [JavaScript Racer 3: Sane JavaScript](https://github.com/sea-lions-2014/javascript-racer-3-sane-javascript-challenge)
@@ -47,29 +50,31 @@
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture (optional)
 * 9:30 - 12:30 Pair on challenges.
+ * [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
+ * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
  * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
  * [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
  * [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
  * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
  * [Hacker News Clone (Part 2)](https://github.com/sea-lions-2014/hacker-news-clone-part-2-challenge)
 <!-- [AJAXify Todos](../../../challenge-ajax-todos) -->
-* 2:00 Lecture 
+* 2:00 Lecture
 * 3:00 - 6:00 Pair on Challenges
 
 ####Thursday  - Solo Optional Day
 
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM) 
+[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00 Phase 3 Pitches
-* 9:30  EE Training, Choose Afternoon Lecture  
-* 9:40 Daily Overview Lecture 
+* 9:30  EE Training, Choose Afternoon Lecture
+* 9:40 Daily Overview Lecture
 * 10:00 - 12:30 Pair on challenges.
  * [Behavior Drill: Form Validation](https://github.com/sea-lions-2014/behavior-drill-form-validation-challenge)
  * [Flickr, Jr.](https://github.com/sea-lions-2014/flickr-jr-challenge)
  * STRETCH [Behavior Drill: Image Carousel](https://github.com/sea-lions-2014/behavior-drill-image-carousel-challenge)
  * STRETCH [Behavior Drill: Persisting Order]()
- 
+
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on challenges.
 
@@ -78,12 +83,12 @@
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00 Small group check-ins
 * 10:00 Brief lecture on Group Project
-* 10:00 Group Project in Teams. 
+* 10:00 Group Project in Teams.
  * [Survey Gorilla]()
 
 ####Weekend
 
-* Fill out the [learning objectives survey]() 
+* Fill out the [learning objectives survey]()
 * Work on group projects - presentation on Monday
 * Try to have 8 of the Portfolio Challenges finished
 * Catch up on Week 5 Challenges that you didn't finish.
