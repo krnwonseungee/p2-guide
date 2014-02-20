@@ -56,7 +56,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice: four-minute meditation
-- 9:15 The Request / Response Cycle Lecture ♽ (Steven) - - [Notes](./lectures-notes/rack_lecture)
+- 9:15 The Request / Response Cycle Lecture ♽ (Steven) - [Notes](./lecture-notes/rack_lecture)
 - 9:50 - 12:00 Pair on challenges
   - [Craigslist, Jr](https://github.com/banana-slugs-2014/craigslist-jr-challenge)
   - [Blog 1: Anonymous Blog](https://github.com/banana-slugs-2014/blog-1-anonymous-blog-challenge)
