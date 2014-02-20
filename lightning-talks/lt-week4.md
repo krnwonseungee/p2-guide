@@ -73,7 +73,7 @@ Mason - What makes a good Pull request?
 
 Ivan - CSS Display Property
 
-Brittany -  What is the different ways to use the css position property?
+Brittany - What is the different ways to use the css position property?
 
 ## Available Talks
 
