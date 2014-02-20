@@ -22,10 +22,6 @@ If you find yourself asking for a lot of help then you've clearly not mastered
 the objective.  Go back to your learning and find your gaps and then re-attempt
 the challenge.  Were you able to do it faster?  Did new gaps emerge?
 
-## Availability
-
-They will be made available as we cover their content.
-
 ## Delivery
 
 After cloning the repository and completing the work on your branch, push your branch
@@ -33,8 +29,24 @@ to the repo and open a pull request for it.
 
 ## The Challenges
 
-* [P1 Sinatra Restful Crud][pf1]
-* [P2 Active Record People Skills][pf2]
+* [Portfolio 1: Sinatra RESTful CRUD][pf1]
+* [Portfolio 2: Active Record][pf2]
+* [Portfolio 3: Authentication And Authorization][pf3]
+* [Portfolio 4: CSS Layout][pf4]
+* [Portfolio 5: Validations and Errors][pf5]
+* [Portfolio 6: JavaScript OO][pf6]
+* [Portfolio 7: AJAX and jQuery][pf7]
+* [Portfolio 8: JavaScript Dynamic Events][pf8]
+* [Portfolio 9: Client Server Scoping][pf9]
+* [Portfolio 10: API][pf10]
 
 [pf1]: https://github.com/banana-slugs-2014/ph2-p1-sinatra-restful-crud-challenge
 [pf2]: https://github.com/banana-slugs-2014/ph2-p2-active-record-people-skills-challenge
+[pf3]: https://github.com/sea-lions-2014/ph2-p3-sinatra-authentication-and-authorization-challenge
+[pf4]: https://github.com/sea-lions-2014/ph2-p4-css-layout-simple-marketing-page-challenge
+[pf5]: https://github.com/sea-lions-2014/ph2-p5-active-record-and-sinatra-propagating-validations-challenge
+[pf6]: https://github.com/sea-lions-2014/ph2-p6-javascript-refactor-procedural-to-oo-challenge
+[pf7]: https://github.com/sea-lions-2014/ph2-p7-javascript-ajax-and-jquery-challenge
+[pf8]: https://github.com/sea-lions-2014/ph2-p8-javascript-dynamic-elements-and-events-challenge
+[pf9]: https://github.com/sea-lions-2014/ph2-p9-client-server-scoping-challenge
+[pf10]: https://github.com/sea-lions-2014/ph2-p10-ruby-api-s-challenge
