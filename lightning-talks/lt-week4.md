@@ -71,14 +71,14 @@ Chris - How can I use Capybara to test Sinatra?
 
 Mason - What makes a good Pull request?
 
+Ivan - CSS Display Property
+
 ## Available Talks
 
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
-* What makes a good pull request?
 * What is the different ways to use the css position property?
 * What makes a good test?
-* CSS Display Property
 * Database indexing
 
