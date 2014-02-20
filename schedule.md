@@ -88,17 +88,6 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
   - REQUIRED
       - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
       - [Blog 3: Pagination](https://github.com/banana-slugs-2014/blog-3-pagination-challenge)
-  - Choose your own adventure:
-    - CSS Drills
-      - [Layout Drill: Left-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-left-hand-navigation-challenge)
-      - [Layout Drill: Right-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-right-hand-navigation-challenge)
-      - [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
-      - [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
-      - [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
-      - [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
-      - [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
-      - [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
-    - Core Web Server
       - [Sinatra URL Shortener](https://github.com/banana-slugs-2014/sinatra-url-shortener-challenge)
       - [Sinatra URL Shortener: With Users](https://github.com/banana-slugs-2014/sinatra-url-shortener-with-users-challenge)
 - 2:00 - 2:50 - Lightning Talks
@@ -121,4 +110,6 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - Work on group projects - presentation on Monday
 - Complete the first 4 [Portfolio Challenges](portfolio-challenges.md) finished
 - Do [Prep for Week 5](week-5-prep.md)
-- Catch up on Week 4 Challenges that you didn't finish.
+- 2 CSS Challenges
+    - [Layout Drill: Left-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-left-hand-navigation-challenge)
+    - [Layout Drill: Right-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-right-hand-navigation-challenge)
