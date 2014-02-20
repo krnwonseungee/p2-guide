@@ -76,7 +76,6 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 2:50 - 5:50 Pair on Challenges
 - 5:50 - 6:00 End of day stand up
 
-**Links below this point are not yet live.**
 #### Thursday
 
 [Pairings](./2014-02-20-pairings.md)
@@ -94,6 +93,8 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 2:50 - 5:50 Pair on challenges.
 - 5:50 - 6:00 End of day stand up
 - 6:00 - Speaker: Rose Trujillo
+
+**Links below this point are not yet live.**
 
 #### Friday
 
