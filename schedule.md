@@ -56,7 +56,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice: four-minute meditation
-- 9:15 The Request / Response Cycle Lecture ♽ (Steven)
+- 9:15 The Request / Response Cycle Lecture ♽ (Steven) - - [Notes](./lectures-notes/rack_lecture)
 - 9:50 - 12:00 Pair on challenges
   - [Craigslist, Jr](https://github.com/banana-slugs-2014/craigslist-jr-challenge)
   - [Blog 1: Anonymous Blog](https://github.com/banana-slugs-2014/blog-1-anonymous-blog-challenge)
@@ -72,7 +72,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 9:15 Lecture: [REST in 10 minutes & Deploying to Heroku](lecture-notes/REST-and-heroku.md)
 - 9:50 - 12:30 Pair on challenges (**Controller and unit tests where
   appropriate are now expected, even if the challenge does not explicitly mention doing so**)
-- 2:00 - 2:50 - Lecture: Sessions (Steven) &amp; Portfolio Challenges / Lightning Talks
+- 2:00 - 2:50 - Portfolio Challenges / Lightning Talks
 - 2:50 - 5:50 Pair on Challenges
 - 5:50 - 6:00 End of day stand up
 
@@ -83,7 +83,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
-- 9:15 Lecture: Sessions
+- 9:15 Lecture: [Sessions](./lecture-notes/sessions-lecture)
 - 9:50 - 12:30 Pair on challenges.
   - REQUIRED
       - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
