@@ -73,12 +73,13 @@ Mason - What makes a good Pull request?
 
 Ivan - CSS Display Property
 
+Brittany - What is the different ways to use the css position property?
+
 ## Available Talks
 
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
-* What is the different ways to use the css position property?
 * What makes a good test?
 * Database indexing
 
