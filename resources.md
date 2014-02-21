@@ -15,7 +15,7 @@
   - [Heroku](#heroku)
   - [Rake](#rake)
   - [git](#git)
-  - [Pull Requests]
+  - [Pull Requests](#pull-requests)
 1. [Week 5: JavaScript](#week-5--javascript)
   - [JavaScript](#javascript)
   - [Jasmine: JavaScript Testing](#jasmine)
