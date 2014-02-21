@@ -93,8 +93,6 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 - 5:50 - 6:00 End of day stand up
 - 6:00 - Speaker: Rose Trujillo
 
-**Links below this point are not yet live.**
-
 #### Friday
 
 - 8:45 - 9:00 Meet with accountability buddies
