@@ -110,7 +110,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
   - [Self-Assessment–Week 4](https://docs.google.com/forms/d/1bvdA2O8N8GfCZYjZDEuAwg8fpfMJaZ0GSUZAJ-5Apao/viewform)
   - [Weekly Retrospective](http://bit.ly/sfretro)
 - Work on group projects - presentation on Monday
-- Complete the first 4 [Portfolio Challenges](portfolio-challenges.md) finished
+- Complete the first 4 [Portfolio Challenges](portfolio_challenges.md) finished
 - Do [Prep for Week 5][] (_TBU by Steven_)
 - 2 CSS Challenges
     - [Layout Drill: Left-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-left-hand-navigation-challenge)
