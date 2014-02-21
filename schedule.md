@@ -104,12 +104,14 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 #### Weekend
 
-**Some inks are not yet wired up**
+**Some links are not yet wired up**
 
-- Fill out the [learning objectives self-assessment survey]()
+- This week's surveys (_TBU by Strand_):
+  - [Self-Assessment][]
+  - [learning objectives self-assessment survey]()
 - Work on group projects - presentation on Monday
 - Complete the first 4 [Portfolio Challenges](portfolio-challenges.md) finished
-- Do [Prep for Week 5](week-5-prep.md)
+- Do [Prep for Week 5][] (_TBU by Steven_)
 - 2 CSS Challenges
     - [Layout Drill: Left-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-left-hand-navigation-challenge)
     - [Layout Drill: Right-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-right-hand-navigation-challenge)
