@@ -106,9 +106,9 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 **Some links are not yet wired up**
 
-- This week's surveys (_TBU by Strand_):
-  - [Self-Assessment][]
-  - [learning objectives self-assessment survey]()
+- This week's surveys:
+  - [Self-Assessment–Week 4](https://docs.google.com/forms/d/1bvdA2O8N8GfCZYjZDEuAwg8fpfMJaZ0GSUZAJ-5Apao/viewform)
+  - [Weekly Retrospective](http://bit.ly/sfretro)
 - Work on group projects - presentation on Monday
 - Complete the first 4 [Portfolio Challenges](portfolio-challenges.md) finished
 - Do [Prep for Week 5][] (_TBU by Steven_)
