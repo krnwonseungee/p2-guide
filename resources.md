@@ -15,6 +15,7 @@
   - [Heroku](#heroku)
   - [Rake](#rake)
   - [git](#git)
+  - [Pull Requests](#pull-requests)
 1. [Week 5: JavaScript](#week-5--javascript)
   - [JavaScript](#javascript)
   - [Jasmine: JavaScript Testing](#jasmine)
@@ -115,6 +116,13 @@
 - [Git Immersion](http://gitimmersion.com/)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 - [Git Flow -thanks Lloyd](https://github.com/netelder/tictactoe/blob/master/git_procedure.txt)
+
+### Pull Requests
+- [Best: Using Pull Requests](https://help.github.com/articles/using-pull-requests)
+- [Effective pull requests](http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
+- [Pull Requests - What to Do When Things Get Complicated](https://spring.io/blog/2011/07/18/social-coding-pull-requests-what-to-do-when-things-get-complicated)
+- [Example of a Pull Request on the Bitly code](https://github.com/bitly/dablooms/pull/19)
+
 
 ### Week 5: JavaScript
 
