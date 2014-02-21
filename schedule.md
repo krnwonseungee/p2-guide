@@ -104,6 +104,8 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 #### Weekend
 
+**Links are not yet wired up**
+
 - Fill out the [learning objectives self-assessment survey]()
 - Work on group projects - presentation on Monday
 - Complete the first 4 [Portfolio Challenges](portfolio-challenges.md) finished
