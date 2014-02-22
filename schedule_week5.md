@@ -25,25 +25,27 @@ use of our time together.
 
 #### Monday
 
-** Advise drill to take ~ 30 min. ea. **
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Present group projects.
 * 9:30-9:50 Super short lecture on jQuery (Strand)
-* 10:00-12:30 Pair on challenges
+* 10:00-12:30 Pair on challenges (**Drills should take ~ 30 min. ea.**)
+  * _Don't forget to sign up for lightning talks!_
   * [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
   * [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
-  * **Required** [jQuery Challenge](https://github.com/sea-lions-2014/jquery-challenge)
-  * [Behavior Drill: Collapsible Side Menu](https://github.com/sea-lions-2014/behavior-drill-collapsible-side-menu-challenge)
-  * [Behavior Drill: Style Editor](https://github.com/sea-lions-2014/behavior-drill-style-editor-challenge)
-  * [Behavior Drill: Add Comments](https://github.com/sea-lions-2014/behavior-drill-add-comments-challenge)
+  * **Required** [jQuery Challenge](https://github.com/banana-slugs-2014/jquery-challenge)
+  * [Behavior Drill: Collapsible Side Menu](https://github.com/banana-slugs-2014/behavior-drill-collapsible-side-menu-challenge)
+  * [Behavior Drill: Style Editor](https://github.com/banana-slugs-2014/behavior-drill-style-editor-challenge)
+  * [Behavior Drill: Add Comments](https://github.com/banana-slugs-2014/behavior-drill-add-comments-challenge)
 * 2:00 - LECTURE: Writing Javascript Like a Real Engineer
 * 3:00-6:00 Pair on Challenges
-  * Rule:  you cannot use jQuery "bare"
-  * **So Required it Hurts** [Orange Trees](https://github.com/sea-lions-2014/orange-jasmine-challenge)
-  * [JavaScript Racer 1: Front-end](https://github.com/sea-lions-2014/javascript-racer-1-front-end-challenge)
-  * [JavaScript Racer 2: Back-end](https://github.com/sea-lions-2014/javascript-racer-2-back-end-challenge)
+  * **"Rule"**:  Henceforth you cannot use jQuery "bare"
+  * **So Required it Hurts** [Orange Trees](https://github.com/banana-slugs-2014/orange-jasmine-challenge)
+  * [JavaScript Racer 1: Front-end](https://github.com/banana-slugs-2014/javascript-racer-1-front-end-challenge)
+  * [JavaScript Racer 2: Back-end](https://github.com/banana-slugs-2014/javascript-racer-2-back-end-challenge)
+
+**Links past this point may not work**
 
 #### Tuesday
 
