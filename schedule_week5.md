@@ -49,7 +49,7 @@ use of our time together.
 
 #### Tuesday
 
-[Book Your Appointment with A Teacher][] **TBD**
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)]
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
