@@ -31,6 +31,7 @@ use of our time together.
 * 9:10 Present group projects.
 * 9:30-9:50 Super short lecture on jQuery (Strand)
 * 10:00-12:30 Pair on challenges (**Drills should take ~ 30 min. ea.**)
+  * _Don't forget to sign up for lightning talks!_
   * [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
   * [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
   * **Required** [jQuery Challenge](https://github.com/sea-lions-2014/jquery-challenge)
