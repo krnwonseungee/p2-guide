@@ -14,6 +14,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 # Week 2 Lightning Talks
 
 ## Tuesday
+Irene - JavaScript 'this'
 
 
 ## Wednesday
@@ -37,7 +38,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Angular Overview
 * JavaScript Prototype
 * JavaScript Form Validation
-* JavaScript 'this'
 * helper methods
 * Describe (some) benefits of (Angular/Ember/Backbone)
 * Active Record : includes and "The N+1 Problem"
