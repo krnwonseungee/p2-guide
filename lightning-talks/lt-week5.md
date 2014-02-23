@@ -17,7 +17,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Wednesday
-    - Jamie: * [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
+    - Jamie: [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 
 ## Thursday
 
