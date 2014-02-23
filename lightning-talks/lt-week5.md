@@ -17,6 +17,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Wednesday
+    - Jamie: * [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 
 ## Thursday
 
@@ -36,7 +37,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Angular Overview
 * JavaScript Prototype
 * JavaScript Form Validation
-* [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * JavaScript 'this'
 * helper methods
 * Describe (some) benefits of (Angular/Ember/Backbone)
