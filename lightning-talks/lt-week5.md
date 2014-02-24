@@ -20,6 +20,7 @@ Armando - JavaScript Object Literals vs Constructor Function Objects
 
 ## Wednesday
 Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
+Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
 
 ## Thursday
 Brittany - jQuery Effects
@@ -40,7 +41,7 @@ Brittany - jQuery Effects
 * JavaScript Prototype
 * JavaScript Form Validation
 * helper methods
-* Describe (some) benefits of (Angular/Ember/Backbone)
+
 * Active Record : includes and "The N+1 Problem"
 * Coffee Script
 
