@@ -17,6 +17,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 Irene - JavaScript 'this'
 Armando - JavaScript Object Literals vs Constructor Function Objects
 Chermaine -  JavaScript Prototype
+Quentin - Helpers methods
 
 ## Wednesday
 Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
@@ -39,7 +40,6 @@ Brittany - jQuery Effects
 * Angular Overview
 
 * JavaScript Form Validation
-* helper methods
 
 * Active Record : includes and "The N+1 Problem"
 * Coffee Script
