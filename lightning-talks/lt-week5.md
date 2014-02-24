@@ -16,7 +16,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Tuesday
 Irene - JavaScript 'this'
 Armando - JavaScript Object Literals vs Constructor Function Objects
-
+Chermaine -  JavaScript Prototype
 
 ## Wednesday
 Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
@@ -28,7 +28,7 @@ Brittany - jQuery Effects
 ## Available Talks
 
 * jQuery Events
-* JavaScript 'this'
+
 * When to use ';' in Javascript?
 * jQuery Traversal
 * JavaScript Scope
@@ -36,9 +36,8 @@ Brittany - jQuery Effects
 * STI and Polymorphism.md
 * jQuery Selectors
 * Password hashing with bcrypt gem
-* Javascript prototype
 * Angular Overview
-* JavaScript Prototype
+
 * JavaScript Form Validation
 * helper methods
 
