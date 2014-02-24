@@ -15,6 +15,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 Irene - JavaScript 'this'
+Armando - JavaScript Object Literals vs Constructor Function Objects
 
 
 ## Wednesday
@@ -42,7 +43,7 @@ Irene - JavaScript 'this'
 * Describe (some) benefits of (Angular/Ember/Backbone)
 * Active Record : includes and "The N+1 Problem"
 * Coffee Script
-* JavaScript Object Literals vs Constructor Function Objects
+
 * JavaScript selectors (and traversal)
 * Database Migration constraints
 * Partials
