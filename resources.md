@@ -169,3 +169,7 @@
 - [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
 - [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/)
 - [Designing With Class: Sinatra + PostgreSQL + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
+
+
+### Books
+- [Principles of Object Oriented Programming in Javascript](http://www.nostarch.com/releases/OOJS_PR.html)
