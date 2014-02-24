@@ -4,6 +4,7 @@
 
 - [Daily schedule](#daily-schedule)
 - [Weekly schedule](#weekly-schedule)
+- [Week 4](schedule_week4.md)
 - [Week 5](#week-5)
   - [Monday](#monday)
   - [Tuesday](#tuesday)
