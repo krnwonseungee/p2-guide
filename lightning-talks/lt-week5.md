@@ -27,8 +27,9 @@ Johnny- Testing (Jasmine)
 
 ## Thursday
 Brittany - jQuery Effects
-Nic - JavaScript Scope
-Harry - JavaScript Form Validation
+Nic - JavaScript Scope  
+Harry - JavaScript Form Validation  
+Mason - Coffee Script
 
 ## Available Talks
 
@@ -43,7 +44,6 @@ Harry - JavaScript Form Validation
 * Angular Overview
 
 * Active Record : includes and "The N+1 Problem"
-* Coffee Script
 
 * JavaScript selectors (and traversal)
 * Database Migration constraints
