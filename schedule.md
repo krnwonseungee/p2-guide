@@ -82,11 +82,12 @@ use of our time together.
   * [JavaScript Racer 1: Front-end](https://github.com/banana-slugs-2014/javascript-racer-1-front-end-challenge)
   * [JavaScript Racer 2: Back-end](https://github.com/banana-slugs-2014/javascript-racer-2-back-end-challenge)
 
-**Links past this point may not work**
 
 #### Tuesday
 
-[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)]
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)
+
+**Links past this point may not work**
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
