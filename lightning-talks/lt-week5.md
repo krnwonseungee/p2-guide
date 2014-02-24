@@ -23,10 +23,12 @@ Quentin - Helpers methods
 ## Wednesday
 Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
-Johnny- Testing (Jasmine) 
+Johnny- Testing (Jasmine)
+
 ## Thursday
-Brittany - jQuery Effects  
+Brittany - jQuery Effects
 Nic - JavaScript Scope
+Harry - JavaScript Form Validation
 
 ## Available Talks
 
@@ -39,8 +41,6 @@ Nic - JavaScript Scope
 * jQuery Selectors
 * Password hashing with bcrypt gem
 * Angular Overview
-
-* JavaScript Form Validation
 
 * Active Record : includes and "The N+1 Problem"
 * Coffee Script
