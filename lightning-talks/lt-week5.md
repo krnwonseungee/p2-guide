@@ -19,10 +19,11 @@ Armando - JavaScript Object Literals vs Constructor Function Objects
 Chermaine -  JavaScript Prototype
 Quentin - Helpers methods
 
+
 ## Wednesday
 Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
-
+Johnny- Testing (Jasmine) 
 ## Thursday
 Brittany - jQuery Effects  
 Nic - JavaScript Scope
@@ -50,7 +51,6 @@ Nic - JavaScript Scope
 * JavaScript templates (underscore, mustache)
 * Testing (shoulda-matchers)
 * Testing (Capybara)
-* Testing (Jasmine)
 
 
 
