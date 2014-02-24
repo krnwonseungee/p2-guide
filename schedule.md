@@ -37,81 +37,109 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
 
 ## Week 4
 
-###[Learning Competencies](learning-competencies/week-4-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week4.md)
+### [Learning Competencies](learning-competencies/week-5-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week5.md)
+
+### Notes on Monday and Tuesday
+
+These two days can be very flexible.  The goal of this week is to teach you to
+write nice, neat, modular Javascript which, when necessary, uses jQuery to
+accomplish things.
+
+While the exact order in which these challenges need to be completed might
+vary, we can adjust the schedule as needed.  Since we are doing a "Mega-Day,"
+we will be assigning pairs and are rescinding the solo option for Tuesday.
+
+### Notes for the Week:  1/1 Time
+
+On 1/1 days be ready on the machine you wish to demonstrate on at least 5
+minutes in advance of your appointment.  Make sure your gems are bundled and
+the application (and its tests) can run.  This will ensure the most productive
+use of our time together.
 
 #### Monday
 
-- 8:45 - 9:00 Meet with accountability buddies
-- 9 AM - Welcome new Phase to DBC - group teach in.
-- 2:00 - 2:35 Lecture: Course overview; [1000 Foot view of the Internet, - vocabulary (Steven)](./lecture-notes/1000_foot_view_of_internet)
-- 2:35-5:50: Pair on Challenges
-  - [Deaf Sinatra 1: Synchronous Forms](https://github.com/banana-slugs-2014/deaf-sinatra-1-synchronous-forms-challenge)
-  - [Anagram Server 1: The Basics](https://github.com/banana-slugs-2014/anagram-server-1-the-basics-challenge)
-  - [Sinatra Sandbox](https://github.com/banana-slugs-2014/sinatra-sandbox-challenge)
-  - [Anagram Server 2: Ludicrous Speed](https://github.com/banana-slugs-2014/anagram-server-2-ludicrous-speed-challenge)
-- 5:50 - 6:00 End of day stand up
+* 8:45 - 9:00 Meet with accountability buddies
+* 9:00  EE Training, Choose Afternoon Lecture
+* 9:10 Present group projects.
+* 9:30-9:50 Super short lecture on jQuery (Strand)
+* 10:00-12:30 Pair on challenges (**Drills should take ~ 30 min. ea.**)
+  * _Don't forget to sign up for lightning talks!_
+  * [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
+  * [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
+  * **Required** [jQuery Challenge](https://github.com/banana-slugs-2014/jquery-challenge)
+  * [Behavior Drill: Collapsible Side Menu](https://github.com/banana-slugs-2014/behavior-drill-collapsible-side-menu-challenge)
+  * [Behavior Drill: Style Editor](https://github.com/banana-slugs-2014/behavior-drill-style-editor-challenge)
+  * [Behavior Drill: Add Comments](https://github.com/banana-slugs-2014/behavior-drill-add-comments-challenge)
+* 2:00 - LECTURE: Writing Javascript Like a Real Engineer
+* 3:00-6:00 Pair on Challenges
+  * **"Rule"**:  Henceforth you cannot use jQuery "bare"
+  * **So Required it Hurts** [Orange Trees](https://github.com/banana-slugs-2014/orange-jasmine-challenge)
+  * [JavaScript Racer 1: Front-end](https://github.com/banana-slugs-2014/javascript-racer-1-front-end-challenge)
+  * [JavaScript Racer 2: Back-end](https://github.com/banana-slugs-2014/javascript-racer-2-back-end-challenge)
+
+**Links past this point may not work**
 
 #### Tuesday
-**Solo Optional Day**
 
-- 8:45 - 9:00 Meet with accountability buddies
-- 9:00 EE Practice: four-minute meditation
-- 9:15 The Request / Response Cycle Lecture ♽ (Steven) - [Notes](./lecture-notes/rack_lecture)
-- 9:50 - 12:00 Pair on challenges
-  - [Craigslist, Jr](https://github.com/banana-slugs-2014/craigslist-jr-challenge)
-  - [Blog 1: Anonymous Blog](https://github.com/banana-slugs-2014/blog-1-anonymous-blog-challenge)
-- 12:00 - 12:30 EE Shallow Dive: Difficult Discussions
-- 2:00 - 2:50 - Lecture: Review of REST and HTTP verbs (Steven) / Lightning Talks
-- 2:50 - 5:50 Pair on challenges
-- 5:50 - 6:00 End of day stand up
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)]
+
+* 8:45 - 9:00 Meet with accountability buddies
+* 9:00  EE Training, Choose Afternoon Lecture
+* 9:10 Daily Overview Lecture (optional): Breakout / Refinement on Javascript
+* 9:30 - 12:00 Pair on challenges.
+ * [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
+ * [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
+ * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
+ * [Thing-O](https://github.com/banana-slugs-2014/thing-o-challenge)
+* 12:00 - 12:30 EE Dive Deep
+* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
+* 3:00 - 6:00 Pair on challenges.
 
 #### Wednesday
 
-- 8:45 - 9:00 Meet with accountability buddies
-- 9:00 EE Practice
-- 9:15 Lecture: [REST in 10 minutes & Deploying to Heroku](lecture-notes/REST-and-heroku.md)
-- 9:50 - 12:30 Pair on challenges (**Controller and unit tests where
-  appropriate are now expected, even if the challenge does not explicitly mention doing so**)
-- 2:00 - 2:50 - Portfolio Challenges / Lightning Talks
-- 2:50 - 5:50 Pair on Challenges
-- 5:50 - 6:00 End of day stand up
+* 8:45 - 9:00 Meet with accountability buddies
+* 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
+* 9:10 Daily Overview Lecture: AJAX
+* 9:30 - 12:30 Pair on challenges.
+ * [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
+ * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
+ * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
+ * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
+ * **Required**[Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
+* 2:00 Lecture
+* 3:00 - 6:00 Pair on Challenges
+ * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
+ * [Hacker News Clone (Part 2)](https://github.com/sea-lions-2014/hacker-news-clone-part-2-challenge)
 
-#### Thursday
+#### Thursday  - Solo Optional Day
 
-[Pairings](./2014-02-20-pairings.md)
+[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
-- 8:45 - 9:00 Meet with accountability buddies
-- 9:00 EE Practice
-- 9:15 Lecture: [Sessions](./lecture-notes/sessions-lecture)
-- 9:50 - 12:30 Pair on challenges.
-    - [Blog 2: Multi - Author](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
-    - [Blog 3: Pagination](https://github.com/banana-slugs-2014/blog-3-pagination-challenge)
-    - [Sinatra URL Shortener](https://github.com/banana-slugs-2014/sinatra-url-shortener-challenge)
-    - [Sinatra URL Shortener: With Users](https://github.com/banana-slugs-2014/sinatra-url-shortener-with-users-challenge)
-- 2:00 - 2:50 - Lightning Talks
-- 2:50 - 5:50 Pair on challenges.
-- 5:50 - 6:00 End of day stand up
-- 6:00 - Speaker: Rose Trujillo
+* 8:45 - 9:00 Meet with accountability buddies
+* 9:00 Phase 3 Pitches
+* 9:30  EE Training, Choose Afternoon Lecture
+* 9:40 Daily Overview Lecture
+* 10:00 - 12:30 Pair on challenges.
+ * [Behavior Drill: Form Validation](https://github.com/sea-lions-2014/behavior-drill-form-validation-challenge)
+ * [Flickr, Jr.](https://github.com/sea-lions-2014/flickr-jr-challenge)
+ * STRETCH [Behavior Drill: Image Carousel](https://github.com/sea-lions-2014/behavior-drill-image-carousel-challenge)
+ * STRETCH [Behavior Drill: Persisting Order]()
+
+* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
+* 3:00 - 6:00 Pair on challenges.
 
 #### Friday
 
-- 8:45 - 9:00 Meet with accountability buddies
-- 9:00 Small group check-ins
-- 10:00 Brief lecture on Agile, Trello, Team strategies (Strand)
-- 10:30 Group Project in Teams.
-  - [Web Flash Cards 1: Multiple Decks](https://github.com/banana-slugs-2014/web-flash-cards-1-multiple-decks-challenge)
-- 5:00 Present your MVP (5 minutes).
+* 8:45 - 9:00 Meet with accountability buddies
+* 9:00 Small group check-ins
+* 10:00 Brief lecture on Group Project
+* 10:00 Group Project in Teams.
+ * [Survey Gorilla]()
 
 #### Weekend
 
-**Some links are not yet wired up**
+* Fill out the [learning objectives survey]()
+* Work on group projects - presentation on Monday
+* Try to have 8 of the Portfolio Challenges finished
+* Catch up on Week 5 Challenges that you didn't finish.
 
-- This week's surveys:
-  - [Self-Assessment–Week 4](https://docs.google.com/forms/d/1bvdA2O8N8GfCZYjZDEuAwg8fpfMJaZ0GSUZAJ-5Apao/viewform)
-  - [Weekly Retrospective](http://bit.ly/sfretro)
-- Work on group projects - presentation on Monday
-- Complete the first 4 [Portfolio Challenges](portfolio_challenges.md) finished
-- Do [Prep for Week 5][] (_TBU by Steven_)
-- 2 CSS Challenges
-    - [Layout Drill: Left-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-left-hand-navigation-challenge)
-    - [Layout Drill: Right-hand Navigation](https://github.com/banana-slugs-2014/layout-drill-right-hand-navigation-challenge)
