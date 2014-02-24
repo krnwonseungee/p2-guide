@@ -19,14 +19,14 @@ Armando - JavaScript Object Literals vs Constructor Function Objects
 
 
 ## Wednesday
-    - Jamie: [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
+Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 
 ## Thursday
+Brittany - jQuery Effects
 
 ## Available Talks
 
 * jQuery Events
-* jQuery Effects
 * JavaScript 'this'
 * When to use ';' in Javascript?
 * jQuery Traversal
