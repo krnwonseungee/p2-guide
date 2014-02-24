@@ -58,7 +58,7 @@ use of our time together.
 
 ### Megaday Pairings
 
-[Pairings](./2014-02-24-pairings.md)
+[Pairings](./pairings/2014-02-24-pairings.md)
 
 #### Monday
 
