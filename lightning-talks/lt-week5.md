@@ -24,7 +24,8 @@ Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymo
 Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
 
 ## Thursday
-Brittany - jQuery Effects
+Brittany - jQuery Effects  
+Nic - JavaScript Scope
 
 ## Available Talks
 
@@ -32,7 +33,6 @@ Brittany - jQuery Effects
 
 * When to use ';' in Javascript?
 * jQuery Traversal
-* JavaScript Scope
 * Dynamic Event binding and on
 * STI and Polymorphism.md
 * jQuery Selectors
