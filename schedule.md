@@ -35,7 +35,7 @@ EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group 
        | EE Shallow Dive | Yoga at Lunch |             | Yoga at lunch
        |               |               | Speaker       | Graduation (week 3)
 
-## Week 4
+## Week 5
 
 ### [Learning Competencies](learning-competencies/week-5-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week5.md)
 
