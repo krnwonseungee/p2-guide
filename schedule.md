@@ -56,6 +56,10 @@ minutes in advance of your appointment.  Make sure your gems are bundled and
 the application (and its tests) can run.  This will ensure the most productive
 use of our time together.
 
+### Megaday Pairings
+
+[Pairings](./2014-02-24-pairings.md)
+
 #### Monday
 
 * 8:45 - 9:00 Meet with accountability buddies
