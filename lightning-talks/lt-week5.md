@@ -27,11 +27,13 @@ Johnny- Testing (Jasmine)
 Jose - * Angular Overview
 
 
+
 ## Thursday
 Brittany - jQuery Effects
 Nic - JavaScript Scope  
 Harry - JavaScript Form Validation  
 Mason - Coffee Script
+Hunter - * Active Record : includes and "The N+1 Problem"
 
 ## Available Talks
 
