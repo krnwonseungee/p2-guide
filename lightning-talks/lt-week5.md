@@ -26,6 +26,7 @@ Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
 Johnny- Testing (Jasmine)
 Jose - * Angular Overview
 Mathilde - JavaScript templates (underscore, mustache)
+Ivan - When to use ';' in Javascript?
 
 
 
@@ -40,7 +41,6 @@ Hunter - * Active Record : includes and "The N+1 Problem"
 
 * jQuery Events
 
-* When to use ';' in Javascript?
 * jQuery Traversal
 * Dynamic Event binding and on
 * STI and Polymorphism.md
