@@ -50,7 +50,6 @@ Hunter - * Active Record : includes and "The N+1 Problem"
 * helper methods
 * Describe (some) benefits of (Angular/Ember/Backbone)
 >>>>>>> b5cdef1ef30db781fdb40b4c0d7626d920d7db47
-* Active Record : includes and "The N+1 Problem"
 
 * JavaScript selectors (and traversal)
 * Database Migration constraints
