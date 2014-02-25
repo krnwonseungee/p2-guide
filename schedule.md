@@ -95,7 +95,7 @@ use of our time together.
 * 9:30 - 12:00 Pair on challenges.
  * [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
  * [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
- * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
+ * [Behavior Drill: Tabbed Interface](https://github.com/banana-slugs-2014/behavior-drill-tabbed-interface-challenge)
  * [Thing-O](https://github.com/banana-slugs-2014/thing-o-challenge)
 * 12:00 - 12:30 EE Dive Deep
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
@@ -111,7 +111,7 @@ use of our time together.
  * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
  * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
  * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
- * **Required**[Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
+ * **Required** [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
 * 2:00 Lecture
 * 3:00 - 6:00 Pair on Challenges
  * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
