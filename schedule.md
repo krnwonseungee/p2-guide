@@ -81,7 +81,7 @@ use of our time together.
   * **So Required it Hurts** [Orange Trees](https://github.com/banana-slugs-2014/orange-jasmine-challenge)
   * [JavaScript Racer 1: Front-end](https://github.com/banana-slugs-2014/javascript-racer-1-front-end-challenge)
   * [JavaScript Racer 2: Back-end](https://github.com/banana-slugs-2014/javascript-racer-2-back-end-challenge)
-- After 6:00 - Look over [code reviews for the Craigslist Jr challenge](code-review).
+- After 6:00 - Look over [code reviews for the Craigslist Jr - - - challenge](./code-review/craigslist.md) or [Blog 2 - Multi-Author](./code-review/blog-2.md).
 
 
 #### Tuesday

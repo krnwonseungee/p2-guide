@@ -1,0 +1,12 @@
+## [Blog 2 MultiAuthor Code](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge)
+
+- [Anne - Armando](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/11)
+- [Nick hunter](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/10)
+- [Ivan quentin](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/9)
+- [Jamie and Darren](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/8)
+- [Johnny Chermaine](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/7)
+- [Mason phil](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/6)
+- [Mazza/Buchanananananan](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/5)
+- [Tim_Chris](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/4)
+- [Mathilde and Matthew's Multi-user blog](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/3)
+- [Implement user authentication for blog](https://github.com/banana-slugs-2014/blog-2-multi-author-challenge/pull/2)
