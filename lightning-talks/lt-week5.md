@@ -21,12 +21,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Wednesday
+
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
 * Johnny- Testing (Jasmine)
 * Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
 * Stephen - JavaScript Prototype
+* Ivan - When to use ';' in Javascript?
 
 
 
@@ -41,7 +43,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * jQuery Events
 
-* When to use ';' in Javascript?
 * jQuery Traversal
 * Dynamic Event binding and on
 * STI and Polymorphism.md
