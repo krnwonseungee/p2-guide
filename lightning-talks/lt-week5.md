@@ -27,7 +27,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Johnny- Testing (Jasmine)
 * Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
-* Stephen - JavaScript Prototype
+* Stephen - Password hashing with bcrypt gem
 * Ivan - When to use ';' in Javascript?
 
 
@@ -48,7 +48,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Dynamic Event binding and on
 * STI and Polymorphism.md
 * jQuery Selectors
-* Password hashing with bcrypt gem
 
 * helper methods
 
