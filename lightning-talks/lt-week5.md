@@ -18,7 +18,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Armando - JavaScript Object Literals vs Constructor Function Objects
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
-
+* Johnny - Describe (some) benefits of (Angular/Ember/Backbone)
 
 ## Wednesday
 
@@ -38,7 +38,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Harry - JavaScript Form Validation
 * Mason - Coffee Script
 * Hunter - * Active Record : includes and "The N+1 Problem"
-
+* Johnny- * JavaScript Form Validations
 ## Available Talks
 
 * jQuery Events
@@ -48,9 +48,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * STI and Polymorphism.md
 * jQuery Selectors
 * Password hashing with bcrypt gem
-* JavaScript Form Validation
+
 * helper methods
-* Describe (some) benefits of (Angular/Ember/Backbone)
 
 * JavaScript selectors (and traversal)
 * Database Migration constraints
