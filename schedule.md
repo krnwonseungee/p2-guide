@@ -95,7 +95,7 @@ use of our time together.
 * 9:30 - 12:00 Pair on challenges.
  * [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
  * [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
- * [Behavior Drill: Tabbed Interface](https://github.com/sea-lions-2014/behavior-drill-tabbed-interface-challenge)
+ * [Behavior Drill: Tabbed Interface](https://github.com/banana-slugs-2014/behavior-drill-tabbed-interface-challenge)
  * [Thing-O](https://github.com/banana-slugs-2014/thing-o-challenge)
 * 12:00 - 12:30 EE Dive Deep
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
