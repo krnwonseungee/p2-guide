@@ -40,6 +40,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Hunter - * Active Record : includes and "The N+1 Problem"
 * Johnny- * JavaScript Form Validations
 * Chris - * Partials
+* Darren - JavaScript selectors (and traversal)
 ## Available Talks
 
 * jQuery Events
@@ -51,7 +52,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * helper methods
 
-* JavaScript selectors (and traversal)
+
 * Database Migration constraints
 * Testing (shoulda-matchers)
 
