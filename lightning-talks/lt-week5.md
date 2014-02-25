@@ -25,13 +25,14 @@ Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymo
 Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
 Johnny- Testing (Jasmine)
 Jose - * Angular Overview
+Mathilde - JavaScript templates (underscore, mustache)
 
 
 
 ## Thursday
 Brittany - jQuery Effects
-Nic - JavaScript Scope  
-Harry - JavaScript Form Validation  
+Nic - JavaScript Scope
+Harry - JavaScript Form Validation
 Mason - Coffee Script
 Hunter - * Active Record : includes and "The N+1 Problem"
 
@@ -49,12 +50,10 @@ Hunter - * Active Record : includes and "The N+1 Problem"
 * JavaScript Form Validation
 * helper methods
 * Describe (some) benefits of (Angular/Ember/Backbone)
->>>>>>> b5cdef1ef30db781fdb40b4c0d7626d920d7db47
 
 * JavaScript selectors (and traversal)
 * Database Migration constraints
 * Partials
-* JavaScript templates (underscore, mustache)
 * Testing (shoulda-matchers)
 * Testing (Capybara)
 
