@@ -111,7 +111,7 @@ use of our time together.
  * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
  * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
  * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
- * **Required**[Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
+ * **Required** [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
 * 2:00 Lecture
 * 3:00 - 6:00 Pair on Challenges
  * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
