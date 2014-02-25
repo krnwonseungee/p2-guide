@@ -14,27 +14,28 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 # Week 2 Lightning Talks
 
 ## Tuesday
-Irene - JavaScript 'this'
-Armando - JavaScript Object Literals vs Constructor Function Objects
-Chermaine -  JavaScript Prototype
-Quentin - Helpers methods
+* Irene - JavaScript 'this'
+* Armando - JavaScript Object Literals vs Constructor Function Objects
+* Chermaine -  JavaScript Prototype
+* Quentin - Helpers methods
 
 
 ## Wednesday
-Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
-Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
-Johnny- Testing (Jasmine)
-Jose - * Angular Overview
-Mathilde - JavaScript templates (underscore, mustache)
+* Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
+* Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
+* Johnny- Testing (Jasmine)
+* Jose - Angular Overview
+* Mathilde - JavaScript templates (underscore, mustache)
+* Stephen - JavaScript Prototype
 
 
 
 ## Thursday
-Brittany - jQuery Effects
-Nic - JavaScript Scope
-Harry - JavaScript Form Validation
-Mason - Coffee Script
-Hunter - * Active Record : includes and "The N+1 Problem"
+* Brittany - jQuery Effects
+* Nic - JavaScript Scope
+* Harry - JavaScript Form Validation
+* Mason - Coffee Script
+* Hunter - * Active Record : includes and "The N+1 Problem"
 
 ## Available Talks
 
@@ -46,7 +47,6 @@ Hunter - * Active Record : includes and "The N+1 Problem"
 * STI and Polymorphism.md
 * jQuery Selectors
 * Password hashing with bcrypt gem
-* JavaScript Prototype
 * JavaScript Form Validation
 * helper methods
 * Describe (some) benefits of (Angular/Ember/Backbone)
