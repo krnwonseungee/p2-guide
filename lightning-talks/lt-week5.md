@@ -23,7 +23,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
-* Matthew - Describe (some) benefits of (Angular/Ember/Backbone)
+* Matthew - jQuery Events
+
 * Johnny- Testing (Jasmine)
 * Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
@@ -43,7 +44,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Darren - JavaScript selectors (and traversal)
 ## Available Talks
 
-* jQuery Events
+
 
 * jQuery Traversal
 * Dynamic Event binding and on
