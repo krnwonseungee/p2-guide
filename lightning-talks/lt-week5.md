@@ -30,6 +30,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Mathilde - JavaScript templates (underscore, mustache)
 * Stephen - Password hashing with bcrypt gem
 * Ivan - When to use ';' in Javascript?
+* Henry - jQuery Traversal
 
 
 
@@ -46,7 +47,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 
-* jQuery Traversal
 * Dynamic Event binding and on
 * STI and Polymorphism.md
 * jQuery Selectors
