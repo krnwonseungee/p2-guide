@@ -88,11 +88,11 @@ use of our time together.
 
 [Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)
 
-**Links past this point may not work**
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Daily Overview Lecture (optional): Breakout / Refinement on Javascript
+  * [Steven's Breakout on MVC in Javascript](https://github.com/banana-slugs-2014/orange-jasmine-challenge/tree/sgharms-refactor-oranges-to-mvc)
 * 9:30 - 12:00 Pair on challenges.
  * [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
  * [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
@@ -108,8 +108,12 @@ use of our time together.
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture: AJAX
 * 9:30 - 12:30 Pair on challenges.
+ * Finish last bits on Javascript Racer using new AJAX knowledge
  * [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
  * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
+
+**Links past this point may not work**
+
  * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
  * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
  * **Required** [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
