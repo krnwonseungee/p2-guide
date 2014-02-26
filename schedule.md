@@ -69,18 +69,18 @@ use of our time together.
 * 9:30-9:50 Super short lecture on jQuery (Strand)
 * 10:00-12:30 Pair on challenges (**Drills should take ~ 30 min. ea.**)
   * _Don't forget to sign up for lightning talks!_
-  * [Layout Drill: Top Navigation](https://github.com/banana-slugs-2014/layout-drill-top-navigation-challenge)
-  * [Layout Drill: Fixed Navigation](https://github.com/banana-slugs-2014/layout-drill-fixed-navigation-challenge)
-  * **Required** [jQuery Challenge](https://github.com/banana-slugs-2014/jquery-challenge)
-  * [Behavior Drill: Collapsible Side Menu](https://github.com/banana-slugs-2014/behavior-drill-collapsible-side-menu-challenge)
-  * [Behavior Drill: Style Editor](https://github.com/banana-slugs-2014/behavior-drill-style-editor-challenge)
-  * [Behavior Drill: Add Comments](https://github.com/banana-slugs-2014/behavior-drill-add-comments-challenge)
+  * [Layout Drill: Top Navigation](../../../layout-drill-top-navigation-challenge)
+  * [Layout Drill: Fixed Navigation](../../../layout-drill-fixed-navigation-challenge)
+  * **Required** [jQuery Challenge](../../../jquery-challenge)
+  * [Behavior Drill: Collapsible Side Menu](../../../behavior-drill-collapsible-side-menu-challenge)
+  * [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
+  * [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
 * 2:00 - LECTURE: Writing Javascript Like a Real Engineer
 * 3:00-6:00 Pair on Challenges
   * **"Rule"**:  Henceforth you cannot use jQuery "bare"
-  * **So Required it Hurts** [Orange Trees](https://github.com/banana-slugs-2014/orange-jasmine-challenge)
-  * [JavaScript Racer 1: Front-end](https://github.com/banana-slugs-2014/javascript-racer-1-front-end-challenge)
-  * [JavaScript Racer 2: Back-end](https://github.com/banana-slugs-2014/javascript-racer-2-back-end-challenge)
+  * **So Required it Hurts** [Orange Trees](../../../orange-jasmine-challenge)
+  * [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
+  * [JavaScript Racer 2: Back-end](../../../javascript-racer-2-back-end-challenge)
 - After 6:00 - Look over [code reviews for the Craigslist Jr challenge](./code-review/craigslist.md) or [Blog 2 - Multi-Author](./code-review/blog-2.md).
 
 
@@ -92,12 +92,12 @@ use of our time together.
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Daily Overview Lecture (optional): Breakout / Refinement on Javascript
-  * [Steven's Breakout on MVC in Javascript](https://github.com/banana-slugs-2014/orange-jasmine-challenge/tree/sgharms-refactor-oranges-to-mvc)
+  * [Steven's Breakout on MVC in Javascript](../../../orange-jasmine-challenge/tree/sgharms-refactor-oranges-to-mvc)
 * 9:30 - 12:00 Pair on challenges.
- * [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
- * [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
- * [Behavior Drill: Tabbed Interface](https://github.com/banana-slugs-2014/behavior-drill-tabbed-interface-challenge)
- * [Thing-O](https://github.com/banana-slugs-2014/thing-o-challenge)
+ * [Layout Drill: Pagination Navigation](../../../layout-drill-pagination-navigation-challenge)
+ * [Layout Drill: Proper Typesetting](../../../layout-drill-proper-typesetting-challenge)
+ * [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
+ * [Thing-O](../../../thing-o-challenge)
 * 12:00 - 12:30 EE Dive Deep
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00 - 6:00 Pair on challenges.
@@ -109,15 +109,15 @@ use of our time together.
 * 9:10 Daily Overview Lecture: AJAX
 * 9:30 - 12:30 Pair on challenges.
  * Finish last bits on Javascript Racer using new AJAX knowledge
- * [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
- * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
- * [Behavior Drill: Drop Down Menu](https://github.com/banana-slugs-2014/behavior-drill-drop-down-menu-challenge)
- * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/banana-slugs-2014/deaf-sinatra-2-asynchronous-forms-challenge)
- * **Required** [Lucky Ajax](https://github.com/banana-slugs-2014/lucky-ajax-challenge)
+ * [Layout Drill: Sticky Side Menu](../../../layout-drill-sticky-side-menu-challenge)
+ * [HTML and CSS](../../../html-and-css-challenge)
+ * [Behavior Drill: Drop Down Menu](../../../behavior-drill-drop-down-menu-challenge)
+ * **Required** [Deaf Sinatra 2: Asynchronous Forms](../../../deaf-sinatra-2-asynchronous-forms-challenge)
+ * **Required** [Lucky Ajax](../../../lucky-ajax-challenge)
 * 2:00 Lecture
 * 3:00 - 6:00 Pair on Challenges
- * [Hacker News Clone (Part 1)](https://github.com/banana-slugs-2014/hacker-news-clone-part-1-challenge)
- * [Hacker News Clone (Part 2)](https://github.com/banana-slugs-2014/hacker-news-clone-part-2-challenge)
+ * [Hacker News Clone (Part 1)](../../../hacker-news-clone-part-1-challenge)
+ * [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
 
 
 **Links below this point may not yet be active**
@@ -131,9 +131,9 @@ use of our time together.
 * 9:30  EE Training, Choose Afternoon Lecture
 * 9:40 Daily Overview Lecture
 * 10:00 - 12:30 Pair on challenges.
- * [Behavior Drill: Form Validation](https://github.com/banana-slugs-2014/behavior-drill-form-validation-challenge)
- * [Flickr, Jr.](https://github.com/banana-slugs-2014/flickr-jr-challenge)
- * STRETCH [Behavior Drill: Image Carousel](https://github.com/banana-slugs-2014/behavior-drill-image-carousel-challenge)
+ * [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
+ * [Flickr, Jr.](../../../flickr-jr-challenge)
+ * STRETCH [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
  * STRETCH [Behavior Drill: Persisting Order]()
 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
