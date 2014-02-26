@@ -30,7 +30,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Mathilde - JavaScript templates (underscore, mustache)
 * Stephen - Password hashing with bcrypt gem
 * Ivan - When to use ';' in Javascript?
-* Henry - jQuery Traversal
+* Henry - jQuery Traversal (http://www.w3schools.com/jquery/jquery_traversing.asp)
 
 
 
