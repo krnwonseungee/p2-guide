@@ -131,9 +131,9 @@ use of our time together.
 * 9:30  EE Training, Choose Afternoon Lecture
 * 9:40 Daily Overview Lecture
 * 10:00 - 12:30 Pair on challenges.
- * [Behavior Drill: Form Validation](https://github.com/sea-lions-2014/behavior-drill-form-validation-challenge)
- * [Flickr, Jr.](https://github.com/sea-lions-2014/flickr-jr-challenge)
- * STRETCH [Behavior Drill: Image Carousel](https://github.com/sea-lions-2014/behavior-drill-image-carousel-challenge)
+ * [Behavior Drill: Form Validation](https://github.com/banana-slugs-2014/behavior-drill-form-validation-challenge)
+ * [Flickr, Jr.](https://github.com/banana-slugs-2014/flickr-jr-challenge)
+ * STRETCH [Behavior Drill: Image Carousel](https://github.com/banana-slugs-2014/behavior-drill-image-carousel-challenge)
  * STRETCH [Behavior Drill: Persisting Order]()
 
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
