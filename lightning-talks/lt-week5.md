@@ -24,7 +24,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * Matthew - jQuery Events
-
+* Quentin - Database Migration constraints
 * Johnny- Testing (Jasmine)
 * Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
@@ -43,19 +43,12 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Johnny- * JavaScript Form Validations
 * Chris - * Partials
 * Darren - JavaScript selectors (and traversal)
+* Quentin - Testing (shoulda-matchers)
+
 ## Available Talks
-
-
-
 * Dynamic Event binding and on
 * STI and Polymorphism.md
 * jQuery Selectors
-
-* helper methods
-
-
-* Database Migration constraints
-* Testing (shoulda-matchers)
 
 
 
