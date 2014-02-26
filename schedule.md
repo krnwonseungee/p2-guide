@@ -93,6 +93,7 @@ use of our time together.
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Daily Overview Lecture (optional): Breakout / Refinement on Javascript
+  * [Steven's Breakout on MVC in Javascript](https://github.com/banana-slugs-2014/orange-jasmine-challenge/tree/sgharms-refactor-oranges-to-mvc)
 * 9:30 - 12:00 Pair on challenges.
  * [Layout Drill: Pagination Navigation](https://github.com/banana-slugs-2014/layout-drill-pagination-navigation-challenge)
  * [Layout Drill: Proper Typesetting](https://github.com/banana-slugs-2014/layout-drill-proper-typesetting-challenge)
