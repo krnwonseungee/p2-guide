@@ -111,16 +111,16 @@ use of our time together.
  * Finish last bits on Javascript Racer using new AJAX knowledge
  * [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
  * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
-
-**Links past this point may not work**
-
- * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
- * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
- * **Required** [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
+ * [Behavior Drill: Drop Down Menu](https://github.com/banana-slugs-2014/behavior-drill-drop-down-menu-challenge)
+ * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/banana-slugs-2014/deaf-sinatra-2-asynchronous-forms-challenge)
+ * **Required** [Lucky Ajax](https://github.com/banana-slugs-2014/lucky-ajax-challenge)
 * 2:00 Lecture
 * 3:00 - 6:00 Pair on Challenges
- * [Hacker News Clone (Part 1)](https://github.com/sea-lions-2014/hacker-news-clone-part-1-challenge)
- * [Hacker News Clone (Part 2)](https://github.com/sea-lions-2014/hacker-news-clone-part-2-challenge)
+ * [Hacker News Clone (Part 1)](https://github.com/banana-slugs-2014/hacker-news-clone-part-1-challenge)
+ * [Hacker News Clone (Part 2)](https://github.com/banana-slugs-2014/hacker-news-clone-part-2-challenge)
+
+
+**Links below this point may not yet be active**
 
 #### Thursday  - Solo Optional Day
 
