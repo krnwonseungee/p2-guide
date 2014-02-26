@@ -24,6 +24,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * Matthew - jQuery Events
+
 * Johnny- Testing (Jasmine)
 * Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
