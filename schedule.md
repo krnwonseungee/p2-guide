@@ -88,7 +88,6 @@ use of our time together.
 
 [Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)
 
-**Links past this point may not work**
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
@@ -111,6 +110,9 @@ use of our time together.
 * 9:30 - 12:30 Pair on challenges.
  * [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
  * [HTML and CSS](https://github.com/banana-slugs-2014/html-and-css-challenge)
+
+**Links past this point may not work**
+
  * [Behavior Drill: Drop Down Menu](https://github.com/sea-lions-2014/behavior-drill-drop-down-menu-challenge)
  * **Required** [Deaf Sinatra 2: Asynchronous Forms](https://github.com/sea-lions-2014/deaf-sinatra-2-asynchronous-forms-challenge)
  * **Required** [Lucky Ajax](https://github.com/sea-lions-2014/lucky-ajax-challenge)
