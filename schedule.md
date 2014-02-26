@@ -106,7 +106,7 @@ use of our time together.
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture: AJAX
+* 9:10 Daily Overview Lecture: [AJAX](lecture-notes/ajax.md)
 * 9:30 - 12:30 Pair on challenges.
  * Finish last bits on Javascript Racer using new AJAX knowledge
  * [Layout Drill: Sticky Side Menu](https://github.com/banana-slugs-2014/layout-drill-sticky-side-menu-challenge)
