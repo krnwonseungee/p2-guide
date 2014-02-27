@@ -40,14 +40,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Harry - JavaScript Form Validation
 * Mason - Coffee Script
 * Hunter - * Active Record : includes and "The N+1 Problem"
-* Johnny- * JavaScript Form Validations
+* Johnny-* Dynamic Event binding and on
 * Chris - * Partials
 * Darren - JavaScript selectors (and traversal)
 * Quentin - Testing (shoulda-matchers)
 * Tim - jQuery Selectors
 
 ## Available Talks
-* Dynamic Event binding and on
 * STI and Polymorphism.md
 
 
