@@ -44,11 +44,12 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Chris - * Partials
 * Darren - JavaScript selectors (and traversal)
 * Quentin - Testing (shoulda-matchers)
+* Tim - jQuery Selectors
 
 ## Available Talks
 * Dynamic Event binding and on
 * STI and Polymorphism.md
-* jQuery Selectors
+
 
 
 
