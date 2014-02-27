@@ -50,3 +50,10 @@ Janice:  That’s ____*(some banana slug)*_, their code is almost too DRY to fun
 Kady:  I knew how this would be solved in the wild
 *(people shouting)*:  Use semicolons!  No, don’t use them!  Use ember!  No backbone!  You suck at programming!  No you do!  You’re fired!… etc.
 Kady: but at DBC, things were different, all of the feedback had to be Actionable, Specific and Kind.
+
+###*Become amazing at github, feel the pain of merge conflicts*
+
+Gretchen: You didn't solve your merge conflict.  You can't sit with us unless you solve your merge conflict.
+Regina: Whatever, that's not a real thing.
+Gretchen:  You can't sit with us!
+*(regina awkwardly slinks away)*
