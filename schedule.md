@@ -116,11 +116,7 @@ use of our time together.
  * **Required** [Lucky Ajax](../../../lucky-ajax-challenge)
 * 2:00 Lecture
 * 3:00 - 6:00 Pair on Challenges
- * [Hacker News Clone (Part 1)](../../../hacker-news-clone-part-1-challenge)
- * [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
 
-
-**Links below this point may not yet be active**
 
 #### Thursday  - Solo Optional Day
 
@@ -131,12 +127,9 @@ use of our time together.
 * 9:30  EE Training, Choose Afternoon Lecture
 * 9:40 Daily Overview Lecture
 * 10:00 - 12:30 Pair on challenges.
- * [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
- * [Flickr, Jr.](../../../flickr-jr-challenge)
- * STRETCH [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
- * STRETCH [Behavior Drill: Persisting Order]()
-
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
+ * [Hacker News Clone (Part 1)](../../../hacker-news-clone-part-1-challenge)
+ * [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
+* 2:00 - Lightning Talks / [Lecture: Closures, Callbacks, Advanced JS](lecture-notes/closures_lecture)
 * 3:00 - 6:00 Pair on challenges.
 
 #### Friday
@@ -146,6 +139,9 @@ use of our time together.
 * 10:00 Brief lecture on Group Project
 * 10:00 Group Project in Teams.
  * [Survey Gorilla](../../../survey-gorilla-challenge)
+* 2:00 Agile lecture (Strand)
+* 2:30 Do Feedback thing
+* 5:00 Demos of MVP
 
 #### Weekend
 
@@ -154,3 +150,13 @@ use of our time together.
 * Try to have 8 of the Portfolio Challenges finished
 * Catch up on Week 5 Challenges that you didn't finish.
 
+### Enrichment Challenges
+
+These were dropped in the course of the week.  The topics covered herein may be
+useful, or you may see releases that you want to "port" over to an existing
+challenge you have created.
+
+ * [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
+ * [Flickr, Jr.](../../../flickr-jr-challenge)
+ * [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
+ * [Behavior Drill: Persisting Order]()
