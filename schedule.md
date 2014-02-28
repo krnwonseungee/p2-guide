@@ -146,7 +146,7 @@ use of our time together.
 #### Weekend
 
 - This week's surveys:
-  - [Self-Assessment–Week 4](https://docs.google.com/forms/d/1B-Mizej_hfiFCX76aey-HlCXwga1_0KpYuCSMZLBS1I/viewform)
+  - [Self-Assessment–Week 5](https://docs.google.com/forms/d/1B-Mizej_hfiFCX76aey-HlCXwga1_0KpYuCSMZLBS1I/viewform)
   - [Weekly Retrospective](http://bit.ly/sfretro)
 * Work on group projects - presentation on Monday
 * Try to have 8 of the Portfolio Challenges finished
