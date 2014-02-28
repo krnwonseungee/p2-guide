@@ -159,4 +159,3 @@ challenge you have created.
  * [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
  * [Flickr, Jr.](../../../flickr-jr-challenge)
  * [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
- * [Behavior Drill: Persisting Order]()
