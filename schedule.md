@@ -145,7 +145,7 @@ use of our time together.
 * 9:00 Small group check-ins
 * 10:00 Brief lecture on Group Project
 * 10:00 Group Project in Teams.
- * [Survey Gorilla]()
+ * [Survey Gorilla](../../../survey-gorilla-challenge)
 
 #### Weekend
 
