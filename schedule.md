@@ -139,7 +139,7 @@ use of our time together.
 * 10:00 Brief lecture on Group Project
 * 10:00 Group Project in Teams.
  * [Survey Gorilla](../../../survey-gorilla-challenge)
-* 2:00 Agile lecture (Strand)
+* 2:00 [Agile talk](lecture-notes/agile.md)
 * 2:30 Do Feedback thing
 * 5:00 Demos of MVP
 
