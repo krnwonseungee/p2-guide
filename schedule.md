@@ -21,7 +21,7 @@
 
 **Links past this point may not be active**
 
- #### Tuesday  - Solo Day : Finish Portfolio Challenges
+#### Tuesday  - Solo Day : Finish Portfolio Challenges
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
