@@ -19,7 +19,9 @@
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00-6:00 Pair on Challenges
 
-#### Tuesday  - Solo Day : Finish Portfolio Challenges
+**Links past this point may not be active**
+
+ #### Tuesday  - Solo Day : Finish Portfolio Challenges
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
