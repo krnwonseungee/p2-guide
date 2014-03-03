@@ -14,6 +14,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 
+  *  Quentin - Adapter Design Pattern
+
 ## Wednesday
 
 ## Thursday
@@ -33,7 +35,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Observer Design Pattern
   *  Singleton Design Pattern
   *  Hoisting in JavaScript
-  *  Adapter Design Pattern
   *  Prototypical Inheritance without new
   *  Closures
   *  Factory Design Pattern
