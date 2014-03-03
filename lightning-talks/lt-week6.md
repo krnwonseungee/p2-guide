@@ -20,6 +20,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 - Google Maps API - Mason 
+- Irene: Strategy Design Pattern
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
@@ -30,7 +31,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  falsey in JavaScript
   *  Eval in JavaScript
   *  Prototypical Inheritance with new
-  *  Strategy Design Pattern
   *  Template Method
   *  Observer Design Pattern
   *  Singleton Design Pattern
