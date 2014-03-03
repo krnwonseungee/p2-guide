@@ -35,7 +35,8 @@
 
 #### Wednesday
 
-[Assessments : Book Your Appointment with A Teacher]()
+*Students requiring further assessment beyond portfolio challenges will be
+scheduled for an interview with an instructor*
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
@@ -44,8 +45,7 @@
  * [Tweet Later](../../../tweet-later-challenge)
  * [Faker-Lite](../../../faker-lite-challenge)
  * STRETCH [Oh My Auth! (Google)](../../../oh-my-auth-google-challenge)
-
-* 2:00 - LECTURE: Background Jobs (Sidekiq) / Lightning Talks
+* 2:00 LECTURE: Background Jobs (Sidekiq) / Lightning Talks
 
 #### Thursday  - Solo Optional Day
 
