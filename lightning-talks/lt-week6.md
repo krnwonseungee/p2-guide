@@ -20,7 +20,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 - Google Maps API - Mason 
 
 ## Available Talks
-  * Google Maps API
   *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
   *  D3
