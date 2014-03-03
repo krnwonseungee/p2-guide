@@ -5,7 +5,7 @@
 - [Schedule](schedule.md)
 - [Resources](resources.md)
 
-## Week 5 Resources
+## Week 6 Resources
 
-### [Learning Competencies](learning-competencies/week-5-lc.md)
-### [Schedule Lightning Talk](lightning-talks/lt-week5.md)
+### [Learning Competencies](learning-competencies/week-6-lc.md)
+### [Schedule Lightning Talk](lightning-talks/lt-week6.md)
