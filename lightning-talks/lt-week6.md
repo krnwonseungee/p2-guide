@@ -17,6 +17,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 
 ## Thursday
+- Google Maps API - Mason 
 
 ## Available Talks
   * Google Maps API
