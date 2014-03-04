@@ -18,6 +18,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Johnny - D3
 
 ## Wednesday
+  *  Stephen - Closures
 
 ## Thursday
 - Google Maps API - Mason 
@@ -36,6 +37,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Singleton Design Pattern
   *  Hoisting in JavaScript
   *  Prototypical Inheritance without new
-  *  Closures
+
   *  Factory Design Pattern
   *  Adapter Design Pattern
