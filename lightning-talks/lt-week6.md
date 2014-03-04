@@ -10,7 +10,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 3. Put your name in front of the talk title.
 4. Submit a pull request!
 
-# Week 3 Lightning Talks
+# Week 6 Lightning Talks
 
 ## Tuesday
 
