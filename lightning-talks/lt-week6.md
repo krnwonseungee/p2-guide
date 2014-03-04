@@ -17,11 +17,11 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Quentin - Observer Design Pattern
   *  Johnny - D3
   *  Harry - Closures
-  - Strand: Active Record 4 changes
 
 ## Wednesday
 
   *  Stephen : Testing with API's
+  - Strand: Active Record 4 changes
 
 ## Thursday
 - Google Maps API - Mason
