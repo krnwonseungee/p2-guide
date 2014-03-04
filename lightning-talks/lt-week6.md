@@ -26,6 +26,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
   *  Ivan - Prototypical Inheritance without new
+  *  Darren - Adapter Design Pattern
   - Google Maps API - Mason
   - Irene: Strategy Design Pattern
   - Hunter: Functional JavaScript (as opposed to OO)
@@ -39,4 +40,4 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Template Method
   *  Hoisting in JavaScript
   *  Factory Design Pattern
-  *  Adapter Design Pattern
+  
