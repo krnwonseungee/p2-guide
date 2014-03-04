@@ -20,9 +20,10 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
   *  Stephen - Closures
+  *  falsey in JavaScript
 
 ## Thursday
-- Google Maps API - Mason 
+- Google Maps API - Mason
 - Irene: Strategy Design Pattern
 
 ## Available Talks
@@ -31,7 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
   *  Testing with API's
   *  JavaScript Callbacks (again)
-  *  falsey in JavaScript
+
   *  Eval in JavaScript
   *  Prototypical Inheritance with new
   *  Template Method
