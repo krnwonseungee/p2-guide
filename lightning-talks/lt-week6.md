@@ -19,6 +19,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Harry - Closures
 
 ## Wednesday
+  *  Mathilde - Singleton Design Pattern
   *  Matthew - falsey in JavaScript
   *  Stephen : Testing with API's
   - Strand: Active Record 4 changes
@@ -36,7 +37,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Eval in JavaScript
   *  Prototypical Inheritance with new
   *  Template Method
-  *  Singleton Design Pattern
   *  Hoisting in JavaScript
   *  Factory Design Pattern
   *  Adapter Design Pattern
