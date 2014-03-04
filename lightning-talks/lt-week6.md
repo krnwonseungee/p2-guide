@@ -26,10 +26,10 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Ivan - Prototypical Inheritance without new
 - Google Maps API - Mason
 - Irene: Strategy Design Pattern
+- Hunter: Functional JavaScript (as opposed to OO)
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
-  *  Functional JavaScript (as opposed to OO)
 
 
   *  JavaScript Callbacks (again)
