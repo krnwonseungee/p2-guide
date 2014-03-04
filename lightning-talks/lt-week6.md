@@ -16,6 +16,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
   *  Quentin - Observer Design Pattern
   *  Johnny - D3
+  *  Harry - Closures
 
 ## Wednesday
 
