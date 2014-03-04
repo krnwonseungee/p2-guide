@@ -21,24 +21,22 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
   *  Matthew - falsey in JavaScript
   *  Stephen : Testing with API's
+  - Strand: Active Record 4 changes
 
 ## Thursday
   *  Ivan - Prototypical Inheritance without new
-- Google Maps API - Mason
-- Irene: Strategy Design Pattern
-- Hunter: Functional JavaScript (as opposed to OO)
+  - Google Maps API - Mason
+  - Irene: Strategy Design Pattern
+  - Hunter: Functional JavaScript (as opposed to OO)
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
-
-
+  *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
-
   *  Eval in JavaScript
   *  Prototypical Inheritance with new
   *  Template Method
   *  Singleton Design Pattern
   *  Hoisting in JavaScript
-
   *  Factory Design Pattern
   *  Adapter Design Pattern
