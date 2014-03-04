@@ -15,6 +15,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Tuesday
 
   *  Quentin - Observer Design Pattern
+  *  Johnny - D3
 
 ## Wednesday
 
@@ -25,7 +26,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Available Talks
   *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
-  *  D3
+
   *  Testing with API's
   *  JavaScript Callbacks (again)
   *  falsey in JavaScript
