@@ -19,8 +19,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Harry - Closures
 
 ## Wednesday
-  *  Stephen - Closures
-  *  falsey in JavaScript
+  *  Matthew - falsey in JavaScript
+  *  Stephen : Testing with API's
 
 ## Thursday
 - Google Maps API - Mason
@@ -30,7 +30,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
 
-  *  Testing with API's
+
   *  JavaScript Callbacks (again)
 
   *  Eval in JavaScript
