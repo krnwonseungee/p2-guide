@@ -23,6 +23,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Stephen : Testing with API's
 
 ## Thursday
+  *  Ivan - Prototypical Inheritance without new
 - Google Maps API - Mason
 - Irene: Strategy Design Pattern
 
@@ -38,7 +39,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Template Method
   *  Singleton Design Pattern
   *  Hoisting in JavaScript
-  *  Prototypical Inheritance without new
 
   *  Factory Design Pattern
   *  Adapter Design Pattern
