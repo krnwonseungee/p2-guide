@@ -24,6 +24,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Jamie - Factory Design Pattern
   *  Stephen : Testing with API's
   - Strand: Active Record 4 changes
+  - Mazza: Eval in JavaScript
 
 ## Thursday
   *  Ivan - Prototypical Inheritance without new
@@ -36,7 +37,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
-  *  Eval in JavaScript
   *  Prototypical Inheritance with new
   *  Template Method
   *  Hoisting in JavaScript
