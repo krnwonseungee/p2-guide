@@ -32,6 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   - Google Maps API - Mason
   - Irene: Strategy Design Pattern
   - Hunter: Functional JavaScript (as opposed to OO)
+  - Jose: Sass  
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
