@@ -36,9 +36,9 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Jamie - Factory Design Pattern
   *  Nic - Hoisting in JavaScript
   *  Chris - Template Method
+  *  henry - Exceptions and Errors in Sinatra
 
 ## Available Talks
-  *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
