@@ -36,6 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Jamie - Factory Design Pattern
   *  Nic - Hoisting in JavaScript
   *  Chris - Template Method
+  *  Elliot - Git Stash
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
