@@ -31,17 +31,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   - Google Maps API - Mason
   - Irene: Strategy Design Pattern
   - Hunter: Functional JavaScript (as opposed to OO)
+  - Tim: Hoisting in JavaScript
   - Jose: Sass
   *  Jamie - Factory Design Pattern
   *  Nic - Hoisting in JavaScript
   *  Chris - Template Method
-
-
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
-
-
