@@ -34,6 +34,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   - Jose: Sass
   *  Jamie - Factory Design Pattern
   *  Nic - Hoisting in JavaScript
+  *  Chris - Template Method
+
 
 
 ## Available Talks
@@ -41,6 +43,5 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
-  *  Template Method
 
 
