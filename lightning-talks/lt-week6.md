@@ -21,7 +21,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
   *  Mathilde - Singleton Design Pattern
   *  Matthew - falsey in JavaScript
-  *  Jamie - Factory Design Pattern
   *  Stephen : Testing with API's
   - Strand: Active Record 4 changes
   - Mazza: Eval in JavaScript
@@ -33,12 +32,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   - Irene: Strategy Design Pattern
   - Hunter: Functional JavaScript (as opposed to OO)
   - Tim: Hoisting in JavaScript
+  - Jose: Sass
+  *  Jamie - Factory Design Pattern
+  *  Nic - Hoisting in JavaScript
+  *  Chris - Template Method
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
-  *  Template Method
-
-
