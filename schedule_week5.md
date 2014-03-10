@@ -1,18 +1,8 @@
-# Schedule
-
-**Table of Contents**
-
-- [Week 5](#week-5)
-  - [Monday](#monday)
-  - [Tuesday](#tuesday)
-  - [Wednesday](#wednesday)
-  - [Thursday](#thursday)
-  - [Friday](#friday)
-  - [Weekend](#weekend)
-
 ## Week 5
 
 ### [Learning Competencies](learning-competencies/week-5-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week5.md)
+
+[Monday](#monday) | [Tuesday](#tuesday) | [Wednesday](#wednesday) | [Thursday](#thursday) | [Friday](#friday) | [Weekend](#weekend)
 
 #### Monday
 
