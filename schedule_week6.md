@@ -1,6 +1,3 @@
-# Phase 2
-
-[Overview of the Phase](overview.md) | [Resources](resources.md)
 
 ### Week 6:
 
@@ -18,8 +15,6 @@
  * [Tweet Now 1: Single User](../../../tweet-now-1-single-user-challenge)
 * 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
 * 3:00-6:00 Pair on Challenges
-
-**Links past this point may not be active**
 
 #### Tuesday  - Solo Day : Finish Portfolio Challenges
 

@@ -20,66 +20,63 @@ cloned then pull the latest version of master).
 # Week 1 Lightning Talks
 
 ## Tuesday
- Henry - How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
 
- Jose - Responsive Web Design
-
- Johnny - What makes a good commit?
-
- Stephen - Refactoring!
-
- Jamie - What is the difference between `GET` and `POST`?
-
- Mathilde - What are `ENV` variables?
-
- Tim - What is rack anyway?
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
 
 ## Wednesday
 
-
-Phil - What's the difference between ruby's standard library, core library, and gems?
-
-Quentin - How can I use the sessions hash in Sinatra?
-
-Elliot - When do I use test doubles?
-
-Jamie - What is the difference between `GET` and `POST`? PART TWO!!
-
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
 
 ## Thursday
-  Matthew - What is a code kata?
 
-  Hunter - Red green refactor
-
-  Harry - What are the 4 rules of simple design?
-
-  Chermaine - What is the 'params' hash?
-
-  Irene - How can I use `let` and `context` to dry up my tests?
-
-  Darren - How can I use `$LOAD_PATH` to avoid using `require_relative`?
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
 
 ## Friday
 
-Armando - What does 'semantic markup' mean?
-
-Nic - What is the difference between abstraction and indirection?
-
-Anne - Sinatra Partial Views
-
-Chris - How can I use Capybara to test Sinatra?
-
-Mason - What makes a good Pull request?
-
-Ivan - CSS Display Property
-
-Brittany - What is the different ways to use the css position property?
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
 
 ## Available Talks
-
+* How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
+* Responsive Web Design
+* What makes a good commit?
+* What is the difference between `GET` and `POST`?
+* What are `ENV` variables?
+* What is rack anyway?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
 * What makes a good test?
 * Database indexing
+Armando - What does 'semantic markup' mean?
+* What is the difference between abstraction and indirection?
+* Sinatra Partial Views
+* What makes a good Pull request?
+* CSS Display Property
+* What are the different ways to use the css position property?
+* What is a code kata?
+* Red green refactor
+* What are the 4 rules of simple design?
+* What is the 'params' hash?
+* How can I use `let` and `context` to dry up my tests?
+* How can I use `$LOAD_PATH` to avoid using `require_relative`?
+* What's the difference between ruby's standard library, core library, and gems?
+* How can I use the sessions hash in Sinatra?
+* When do I use test doubles?
 

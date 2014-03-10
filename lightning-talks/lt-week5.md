@@ -13,15 +13,57 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 # Week 2 Lightning Talks
 
+## Monday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+
 ## Tuesday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+
+## Wednesday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+
+## Thursday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+
+
+## Available Talks
+* STI and Polymorphism.md
 * Irene - JavaScript 'this'
 * Armando - JavaScript Object Literals vs Constructor Function Objects
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
 * Johnny - Describe (some) benefits of (Angular/Ember/Backbone)
-
-## Wednesday
-
+* Brittany - jQuery Effects
+* Nic - JavaScript Scope
+* Harry - JavaScript Form Validation
+* Mason - Coffee Script
+* Hunter - * Active Record : includes and "The N+1 Problem"
+* Johnny-* Dynamic Event binding and on
+* Chris - * Partials
+* Darren - JavaScript selectors (and traversal)
+* Quentin - Testing (shoulda-matchers)
+* Tim - jQuery Selectors
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * Matthew - jQuery Events
 * Quentin - Database Migration constraints
@@ -33,21 +75,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Henry - jQuery Traversal (http://www.w3schools.com/jquery/jquery_traversing.asp)
 
 
-
-## Thursday
-* Brittany - jQuery Effects
-* Nic - JavaScript Scope
-* Harry - JavaScript Form Validation
-* Mason - Coffee Script
-* Hunter - * Active Record : includes and "The N+1 Problem"
-* Johnny-* Dynamic Event binding and on
-* Chris - * Partials
-* Darren - JavaScript selectors (and traversal)
-* Quentin - Testing (shoulda-matchers)
-* Tim - jQuery Selectors
-
-## Available Talks
-* STI and Polymorphism.md
 
 
 
