@@ -4,7 +4,7 @@
 
 - [Book your One-on-one](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)
 - [Overview of the Phase](overview.md)
-- [Schedule Week 4](scheduleule_week4.md)
+- [Schedule Week 4](schedule_week4.md)
 - [Schedule Week 5](schedule_week5.md)
 - [Schedule Week 6](schedule_week6.md)
 - [Resources](resources.md)

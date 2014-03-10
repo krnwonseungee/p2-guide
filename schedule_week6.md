@@ -1,7 +1,8 @@
+## Week 6:
 
-### Week 6:
+### [Learning Competencies](learning-competencies/week-6-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week6.md)
 
-[Learning Competencies](learning-competencies/week-6-lc.md)
+[Monday](#monday) | [Tuesday](#tuesday) | [Wednesday](#wednesday) | [Thursday](#thursday) | [Friday](#friday) | [Weekend](#weekend)
 
 #### Monday:
 
