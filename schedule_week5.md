@@ -10,21 +10,16 @@
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Present group projects.
 * 9:30-9:50 Lecture
-* 10:00-12:30 Pair on challenges (**Drills should take ~ 30 min. ea.**)
-  * _Don't forget to sign up for lightning talks!_
-  * [Layout Drill: Top Navigation](../../../layout-drill-top-navigation-challenge)
-  * [Layout Drill: Fixed Navigation](../../../layout-drill-fixed-navigation-challenge)
-  * **Required** [jQuery Challenge](../../../jquery-challenge)
+* 10:00-12:30 Pair on challenges
+  * [jQuery Challenge](../../../jquery-challenge)
   * [Behavior Drill: Collapsible Side Menu](../../../behavior-drill-collapsible-side-menu-challenge)
   * [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
   * [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
+  * [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
 * 2:00 - LECTURE:
 * 3:00-6:00 Pair on Challenges
-  * **"Rule"**:  Henceforth you cannot use jQuery "bare"
+  * **"Rule"**:  Henceforth you cannot use jQuery without a JS Model.
   * **So Required it Hurts** [Orange Trees](../../../orange-jasmine-challenge)
-  * [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
-  * [JavaScript Racer 2: Back-end](../../../javascript-racer-2-back-end-challenge)
-- After 6:00 - Look over [code reviews for the Craigslist Jr challenge](./code-review/craigslist.md) or [Blog 2 - Multi-Author](./code-review/blog-2.md).
 
 
 #### Tuesday
@@ -35,12 +30,13 @@
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Daily Overview Lecture (optional): Breakout / Refinement on Javascript
-  * [Steven's Breakout on MVC in Javascript](../../../orange-jasmine-challenge/tree/sgharms-refactor-oranges-to-mvc)
+  * [Breakout on MVC in Javascript]()
 * 9:30 - 12:00 Pair on challenges.
- * [Layout Drill: Pagination Navigation](../../../layout-drill-pagination-navigation-challenge)
- * [Layout Drill: Proper Typesetting](../../../layout-drill-proper-typesetting-challenge)
- * [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
- * [Thing-O](../../../thing-o-challenge)
+
+  * [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
+  * [JavaScript Racer 2: Back-end](../../../javascript-racer-2-back-end-challenge)
+
+ * [thing-o : Release 1-4](../../../thing-o-challenge)
 * 12:00 - 12:30 EE Dive Deep
 * 2:00 - LECTURE: / Lightning Talks
 * 3:00 - 6:00 Pair on challenges.
@@ -49,12 +45,9 @@
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture: [AJAX](lecture-notes/ajax.md)
+* 9:10 Daily Overview Lecture: [AJAX]()
 * 9:30 - 12:30 Pair on challenges.
  * Finish last bits on Javascript Racer using new AJAX knowledge
- * [Layout Drill: Sticky Side Menu](../../../layout-drill-sticky-side-menu-challenge)
- * [HTML and CSS](../../../html-and-css-challenge)
- * [Behavior Drill: Drop Down Menu](../../../behavior-drill-drop-down-menu-challenge)
  * **Required** [Deaf Sinatra 2: Asynchronous Forms](../../../deaf-sinatra-2-asynchronous-forms-challenge)
  * **Required** [Lucky Ajax](../../../lucky-ajax-challenge)
 * 2:00 Lecture
@@ -72,7 +65,7 @@
 * 10:00 - 12:30 Pair on challenges.
  * [Hacker News Clone (Part 1)](../../../hacker-news-clone-part-1-challenge)
  * [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
-* 2:00 - Lightning Talks / [Lecture: Closures, Callbacks, Advanced JS](lecture-notes/closures_lecture)
+* 2:00 - Lightning Talks / [Lecture: Closures, Callbacks, Advanced JS]()
 * 3:00 - 6:00 Pair on challenges.
 
 #### Friday

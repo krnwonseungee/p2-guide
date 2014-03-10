@@ -16,7 +16,7 @@
 Time          | Activity
 ------------- | :------------------------------------------------------------
 8:45 - 9:00   | Meet with accountability buddies
-9:00 - 9:15   | EE Practice: four-minute meditation, A-ha! moments (when available)
+9:00 - 9:15   | EE Practice: four-minute meditation, weekly topic practice)
 9:15 - 9:50   | Lecture (25 minutes with 10 minutes for Q&A)
 9:50 - 12:30  | Work on Challenges
 12:30 -2:00   | Lunch–Optional yoga on Wednesday and Friday
