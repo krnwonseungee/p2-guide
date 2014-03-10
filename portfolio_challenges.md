@@ -40,13 +40,13 @@ to the repo and open a pull request for it.
 * [Portfolio 9: Client Server Scoping][pf9]
 * [Portfolio 10: API][pf10]
 
-[pf1]: https://github.com/banana-slugs-2014/ph2-p1-sinatra-restful-crud-challenge
-[pf2]: https://github.com/banana-slugs-2014/ph2-p2-active-record-people-skills-challenge
-[pf3]: https://github.com/banana-slugs-2014/ph2-p3-sinatra-authentication-and-authorization-challenge
-[pf4]: https://github.com/banana-slugs-2014/ph2-p4-css-layout-simple-marketing-page-challenge
-[pf5]: https://github.com/banana-slugs-2014/ph2-p5-active-record-and-sinatra-propagating-validations-challenge
-[pf6]: https://github.com/banana-slugs-2014/ph2-p6-javascript-refactor-procedural-to-oo-challenge
-[pf7]: https://github.com/banana-slugs-2014/ph2-p7-javascript-ajax-and-jquery-challenge
-[pf8]: https://github.com/banana-slugs-2014/ph2-p8-javascript-dynamic-elements-and-events-challenge
-[pf9]: https://github.com/banana-slugs-2014/ph2-p9-client-server-scoping-challenge
-[pf10]: https://github.com/banana-slugs-2014/ph2-p10-ruby-api-s-challenge
+[pf1]: ../../ph2-p1-sinatra-restful-crud-challenge
+[pf2]: ../../ph2-p2-active-record-people-skills-challenge
+[pf3]: ../../ph2-p3-sinatra-authentication-and-authorization-challenge
+[pf4]: ../../ph2-p4-css-layout-simple-marketing-page-challenge
+[pf5]: ../../ph2-p5-active-record-and-sinatra-propagating-validations-challenge
+[pf6]: ../../ph2-p6-javascript-refactor-procedural-to-oo-challenge
+[pf7]: ../../ph2-p7-javascript-ajax-and-jquery-challenge
+[pf8]: ../../ph2-p8-javascript-dynamic-elements-and-events-challenge
+[pf9]: ../../ph2-p9-client-server-scoping-challenge
+[pf10]: ../../ph2-p10-ruby-api-s-challenge

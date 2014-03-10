@@ -2,9 +2,6 @@
 
 **Table of Contents**
 
-- [Daily schedule](#daily-schedule)
-- [Weekly schedule](#weekly-schedule)
-- [Week 4](schedule_week4.md)
 - [Week 5](#week-5)
   - [Monday](#monday)
   - [Tuesday](#tuesday)
@@ -13,60 +10,16 @@
   - [Friday](#friday)
   - [Weekend](#weekend)
 
-## Daily schedule
-
-Time          | Activity
-------------- | :------------------------------------------------------------
-8:45 - 9:00   | Meet with accountability buddies
-9:00 - 9:15   | EE Practice: four-minute meditation, A-ha! moments (when available)
-9:15 - 9:50   | Lecture (25 minutes with 10 minutes for Q&A)
-9:50 - 12:30  | Work on Challenges
-12:30 -2:00   | Lunch–Optional yoga on Wednesday and Friday
-2:00 - 2:50   | Lecture & Lightning talks
-2:50 - 5:50   | Work on Challenges
-5:50 - 6:00   | End of day stand up
-6:00 onward   | Finish challenges, work on portfolio, optimize your learning.
-
-## Weekly schedule
-
-Monday | Tuesday       | Wednesday     | Thursday      | Friday
------- | ------------  | ------------- | ------------- | -------------
-Self-assessment due | Solo-optional |  | Solo-optional |
-EE Practice | four-minute meditation  | EE Practice | EE Practice | Small group check-ins
-       | EE Shallow Dive | Yoga at Lunch |             | Yoga at lunch
-       |               |               | Speaker       | Graduation (week 3)
-
 ## Week 5
 
 ### [Learning Competencies](learning-competencies/week-5-lc.md) | [Schedule Lightning Talk](lightning-talks/lt-week5.md)
-
-### Notes on Monday and Tuesday
-
-These two days can be very flexible.  The goal of this week is to teach you to
-write nice, neat, modular Javascript which, when necessary, uses jQuery to
-accomplish things.
-
-While the exact order in which these challenges need to be completed might
-vary, we can adjust the schedule as needed.  Since we are doing a "Mega-Day,"
-we will be assigning pairs and are rescinding the solo option for Tuesday.
-
-### Notes for the Week:  1/1 Time
-
-On 1/1 days be ready on the machine you wish to demonstrate on at least 5
-minutes in advance of your appointment.  Make sure your gems are bundled and
-the application (and its tests) can run.  This will ensure the most productive
-use of our time together.
-
-### Megaday Pairings
-
-[Pairings](./pairings/2014-02-24-pairings.md)
 
 #### Monday
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Present group projects.
-* 9:30-9:50 Super short lecture on jQuery (Strand)
+* 9:30-9:50 Lecture
 * 10:00-12:30 Pair on challenges (**Drills should take ~ 30 min. ea.**)
   * _Don't forget to sign up for lightning talks!_
   * [Layout Drill: Top Navigation](../../../layout-drill-top-navigation-challenge)
@@ -75,7 +28,7 @@ use of our time together.
   * [Behavior Drill: Collapsible Side Menu](../../../behavior-drill-collapsible-side-menu-challenge)
   * [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
   * [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
-* 2:00 - LECTURE: Writing Javascript Like a Real Engineer
+* 2:00 - LECTURE:
 * 3:00-6:00 Pair on Challenges
   * **"Rule"**:  Henceforth you cannot use jQuery "bare"
   * **So Required it Hurts** [Orange Trees](../../../orange-jasmine-challenge)
@@ -99,7 +52,7 @@ use of our time together.
  * [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
  * [Thing-O](../../../thing-o-challenge)
 * 12:00 - 12:30 EE Dive Deep
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
+* 2:00 - LECTURE: / Lightning Talks
 * 3:00 - 6:00 Pair on challenges.
 
 #### Wednesday

@@ -12,34 +12,61 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 # Week 6 Lightning Talks
 
+
+
+## Monday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+
 ## Tuesday
 
-  *  Quentin - Observer Design Pattern
-  *  Johnny - D3
-  *  Harry - Closures
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
 
 ## Wednesday
-  *  Mathilde - Singleton Design Pattern
-  *  Matthew - falsey in JavaScript
-  *  Stephen : Testing with API's
-  - Strand: Active Record 4 changes
-  - Mazza: Eval in JavaScript
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
 
 ## Thursday
-  *  Ivan - Prototypical Inheritance without new
-  *  Darren - Adapter Design Pattern
-  - Google Maps API - Mason
-  - Irene: Strategy Design Pattern
-  - Hunter: Functional JavaScript (as opposed to OO)
-  - Tim: Hoisting in JavaScript
-  - Jose: Sass
-  *  Jamie - Factory Design Pattern
-  *  Nic - Hoisting in JavaScript
-  *  Chris - Template Method
-  *  Elliot - Git Stash
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
   *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
+  * Observer Design Pattern
+  * D3
+  * Closures
+  * Singleton Design Pattern
+  * falsey in JavaScript
+  * Testing with API's
+  * Eval in JavaScript
+  * Prototypical Inheritance without new
+  * Adapter Design Pattern
+  * Strategy Design Pattern
+  * Functional JavaScript (as opposed to OO)
+  * Hoisting in JavaScript
+  - Jose: Sass
+  * Factory Design Pattern
+  * Template Method
+  * Git Stash
+
