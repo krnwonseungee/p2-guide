@@ -19,7 +19,7 @@ This is where:
   - the path locations for root, views, etc. are set-up
   - the database configuration is required
   - the controllers and helpers are required
-* Janet Yi - db/migrate/..create_bands.rb
+* Janet Yi - db/migrate/..create_bands.rb - Migration file to create the table bands. Create Bands is a child class of the Active Record module, Migration class. method change to denote a change in the database. creates table bandS (PLURAL), with column "name" as string .
 * Jason Lo - public/css/normalize.css- renders HTML consistently across major browsers.
 * Jordan Luyke - public/css/application.css - main css file that helps display content across all html files in the application
 * Katherine Hayden - public/js/application.js - the container for javascript that is loaded on document ready.
@@ -45,7 +45,7 @@ This is where:
         does something that passes
         does something that fails (FAILED - 1)
         does something that is pending (PENDING: Not Yet Implemented)
-    
+
 * Zohar Liran - Rakefile
 
 ### Open Questions:
