@@ -11,7 +11,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Germain Boue - config/database.rb
 * Jackie Johnston - config/environment.rb
 * Janet Yi - db/migrate/..create_bands.rb
-* Jason Lo - public/css/normalize.css
+* Jason Lo - public/css/normalize.css- renders HTML consistently across major browsers.
 * Jordan Luyke - public/css/application.css
 * Katherine Hayden - public/js/application.js
 * Lucas Mathis - db/seeds.rb
