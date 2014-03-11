@@ -12,18 +12,18 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Jackie Johnston - config/environment.rb
 * Janet Yi - db/migrate/..create_bands.rb
 * Jason Lo - public/css/normalize.css- renders HTML consistently across major browsers.
-* Jordan Luyke - public/css/application.css
+* Jordan Luyke - public/css/application.css - main css file that helps display content across all html files in the application
 * Katherine Hayden - public/js/application.js
-* Lucas Mathis - db/seeds.rb - seeds information into your database. default to band names so you should probably write your own seed methods. 
+* Lucas Mathis - db/seeds.rb - seeds information into your database. default to band names so you should probably write your own seed methods.
 * Lyndsey Williams - spec/band_spec.rb
 * Mason O'Neal - spec/index_controller.rb
 * Matt Bechtel - spec/spec_helper.rb
 
 * Melanie Archer - spec/factories/band.rb
 
-  Uses the methods provided by the FactoryGirl gem to create 
+  Uses the methods provided by the FactoryGirl gem to create
   the Band object for testing purposes. This is preferable to using `Band.create`
-  over and over in the tests--for instance, it's easier to update the test when the Band object's 
+  over and over in the tests--for instance, it's easier to update the test when the Band object's
   structure changes in some way.
 
 * Michael Gleason - Gemfile
