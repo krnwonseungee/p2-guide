@@ -6,7 +6,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Brittan McGinnis - controllers/index.rb
 * Christine Dolendo - helpers/format.rb
 * Drew Parker Eric - models folder
-* Eric Joseph Johnson -views/ layout.erb
+* Eric Joseph Johnson -views/ layout.erb - A master HTML file that all child files are styled/structured after.
 * Erin Snyder - views/ index.erb - Design. Takes data from the user via the controller, passes the display settings back to the controller to be shown to the user.
 * Germain Boue - config/database.rb
 * Jackie Johnston - config/environment.rb
