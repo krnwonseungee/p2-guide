@@ -9,7 +9,7 @@
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9 AM - Welcome new Phase to DBC - group teach in.
-- 2:00 - 2:35 Lecture: Course overview; [1000 Foot view of the Internet, - vocabulary ]()
+- 2:00 - 2:35 Lecture: Course overview
 - 2:35-5:50: Pair on Challenges
   - [Deaf Sinatra 1: Synchronous Forms](../../../deaf-sinatra-1-synchronous-forms-challenge)
   - [Anagram Server 1: The Basics](../../../anagram-server-1-the-basics-challenge)
@@ -23,13 +23,13 @@
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice: four-minute meditation
-- 9:15 The Request / Response Cycle Lecture ♽ / [Sinatra Skeleton File Presentations](#skeleton.md).
+- 9:15 Lecture: Testing / [Sinatra Skeleton File Presentations](#skeleton.md).
 - 9:50 - 12:00 Pair on challenges
+ - Release 3 (testing) on [Deaf Sinatra 1](../../../deaf-sinatra-1-synchronous-forms-challenge)
   - [Craigslist, Jr](../../../craigslist-jr-challenge)
   - [Blog 1: Anonymous Blog](../../../blog-1-anonymous-blog-challenge)
 - 12:00 - 12:30 EE Shallow Dive: Difficult Discussions
-- 2:00 - 2:50 - Lecture:
-/ Lightning Talks
+- 2:00 - 2:50 - Lecture: The Request / Response Cycle Lecture ♽ / Lightning Talks
 - 2:50 - 5:50 Pair on challenges
 - 5:50 - 6:00 End of day stand up
 
