@@ -20,6 +20,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Matt Bechtel - spec/spec_helper.rb
 
 * Melanie Archer - spec/factories/band.rb
+
   Uses the methods provided by the FactoryGirl gem to create 
   the Band object for testing purposes. This is preferable to using `Band.create`
   over and over in the tests--for instance, it's easier to change when the Band object's 
