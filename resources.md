@@ -54,8 +54,9 @@
 -[Socket](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html), :level_2
 
 #### Testing
-
-- [Zee TDDs Conways Game of Life](https://gist.github.com/zspencer/6924352)
+- [RSpec](http://rspec.info/)
+- [RSpec Cheatsheet](https://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf)
+- [How I learned to test](http://everydayrails.com/2012/03/12/testing-series-intro.html)
 - [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/),:level_1, :tutorial
 - [RSpec Assertions: expect](http://betterspecs.org/#expect), :blog, :level_1
 - [RSpec Expect](http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax), :documentation, :level_1
@@ -64,6 +65,7 @@
 - [RSpec Rake Tasks](https://www.relishapp.com/rspec/rspec-core/docs/command-line/rake-task), :level_2, :documentation
 -  [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers), :level_2, :documentation
 - [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
+- [Zee TDDs Conways Game of Life](https://gist.github.com/zspencer/6924352)
 
 #### ActiveRecord
 - [ActiveRecord Migrations](http://api.rubyonrails.org/classes/ActiveRecord/Migration.html), :level_1, :documentation
