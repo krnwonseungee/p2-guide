@@ -41,7 +41,7 @@ cloned then pull the latest version of master).
 * Jordan Luyke - TOPIC
 * Jason Lo - Responsive Web Design
 * Janet Yi - TOPIC
-* Jackie Johnston - TOPIC
+* Jackie Johnston - CSS Display Property
 
 ## Friday
 
