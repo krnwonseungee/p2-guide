@@ -7,7 +7,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Christine Dolendo - helpers/format.rb
 * Drew Parker Eric - models folder
 * Eric Joseph Johnson -views/ layout.erb
-* Erin Snyder - views/ index.erb
+* Erin Snyder - views/ index.erb - Design. Takes data from the user via the controller, passes the display settings back to the controller to be shown to the user.
 * Germain Boue - config/database.rb
 * Jackie Johnston - config/environment.rb
 * Janet Yi - db/migrate/..create_bands.rb

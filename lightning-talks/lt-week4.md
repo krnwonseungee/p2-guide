@@ -46,7 +46,7 @@ cloned then pull the latest version of master).
 ## Friday
 
 * Germain Boue - TOPIC
-* Erin Snyder - TOPIC
+* Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
 * Christine Dolendo - TOPIC
@@ -67,7 +67,6 @@ cloned then pull the latest version of master).
 * CSS Display Property
 * What are the different ways to use the css position property?
 * What is a code kata?
-* What are the 4 rules of simple design?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * What's the difference between ruby's standard library, core library, and gems?
 * How can I use the sessions hash in Sinatra?
