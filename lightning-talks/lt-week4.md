@@ -50,11 +50,11 @@ cloned then pull the latest version of master).
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
 * Christine Dolendo - TOPIC
-* Brittan McGinnis - TOPIC
+* Brittan McGinnis - * Responsive Web Design
 
 ## Available Talks
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
-* Responsive Web Design
+
 * What makes a good commit?
 * What is the difference between `GET` and `POST`?
 * What are `ENV` variables?
