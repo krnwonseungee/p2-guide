@@ -51,7 +51,7 @@ cloned then pull the latest version of master).
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
 * Christine Dolendo - What makes a good commit?
-* Brittan McGinnis - * Responsive Web Design
+* Brittan McGinnis - * What are the different ways to use the css position property?
 
 ## Available Talks
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
@@ -63,7 +63,6 @@ cloned then pull the latest version of master).
 * Database indexing
 * What is the difference between abstraction and indirection?
 * Sinatra Partial Views
-* What are the different ways to use the css position property?
 * What is a code kata?
 * What is the 'params' hash?
 * How can I use `let` and `context` to dry up my tests?
