@@ -46,6 +46,19 @@ This is where:
         does something that is pending (PENDING: Not Yet Implemented)
 
 * Zohar Liran - Rakefile
+  - Rake is a software task management tool. 
+  - The word itself stands for Ruby Make.
+  - It is just another ruby file with ruby syntax that is interperted using the rake gem.
+  - The rake file contains tasks which we can execute using the rake command.
+  - Once we issue the rake command, rake searches the current folder for rake files, if a rake file is not found, the system will continue up the folder structure until it finds one.
+  - Multi rake files are usually placed in "rakelib" folder. In Rails the convention is to place them under lib/tasks
+  - The tasks in the rake file can have prerequisites and will have the following structure:
+  task :name => [preq1, preq2] do
+    #actions
+  end
+
+
+
 
 ### Open Questions:
 
