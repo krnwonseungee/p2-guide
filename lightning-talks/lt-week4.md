@@ -41,7 +41,7 @@ cloned then pull the latest version of master).
 * Jordan Luyke - TOPIC
 * Jason Lo - Responsive Web Design
 * Janet Yi - TOPIC
-* Jackie Johnston - TOPIC
+* Jackie Johnston - CSS Display Property
 
 ## Friday
 
@@ -64,9 +64,10 @@ cloned then pull the latest version of master).
 * Database indexing
 * What is the difference between abstraction and indirection?
 * Sinatra Partial Views
-* CSS Display Property
 * What are the different ways to use the css position property?
 * What is a code kata?
+* What is the 'params' hash?
+* How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * What's the difference between ruby's standard library, core library, and gems?
 * How can I use the sessions hash in Sinatra?

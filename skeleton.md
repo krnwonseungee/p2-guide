@@ -10,6 +10,13 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Erin Snyder - views/ index.erb - Design. Takes data from the user via the controller, passes the display settings back to the controller to be shown to the user.
 * Germain Boue - config/database.rb
 * Jackie Johnston - config/environment.rb
+This is where:
+  - all your gems are required
+  - the constant is stored for your path-centric logic
+  - the sessions are enabled and variable(s) set-up
+  - the path locations for root, views, etc. are set-up
+  - the database configuration is required
+  - the controllers and helpers are required
 * Janet Yi - db/migrate/..create_bands.rb
 * Jason Lo - public/css/normalize.css- renders HTML consistently across major browsers.
 * Jordan Luyke - public/css/application.css - main css file that helps display content across all html files in the application
