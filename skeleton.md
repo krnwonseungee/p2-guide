@@ -13,7 +13,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Janet Yi - db/migrate/..create_bands.rb
 * Jason Lo - public/css/normalize.css- renders HTML consistently across major browsers.
 * Jordan Luyke - public/css/application.css - main css file that helps display content across all html files in the application
-* Katherine Hayden - public/js/application.js
+* Katherine Hayden - public/js/application.js - the container for javascript that is loaded on document ready.
 * Lucas Mathis - db/seeds.rb - seeds information into your database. default to band names so you should probably write your own seed methods.
 * Lyndsey Williams - spec/band_spec.rb
 * Mason O'Neal - spec/index_controller.rb
