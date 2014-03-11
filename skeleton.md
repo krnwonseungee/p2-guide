@@ -5,7 +5,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 
 * Brittan McGinnis - controllers/index.rb
 * Christine Dolendo - helpers/format.rb
-helpers/format.rb is the file where you put your helper methods specific to formatting for your view, and can be used inside of your view templates. (Note: you can use helper methods on a ton of things other than formatting for your view such as logging and sessions)
+helpers/format.rb is the file where you put your helper methods specific to formatting for your view, and can be used inside of your view templates. (Note: you can use helper methods on a ton of things other than formatting for your view such as logging and sessions, but you'd likely put it in another file)
 
 * Drew Parker Eric - models folder
 * Eric Joseph Johnson -views/ layout.erb
