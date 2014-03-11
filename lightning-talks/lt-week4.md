@@ -21,7 +21,7 @@ cloned then pull the latest version of master).
 
 ## Tuesday
 
-* Zohar Liran - TOPIC
+* Zohar Liran - What is rack anyway?
 * Ryan Wood - TOPIC
 * Nicholas Cu - TOPIC
 * Namrata Honnavar - TOPIC
@@ -58,7 +58,7 @@ cloned then pull the latest version of master).
 * What makes a good commit?
 * What is the difference between `GET` and `POST`?
 * What are `ENV` variables?
-* What is rack anyway?
+* 
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
