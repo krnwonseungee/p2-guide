@@ -23,7 +23,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 
   Uses the methods provided by the FactoryGirl gem to create 
   the Band object for testing purposes. This is preferable to using `Band.create`
-  over and over in the tests--for instance, it's easier to change when the Band object's 
+  over and over in the tests--for instance, it's easier to update the test when the Band object's 
   structure changes in some way.
 
 * Michael Gleason - Gemfile
