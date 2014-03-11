@@ -8,7 +8,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Drew Parker Eric - models folder
 * Eric Joseph Johnson -views/ layout.erb
 * Erin Snyder - views/ index.erb
-* Germain Boue - config/database.rb
+* Germain Boue - config/database.rb - Loads all the necessary files for app including the database connection, autoload is a feature that allows you to only load when you need to.
 * Jackie Johnston - config/environment.rb
 * Janet Yi - db/migrate/..create_bands.rb
 * Jason Lo - public/css/normalize.css- renders HTML consistently across major browsers.
