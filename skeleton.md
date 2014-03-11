@@ -1,4 +1,4 @@
-## The  [Sinatra Skelton](../../../sinatra-skeleton-mvc-challenge)
+## The  [Sinatra Skelton](../../../sinatra-skeleton-mvc)
 
 ### The Files
 Provide a brief description of the file next to your name, be prepared to give a 1 min presentation of this.
