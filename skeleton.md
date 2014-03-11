@@ -18,7 +18,14 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Lyndsey Williams - spec/band_spec.rb
 * Mason O'Neal - spec/index_controller.rb
 * Matt Bechtel - spec/spec_helper.rb
+
 * Melanie Archer - spec/factories/band.rb
+
+  Uses the methods provided by the FactoryGirl gem to create 
+  the Band object for testing purposes. This is preferable to using `Band.create`
+  over and over in the tests--for instance, it's easier to update the test when the Band object's 
+  structure changes in some way.
+
 * Michael Gleason - Gemfile
 * Namrata Honnavar Gemfile.lock
 * Nicholas Cu - config.ru
