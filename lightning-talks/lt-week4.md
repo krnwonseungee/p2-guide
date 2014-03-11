@@ -49,14 +49,13 @@ cloned then pull the latest version of master).
 * Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
-* Christine Dolendo - TOPIC
+* Christine Dolendo - What makes a good commit?
 * Brittan McGinnis - TOPIC
 
 ## Available Talks
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
 * Responsive Web Design 
 
-* What makes a good commit?
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
