@@ -30,9 +30,9 @@ cloned then pull the latest version of master).
 ## Wednesday
 
 * Melanie Archer - What makes a good Pull request?
-* Matt Bechtel - TOPIC
+* Matt Bechtel - What is the 'params' hash?
 * Mason O'Neal - TOPIC
-* Lyndsey Williams - TOPIC
+* Lyndsey Williams - What is the difference between `GET` and `POST`?
 * Lucas Mathis - TOPIC
 
 ## Thursday
@@ -56,7 +56,6 @@ cloned then pull the latest version of master).
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
 * Responsive Web Design
 * What makes a good commit?
-* What is the difference between `GET` and `POST`?
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
@@ -69,7 +68,6 @@ cloned then pull the latest version of master).
 * What are the different ways to use the css position property?
 * What is a code kata?
 * What are the 4 rules of simple design?
-* What is the 'params' hash?
 * How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * What's the difference between ruby's standard library, core library, and gems?
