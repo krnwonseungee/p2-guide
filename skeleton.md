@@ -30,6 +30,13 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Namrata Honnavar Gemfile.lock
 * Nicholas Cu - config.ru
 * Ryan Wood - .rspec
+  The .rspec file is used to store non-default configuration settings for Rspec's output. Common settings are --color (which colors the terminal output) and --format documentation. See below for the latter output:
+
+      something
+        does something that passes
+        does something that fails (FAILED - 1)
+        does something that is pending (PENDING: Not Yet Implemented)
+    
 * Zohar Liran - Rakefile
 
 ### Open Questions:
