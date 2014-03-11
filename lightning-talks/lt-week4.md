@@ -37,7 +37,7 @@ cloned then pull the latest version of master).
 
 ## Thursday
 
-* Katherine Hayden - TOPIC
+* Katherine Hayden - How can I use `let` and `context` to dry up my tests?
 * Jordan Luyke - TOPIC
 * Jason Lo - Responsive Web Design
 * Janet Yi - TOPIC
@@ -68,7 +68,6 @@ cloned then pull the latest version of master).
 * What are the different ways to use the css position property?
 * What is a code kata?
 * What are the 4 rules of simple design?
-* How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * What's the difference between ruby's standard library, core library, and gems?
 * How can I use the sessions hash in Sinatra?
