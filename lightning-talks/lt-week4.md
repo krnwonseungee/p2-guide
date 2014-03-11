@@ -45,7 +45,7 @@ cloned then pull the latest version of master).
 
 ## Friday
 
-* Germain Boue - Responsive Web Design
+* Germain Boue - What's the difference between ruby's standard library, core library, and gems?
 * Erin Snyder - TOPIC
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
@@ -54,7 +54,7 @@ cloned then pull the latest version of master).
 
 ## Available Talks
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
-* Responsive Web Design
+* Responsive Web Design 
 * What makes a good commit?
 * What is the difference between `GET` and `POST`?
 * What are `ENV` variables?
@@ -73,7 +73,7 @@ cloned then pull the latest version of master).
 * What is the 'params' hash?
 * How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
-* What's the difference between ruby's standard library, core library, and gems?
+* What's the difference between ruby's standard library, core library, and gems? - Germain Boue
 * How can I use the sessions hash in Sinatra?
 * When do I use test doubles?
 
