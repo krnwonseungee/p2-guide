@@ -23,7 +23,7 @@ cloned then pull the latest version of master).
 
 * Zohar Liran - What is rack anyway?
 * Ryan Wood - What is the difference between `GET` and `POST`?
-* Nicholas Cu - TOPIC
+* Nicholas Cu - What is the difference between abstraction and indirection
 * Namrata Honnavar - * What does 'semantic markup' mean?
 * Michael Gleason - Red green refactor
 
@@ -61,7 +61,6 @@ cloned then pull the latest version of master).
 * What is the request response cycle?
 * What is the arrange act assert pattern?
 * Database indexing
-* What is the difference between abstraction and indirection?
 * Sinatra Partial Views
 * What are the different ways to use the css position property?
 * What is a code kata?
