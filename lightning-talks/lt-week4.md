@@ -21,36 +21,36 @@ cloned then pull the latest version of master).
 
 ## Tuesday
 
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Zohar Liran - TOPIC
+* Ryan Wood - TOPIC
+* Nicholas Cu - TOPIC
+* Namrata Honnavar - TOPIC
+* Michael Gleason - TOPIC
 
 ## Wednesday
 
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Melanie Archer - TOPIC
+* Matt Bechtel - TOPIC
+* Mason O'Neal - TOPIC
+* Lyndsey Williams - TOPIC
+* Lucas Mathis - TOPIC
 
 ## Thursday
 
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Katherine Hayden - TOPIC
+* Jordan Luyke - TOPIC
+* Jason Lo - TOPIC
+* Janet Yi - TOPIC
+* Jackie Johnston - TOPIC
 
 ## Friday
 
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Germain Boue - TOPIC
+* Erin Snyder - TOPIC
+* Eric Joseph Johnson - TOPIC
+* Drew Parker Eric - TOPIC
+* Christine Dolendo - TOPIC
+* Brittan McGinnis - TOPIC
 
 ## Available Talks
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
@@ -64,7 +64,7 @@ cloned then pull the latest version of master).
 * What is the arrange act assert pattern?
 * What makes a good test?
 * Database indexing
-Armando - What does 'semantic markup' mean?
+* What does 'semantic markup' mean?
 * What is the difference between abstraction and indirection?
 * Sinatra Partial Views
 * What makes a good Pull request?

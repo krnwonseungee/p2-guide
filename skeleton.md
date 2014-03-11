@@ -1,5 +1,6 @@
-## The files of the [Sinatra Skelton](../../../sinatra-skeleton-mvc-challenge)
+## The  [Sinatra Skelton](../../../sinatra-skeleton-mvc-challenge)
 
+### The Files
 Provide a brief description of the file next to your name, be prepared to give a 1 min presentation of this.
 
 * Brittan McGinnis - controllers/index.rb
@@ -23,3 +24,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Nicholas Cu - config.ru
 * Ryan Wood - .rspec
 * Zohar Liran - Rakefile
+
+### Open Questions:
+
+
