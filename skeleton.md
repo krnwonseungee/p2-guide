@@ -7,8 +7,8 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Christine Dolendo - helpers/format.rb
 * Drew Parker Eric - models folder
 * Eric Joseph Johnson -views/ layout.erb
+* Germain Boue - config/database.rb - Loads all the necessary files for app including the database connection, autoload is a feature that allows you to only load when you need to.
 * Erin Snyder - views/ index.erb - Design. Takes data from the user via the controller, passes the display settings back to the controller to be shown to the user.
-* Germain Boue - config/database.rb
 * Jackie Johnston - config/environment.rb
 This is where:
   - all your gems are required
