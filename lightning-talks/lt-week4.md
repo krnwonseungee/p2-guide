@@ -29,7 +29,7 @@ cloned then pull the latest version of master).
 
 ## Wednesday
 
-* Melanie Archer - TOPIC
+* Melanie Archer - What makes a good Pull request?
 * Matt Bechtel - TOPIC
 * Mason O'Neal - TOPIC
 * Lyndsey Williams - TOPIC
@@ -65,7 +65,6 @@ cloned then pull the latest version of master).
 * Database indexing
 * What is the difference between abstraction and indirection?
 * Sinatra Partial Views
-* What makes a good Pull request?
 * CSS Display Property
 * What are the different ways to use the css position property?
 * What is a code kata?
