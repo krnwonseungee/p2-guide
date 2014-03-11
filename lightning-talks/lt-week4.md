@@ -22,7 +22,7 @@ cloned then pull the latest version of master).
 ## Tuesday
 
 * Zohar Liran - What is rack anyway?
-* Ryan Wood - TOPIC
+* Ryan Wood - What is the difference between `GET` and `POST`?
 * Nicholas Cu - TOPIC
 * Namrata Honnavar - * What does 'semantic markup' mean?
 * Michael Gleason - Red green refactor
@@ -56,7 +56,6 @@ cloned then pull the latest version of master).
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
 * Responsive Web Design
 * What makes a good commit?
-* What is the difference between `GET` and `POST`?
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
