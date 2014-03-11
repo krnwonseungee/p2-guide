@@ -14,7 +14,7 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Jason Lo - public/css/normalize.css- renders HTML consistently across major browsers.
 * Jordan Luyke - public/css/application.css
 * Katherine Hayden - public/js/application.js
-* Lucas Mathis - db/seeds.rb
+* Lucas Mathis - db/seeds.rb - seeds information into your database. default to band names so you should probably write your own seed methods. 
 * Lyndsey Williams - spec/band_spec.rb
 * Mason O'Neal - spec/index_controller.rb
 * Matt Bechtel - spec/spec_helper.rb
