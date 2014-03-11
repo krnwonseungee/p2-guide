@@ -45,7 +45,7 @@ cloned then pull the latest version of master).
 
 ## Friday
 
-* Germain Boue - TOPIC
+* Germain Boue - Responsive Web Design
 * Erin Snyder - TOPIC
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
