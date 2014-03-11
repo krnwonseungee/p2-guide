@@ -23,7 +23,7 @@ This is where:
 * Katherine Hayden - public/js/application.js - the container for javascript that is loaded on document ready.
 * Lucas Mathis - db/seeds.rb - seeds information into your database. default to band names so you should probably write your own seed methods.
 * Lyndsey Williams - spec/band_spec.rb
-* Mason O'Neal - spec/index_controller.rb
+* Mason O'Neal - spec/index_controller.rb - This file is where you would have code that runs controller tests (tests of your controller code).
 * Matt Bechtel - spec/spec_helper.rb
 
 * Melanie Archer - spec/factories/band.rb
