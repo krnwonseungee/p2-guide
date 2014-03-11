@@ -8,6 +8,7 @@
 - [Schedule Week 5](schedule_week5.md)
 - [Schedule Week 6](schedule_week6.md)
 - [Resources](resources.md)
+- [Sinatra Skeleton](../../../sinatra-skeleton-mvc)
 
 
 

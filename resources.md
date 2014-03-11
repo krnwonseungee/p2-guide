@@ -5,6 +5,7 @@
 1. All Weeks
   - [EE](#engineering-empathy)
   - [Soft Skills](#soft-skills)
+
 1. [Week 4: Ruby Web Apps](#week-4-ruby-web-apps)
   - [Sinatra](#sinatra)
   - [Testing](#testing)
