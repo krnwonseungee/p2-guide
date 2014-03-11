@@ -25,7 +25,7 @@ cloned then pull the latest version of master).
 * Ryan Wood - TOPIC
 * Nicholas Cu - TOPIC
 * Namrata Honnavar - TOPIC
-* Michael Gleason - TOPIC
+* Michael Gleason - Red green refactor
 
 ## Wednesday
 
@@ -71,7 +71,6 @@ cloned then pull the latest version of master).
 * CSS Display Property
 * What are the different ways to use the css position property?
 * What is a code kata?
-* Red green refactor
 * What are the 4 rules of simple design?
 * What is the 'params' hash?
 * How can I use `let` and `context` to dry up my tests?
