@@ -33,7 +33,8 @@ cloned then pull the latest version of master).
 * Matt Bechtel - What is the 'params' hash?
 * Mason O'Neal - TOPIC
 * Lyndsey Williams - What is the difference between `GET` and `POST`?
-* Lucas Mathis - TOPIC
+* Lucas Mathis - How can I use the sessions hash in Sinatra?
+
 
 ## Thursday
 
@@ -69,6 +70,5 @@ cloned then pull the latest version of master).
 * How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * What's the difference between ruby's standard library, core library, and gems? - Germain Boue
-* How can I use the sessions hash in Sinatra?
 * When do I use test doubles?
 
