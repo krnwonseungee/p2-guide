@@ -41,21 +41,21 @@ cloned then pull the latest version of master).
 * Jordan Luyke - TOPIC
 * Jason Lo - Responsive Web Design
 * Janet Yi - TOPIC
-* Jackie Johnston - TOPIC
+* Jackie Johnston - CSS Display Property
 
 ## Friday
 
-* Germain Boue - TOPIC
+* Germain Boue - What's the difference between ruby's standard library, core library, and gems?
 * Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
-* Christine Dolendo - TOPIC
+* Christine Dolendo - What makes a good commit?
 * Brittan McGinnis - TOPIC
 
 ## Available Talks
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
+* Responsive Web Design 
 
-* What makes a good commit?
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
@@ -64,11 +64,12 @@ cloned then pull the latest version of master).
 * Database indexing
 * What is the difference between abstraction and indirection?
 * Sinatra Partial Views
-* CSS Display Property
 * What are the different ways to use the css position property?
 * What is a code kata?
+* What is the 'params' hash?
+* How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
-* What's the difference between ruby's standard library, core library, and gems?
+* What's the difference between ruby's standard library, core library, and gems? - Germain Boue
 * How can I use the sessions hash in Sinatra?
 * When do I use test doubles?
 
