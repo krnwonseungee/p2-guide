@@ -176,3 +176,6 @@
 
 ### Books
 - [Principles of Object Oriented Programming in Javascript](http://www.nostarch.com/releases/OOJS_PR.html)
+
+### Katas
+- [Code Wars](http://www.codewars.com)
