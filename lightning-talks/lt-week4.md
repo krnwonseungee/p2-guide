@@ -34,7 +34,8 @@ cloned then pull the latest version of master).
 * Matt Bechtel - What is the 'params' hash?
 * Mason O'Neal - Sinatra Partial Views
 * Lyndsey Williams - What is the request response cycle?
-* Lucas Mathis - Sinatra Partial Views
+* Lucas Mathis - What is the 'params' hash?
+
 
 
 ## Thursday
@@ -60,7 +61,6 @@ cloned then pull the latest version of master).
 * What is the arrange act assert pattern?
 * How can I use the sessions hash in Sinatra?
 * What is a code kata?
-* What is the 'params' hash?
 * How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * When do I use test doubles?
