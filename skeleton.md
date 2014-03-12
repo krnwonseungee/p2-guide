@@ -6,7 +6,11 @@ Provide a brief description of the file next to your name, be prepared to give a
 * Brittan McGinnis - controllers/index.rb
 * Christine Dolendo - helpers/format.rb
 helpers/format.rb is the file where you put your helper methods specific to formatting for your view, and can be used inside of your view templates. (Note: you can use helper methods on a ton of things other than formatting for your view such as logging and sessions, but you'd likely put it in another file)
-* Drew Parker Eric - models folder
+* Drew Parker - models folder
+  - the models folder holds ruby object models that can either represent tables in your database or have nothing to do with your database
+  - each model in this folder inherits from ActiveRecord::Base, so you can interact with your model using standard ruby methods
+  - models also specify associations between models and validations for model data
+  - by convention, the model filename and classname are singular
 * Eric Joseph Johnson -views/ layout.erb - A master HTML file that all child files are styled/structured after.
 * Germain Boue - config/database.rb - Loads all the necessary files for app including the database connection, autoload is a feature that allows you to only load when you need to.
 * Erin Snyder - views/ index.erb - Design. Takes data from the user via the controller, passes the display settings back to the controller to be shown to the user.

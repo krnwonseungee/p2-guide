@@ -37,11 +37,11 @@
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
-- 9:15 Lecture:
+- 9:15 Lecture: [REST in 10 minutes and Deploying to Heroku]()
 - 9:50 - 12:30 Pair on challenges (**Controller and unit tests where
   appropriate are now expected, even if the challenge does not explicitly mention doing so**)
 
-- 2:00 - 2:50 - Lecture:  / Lightning Talks
+- 2:00 - 2:50 - Lecture: User Authentication and Sessions  / Lightning Talks
 - 2:50 - 5:50 Pair on Challenges
 * [Heroku 1: Getting Started](../../../heroku-1-getting-started-challenge)
 * [Heroku 2: Apps Ahoy](../../../heroku-2-apps-ahoy-challenge)
