@@ -15,13 +15,14 @@ cloned then pull the latest version of master).
    day.
 5. Put your name in front of the talk title.
 6. Submit a pull request!  (and get someone else to merge it)
+7. **Add your talk gist to the student_files folder and add a link to it from your name below.**
 
 
 # Week 1 Lightning Talks
 
 ## Tuesday
 
-* Zohar Liran - What is rack anyway?
+* Zohar Liran - [What is rack anyway?](student_files/mygist.md)
 * Ryan Wood - What is the difference between `GET` and `POST`?
 * Nicholas Cu - TOPIC
 * Namrata Honnavar - * What does 'semantic markup' mean?
@@ -54,7 +55,7 @@ cloned then pull the latest version of master).
 
 ## Available Talks
 * How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
-* Responsive Web Design 
+* Responsive Web Design
 
 * What makes a good commit?
 * What are `ENV` variables?
