@@ -22,8 +22,8 @@ cloned then pull the latest version of master).
 
 ## Tuesday
 
-* Zohar Liran - [What is rack anyway?](student_files/mygist.md)
-* Ryan Wood - What is the difference between `GET` and `POST`?
+* Zohar Liran - What is rack anyway?
+* Ryan Wood - [What is the difference between `GET` and `POST`?](https://gist.github.com/rbn1357/9494786)
 * Nicholas Cu - What is the difference between abstraction and indirection
 * Namrata Honnavar - * What does 'semantic markup' mean?
 * Michael Gleason - Red green refactor
