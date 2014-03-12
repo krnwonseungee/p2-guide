@@ -24,7 +24,7 @@ cloned then pull the latest version of master).
 
 * Zohar Liran - [What is rack anyway?](student_files/mygist.md)
 * Ryan Wood - What is the difference between `GET` and `POST`?
-* Nicholas Cu - TOPIC
+* Nicholas Cu - What is the difference between abstraction and indirection
 * Namrata Honnavar - * What does 'semantic markup' mean?
 * Michael Gleason - Red green refactor
 
@@ -34,12 +34,13 @@ cloned then pull the latest version of master).
 * Matt Bechtel - What is the 'params' hash?
 * Mason O'Neal - TOPIC
 * Lyndsey Williams - What is the difference between `GET` and `POST`?
-* Lucas Mathis - TOPIC
+* Lucas Mathis - How can I use the sessions hash in Sinatra?
+
 
 ## Thursday
 
 * Katherine Hayden - How can I use `let` and `context` to dry up my tests?
-* Jordan Luyke - TOPIC
+* Jordan Luyke - What makes a good test?
 * Jason Lo - Responsive Web Design
 * Janet Yi - TOPIC
 * Jackie Johnston - CSS Display Property
@@ -50,28 +51,22 @@ cloned then pull the latest version of master).
 * Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - TOPIC
 * Drew Parker Eric - TOPIC
-* Christine Dolendo - TOPIC
-* Brittan McGinnis - TOPIC
+* Christine Dolendo - What makes a good commit?
+* Brittan McGinnis - * Responsive Web Design
 
 ## Available Talks
-* How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
+* How can I inform the user when active record validations fail?
 * Responsive Web Design
-
-* What makes a good commit?
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
-* What makes a good test?
 * Database indexing
-* What is the difference between abstraction and indirection?
 * Sinatra Partial Views
 * What are the different ways to use the css position property?
 * What is a code kata?
 * What is the 'params' hash?
 * How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
-* What's the difference between ruby's standard library, core library, and gems? - Germain Boue
-* How can I use the sessions hash in Sinatra?
 * When do I use test doubles?
 
