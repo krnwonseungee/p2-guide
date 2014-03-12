@@ -34,7 +34,7 @@ cloned then pull the latest version of master).
 * Matt Bechtel - What is the 'params' hash?
 * Mason O'Neal - TOPIC
 * Lyndsey Williams - What is the difference between `GET` and `POST`?
-* Lucas Mathis - How can I use the sessions hash in Sinatra?
+* Lucas Mathis - Sinatra Partial Views
 
 
 ## Thursday
@@ -62,7 +62,7 @@ cloned then pull the latest version of master).
 * What is the request response cycle?
 * What is the arrange act assert pattern?
 * Database indexing
-* Sinatra Partial Views
+* How can I use the sessions hash in Sinatra?
 * What are the different ways to use the css position property?
 * What is a code kata?
 * What is the 'params' hash?
