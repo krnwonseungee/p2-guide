@@ -8,7 +8,6 @@ What:
 
 Why:
 * Pull requests can help code review
-* 
 * Pull requests create an audit trail, something you can follow even a year from now.
 
 How:
