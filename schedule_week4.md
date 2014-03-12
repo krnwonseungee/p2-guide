@@ -23,7 +23,7 @@
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice: four-minute meditation
-- 9:15 Lecture: Testing / [Sinatra Skeleton File Presentations](skeleton.md).
+- 9:15 Lecture: [Testing](lectures/testing.md) / [Sinatra Skeleton File Presentations](skeleton.md).
 - 9:50 - 12:00 Pair on challenges
  - Release 3 (testing) on [Deaf Sinatra 1](../../../deaf-sinatra-1-synchronous-forms-challenge)
   - [Craigslist, Jr](../../../craigslist-jr-challenge)
@@ -37,7 +37,7 @@
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
-- 9:15 Lecture: [REST in 10 minutes and Deploying to Heroku]()
+- 9:15 Lecture: [REST in 10 minutes and Deploying to Heroku](lectures/REST-and-heroku.md)
 - 9:50 - 12:30 Pair on challenges (**Controller and unit tests where
   appropriate are now expected, even if the challenge does not explicitly mention doing so**)
 
