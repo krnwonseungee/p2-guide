@@ -31,7 +31,7 @@ cloned then pull the latest version of master).
 ## Wednesday
 
 * Melanie Archer - [What makes a good Pull request?](./student_files/what-makes-good-pull-request.md)
-* Matt Bechtel - What is the 'params' hash?
+* Matt Bechtel - [What is the 'params' hash?](./student_files/what_is_the_params_hash.md)
 * Mason O'Neal - Sinatra Partial Views
 * Lyndsey Williams - What is the request response cycle?
 * Lucas Mathis - What is the 'params' hash?
