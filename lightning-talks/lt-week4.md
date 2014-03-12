@@ -22,19 +22,19 @@ cloned then pull the latest version of master).
 
 ## Tuesday
 
-* Zohar Liran - [What is rack anyway?](student_files/mygist.md)
-* Ryan Wood - What is the difference between `GET` and `POST`?
+* Zohar Liran - What is rack anyway?
+* Ryan Wood - [What is the difference between `GET` and `POST`?](https://gist.github.com/rbn1357/9494786)
 * Nicholas Cu - What is the difference between abstraction and indirection
 * Namrata Honnavar - * What does 'semantic markup' mean?
 * Michael Gleason - Red green refactor
 
 ## Wednesday
 
-* Melanie Archer - What makes a good Pull request?
+* Melanie Archer - [What makes a good Pull request?](./student_files/what-makes-good-pull-request.md)
 * Matt Bechtel - What is the 'params' hash?
-* Mason O'Neal - TOPIC
-* Lyndsey Williams - What is the difference between `GET` and `POST`?
-* Lucas Mathis - How can I use the sessions hash in Sinatra?
+* Mason O'Neal - Sinatra Partial Views
+* Lyndsey Williams - What is the request response cycle?
+* Lucas Mathis - Sinatra Partial Views
 
 
 ## Thursday
@@ -50,20 +50,15 @@ cloned then pull the latest version of master).
 * Germain Boue - What's the difference between ruby's standard library, core library, and gems?
 * Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - TOPIC
-* Drew Parker Eric - TOPIC
+* Drew Parker - How can I use local git branches to make spiking easier?
 * Christine Dolendo - What makes a good commit?
-* Brittan McGinnis - * Responsive Web Design
+* Brittan McGinnis - * What are the different ways to use the css position property?
 
 ## Available Talks
 * How can I inform the user when active record validations fail?
-* Responsive Web Design
 * What are `ENV` variables?
-* How can I use local git branches to make spiking easier?
-* What is the request response cycle?
 * What is the arrange act assert pattern?
-* Database indexing
-* Sinatra Partial Views
-* What are the different ways to use the css position property?
+* How can I use the sessions hash in Sinatra?
 * What is a code kata?
 * What is the 'params' hash?
 * How can I use `let` and `context` to dry up my tests?
