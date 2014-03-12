@@ -56,9 +56,7 @@ cloned then pull the latest version of master).
 
 ## Available Talks
 * How can I inform the user when active record validations fail?
-* Responsive Web Design
 * What are `ENV` variables?
-* How can I use local git branches to make spiking easier?
 * What is the arrange act assert pattern?
 * How can I use the sessions hash in Sinatra?
 * What is a code kata?
