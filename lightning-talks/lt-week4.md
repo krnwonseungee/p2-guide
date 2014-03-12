@@ -30,7 +30,7 @@ cloned then pull the latest version of master).
 
 ## Wednesday
 
-* Melanie Archer - What makes a good Pull request?
+* Melanie Archer - [What makes a good Pull request?](./student_files/what-makes-good-pull-request.md)
 * Matt Bechtel - What is the 'params' hash?
 * Mason O'Neal - TOPIC
 * Lyndsey Williams - What is the difference between `GET` and `POST`?
