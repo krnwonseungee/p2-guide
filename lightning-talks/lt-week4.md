@@ -50,7 +50,7 @@ cloned then pull the latest version of master).
 * Germain Boue - What's the difference between ruby's standard library, core library, and gems?
 * Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - TOPIC
-* Drew Parker Eric - TOPIC
+* Drew Parker - How can I use local git branches to make spiking easier?
 * Christine Dolendo - What makes a good commit?
 * Brittan McGinnis - * Responsive Web Design
 
@@ -58,7 +58,6 @@ cloned then pull the latest version of master).
 * How can I inform the user when active record validations fail?
 * Responsive Web Design
 * What are `ENV` variables?
-* How can I use local git branches to make spiking easier?
 * What is the request response cycle?
 * What is the arrange act assert pattern?
 * Database indexing
