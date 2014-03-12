@@ -33,7 +33,7 @@ cloned then pull the latest version of master).
 * Melanie Archer - What makes a good Pull request?
 * Matt Bechtel - What is the 'params' hash?
 * Mason O'Neal - TOPIC
-* Lyndsey Williams - What is the difference between `GET` and `POST`?
+* Lyndsey Williams - What is the request response cycle?
 * Lucas Mathis - Sinatra Partial Views
 
 
@@ -59,7 +59,7 @@ cloned then pull the latest version of master).
 * Responsive Web Design
 * What are `ENV` variables?
 * How can I use local git branches to make spiking easier?
-* What is the request response cycle?
+
 * What is the arrange act assert pattern?
 * Database indexing
 * How can I use the sessions hash in Sinatra?
