@@ -9,6 +9,7 @@
 - [Schedule Week 6](schedule_week6.md)
 - [Resources](resources.md)
 - [Sinatra Skeleton](../../../sinatra-skeleton-mvc-challenge)
+- [DBC Reddit](http://www.reddit.com/r/DevBootcampSF/) - Find and add helpful links/comments on various topics!
 
 
 
