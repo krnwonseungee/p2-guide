@@ -42,7 +42,7 @@ cloned then pull the latest version of master).
 * Katherine Hayden - How can I use `let` and `context` to dry up my tests?
 * Jordan Luyke - What makes a good test?
 * Jason Lo - Responsive Web Design
-* Janet Yi - What are ENV variables?
+* Janet Yi - [What are ENV variables?](https://gist.github.com/krnwonseungee/9536759)
 * Jackie Johnston - [CSS Display Property](https://gist.github.com/jackiejohnston/9522910)
 
 ## Friday
