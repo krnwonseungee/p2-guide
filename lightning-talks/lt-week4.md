@@ -58,7 +58,6 @@ cloned then pull the latest version of master).
 * How can I inform the user when active record validations fail?
 * What is the arrange act assert pattern?
 * How can I use the sessions hash in Sinatra?
-* How can I use `let` and `context` to dry up my tests?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * When do I use test doubles?
 
