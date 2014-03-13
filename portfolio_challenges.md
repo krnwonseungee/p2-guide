@@ -12,7 +12,7 @@ under an hour.
 
 While we say these should be completed "solo" you can feel free to ask for
 clarification or *help* from your cohort-mates.  However, be quite sure that
-you're getting *help* and blindly parroting code into your editor.
+you're getting *help* and not just blindly parroting code into your editor.
 
 As always, consulting API documentation is allowed, but be sure to discern
 between "this is core and I should have it memorized" and "ack, what's the name
