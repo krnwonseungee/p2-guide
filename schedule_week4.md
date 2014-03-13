@@ -63,7 +63,7 @@
 - 9:15 Lecture:
 - 9:50 - 12:30 Pair on challenges.
 
-* [Layout Drill: Left-hand Navigation](../../../layout-drill-left-hand-navigation-challenge)
+ * [Layout Drill: Left-hand Navigation](../../../layout-drill-left-hand-navigation-challenge)
  * [Layout Drill: Right-hand Navigation](../../../layout-drill-right-hand-navigation-challenge)
  * [Layout Drill: Top Navigation](../../../layout-drill-top-navigation-challenge)
  * [Layout Drill: Fixed Navigation](../../../layout-drill-fixed-navigation-challenge)
