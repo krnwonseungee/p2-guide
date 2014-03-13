@@ -56,7 +56,6 @@ cloned then pull the latest version of master).
 
 ## Available Talks
 * How can I inform the user when active record validations fail?
-* What are `ENV` variables?
 * What is the arrange act assert pattern?
 * How can I use the sessions hash in Sinatra?
 * How can I use `let` and `context` to dry up my tests?
