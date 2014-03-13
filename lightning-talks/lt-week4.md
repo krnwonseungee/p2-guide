@@ -49,13 +49,12 @@ cloned then pull the latest version of master).
 
 * Germain Boue - What's the difference between ruby's standard library, core library, and gems?
 * Erin Snyder - What are the 4 rules of simple design?
-* Eric Joseph Johnson - TOPIC
+* Eric Joseph Johnson - How can I inform the user when active record validations fail?
 * Drew Parker - How can I use local git branches to make spiking easier?
 * Christine Dolendo - What makes a good commit?
 * Brittan McGinnis - * What are the different ways to use the css position property?
 
 ## Available Talks
-* How can I inform the user when active record validations fail?
 * What is the arrange act assert pattern?
 * How can I use the sessions hash in Sinatra?
 * How can I use `$LOAD_PATH` to avoid using `require_relative`?
