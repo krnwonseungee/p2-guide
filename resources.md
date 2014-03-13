@@ -87,6 +87,7 @@
 - [List of CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
 - [Sublime Shortcuts: Embedded ruby tag](https://github.com/eddorre/SublimeERB)
+- [Perfect Pixel Chrome Extension](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi/details?hl=en).<br>Layer a screenshot of your intended design over the Web page you're building.
 
 #### Rack
 - [Rack Compliant Frameworks](https://devcenter.heroku.com/articles/rack#sinatra), :level_2
