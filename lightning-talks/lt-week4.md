@@ -43,7 +43,7 @@ cloned then pull the latest version of master).
 * Jordan Luyke - What makes a good test?
 * Jason Lo - Responsive Web Design
 * Janet Yi - What are ENV variables?
-* Jackie Johnston - CSS Display Property
+* Jackie Johnston - [CSS Display Property](https://gist.github.com/jackiejohnston/9522910)
 
 ## Friday
 
