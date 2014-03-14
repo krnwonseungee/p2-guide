@@ -47,7 +47,7 @@ cloned then pull the latest version of master).
 
 ## Friday
 
-* Germain Boue - What's the difference between ruby's standard library, core library, and gems?
+* Germain Boue - [What's the difference between ruby's standard library, core library, and gems?](https://gist.github.com/boue/9540965)
 * Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - How can I inform the user when active record validations fail?
 * Drew Parker - How can I use local git branches to make spiking easier?
