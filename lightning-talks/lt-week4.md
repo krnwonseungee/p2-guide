@@ -39,7 +39,7 @@ cloned then pull the latest version of master).
 
 ## Thursday
 
-* Katherine Hayden - How can I use `let` and `context` to dry up my tests?
+* Katherine Hayden - [How can I use `let` and `context` to dry up my tests?](./student_files/let_and_context_for_dry_tests.md)
 * Jordan Luyke - What makes a good test?
 * Jason Lo - Responsive Web Design
 * Janet Yi - [What are ENV variables?](https://gist.github.com/krnwonseungee/9536759)
