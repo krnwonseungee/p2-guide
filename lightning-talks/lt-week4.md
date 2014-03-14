@@ -51,7 +51,7 @@ cloned then pull the latest version of master).
 * Erin Snyder - What are the 4 rules of simple design?
 * Eric Joseph Johnson - How can I inform the user when active record validations fail?
 * Drew Parker - How can I use local git branches to make spiking easier?
-* Christine Dolendo - What makes a good commit?
+* Christine Dolendo - [What makes a good commit?](https://github.com/golden-bears-2014/phase-2-guide/blob/master/lightning-talks/student_files/good_commits.md)
 * Brittan McGinnis - * What are the different ways to use the css position property?
 
 ## Available Talks
