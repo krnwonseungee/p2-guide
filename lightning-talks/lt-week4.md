@@ -48,7 +48,7 @@ cloned then pull the latest version of master).
 ## Friday
 
 * Germain Boue - What's the difference between ruby's standard library, core library, and gems?
-* Erin Snyder - What are the 4 rules of simple design?
+* Erin Snyder - [What are the 4 rules of simple design?](https://gist.github.com/ErinJoan/9542642#file-simple_design-mdown)
 * Eric Joseph Johnson - How can I inform the user when active record validations fail?
 * Drew Parker - How can I use local git branches to make spiking easier?
 * Christine Dolendo - What makes a good commit?
