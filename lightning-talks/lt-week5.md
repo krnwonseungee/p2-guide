@@ -16,7 +16,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Monday
 
 * Brittan - jQuery Events
-* NAME - TOPIC
+* Erin - Coffee Script
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
@@ -64,7 +64,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Quentin - Testing (shoulda-matchers)
 * Tim - jQuery Selectors
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
-* Matthew - 
+* Matthew -
 * Quentin - Database Migration constraints
 * Johnny- Testing (Jasmine)
 * Jose - Angular Overview
