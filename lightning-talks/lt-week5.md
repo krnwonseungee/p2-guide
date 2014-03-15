@@ -56,7 +56,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Johnny - Describe (some) benefits of (Angular/Ember/Backbone)
 * Brittany - jQuery Effects
 * Nic - JavaScript Scope
-* Mason - Coffee Script
 * Hunter - * Active Record : includes and "The N+1 Problem"
 * Johnny-* Dynamic Event binding and on
 * Chris - * Partials
