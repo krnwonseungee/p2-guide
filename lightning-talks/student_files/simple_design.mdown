@@ -1,0 +1,24 @@
+<h1>The 4 Rules of Simple Design</h1>
+<ol>
+  <li>Your code passes all of the tests!</li>
+    <p>This is number one because comprehensive tests are the top priority. Your tests must run and pass all the time.</p>
+    <p>To be able to write unit tests, your code must follow design principles such as simplicity, single responsibility, etc.</p>
+    <p>Writing tests leads to better design.</p>
+  <li>Your code must express your intent</li>
+    <p>Other people should be able to easily read and understand your code.</p>
+    <p>Using good descriptive names for classes, methods and variables reduces the need to add comments.</p>
+    <p>Another programmer should be able to look at your class name and not be surprised by what it does.</p>
+    <p>Expressing your intent leads to smaller classes and methods that are easier to write and test.</p>
+  <li>DRY it up!</li>
+    <p>Eliminate duplicates and unnecessary code.</p>
+  <li>Minimize the number of classes and methods used.</li>
+    <p>This one is number for because it's the lowest priority.</p>
+    <p>You basically want to eliminate anything unnecessary that doesn't break the first 3 rules.</p>
+    <p>This rule fosters evolutionary design instead of writing code for tomorrow.</p>
+    <p>You could increase complexity by planning for future situations that might never happen, or you could keep your code simple and allow for unpredicted changes.</p>
+</ol>
+
+<h3>Kent Beck</h3>
+<p>Kent Beck is a software engineer responsible for the 4 rules of simple design. He named Agile software development and was one of the original 17 signers of the Agile Manifesto.</p>
+<p>Beck pioneered design patterns and introduced "the rediscovery of TDD" (according to wikipedia).</p>
+<p>He is responsible for the commercial application of SmallTalk which is an object oriented programming language and co-created JUnit unit testing.</p>
