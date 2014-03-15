@@ -1,19 +1,20 @@
-Hi all,
+Wow!  What a week.  Take a moment on how far you've come in 5 days.  On Monday you were trying to figure out how to make dear ol' grandma shout and this weekend you're building an amazing flash card app and deploying it to the world. Nice (or shall we say Niiiiiiiiiccceeee)
 
-First, reflect again that on Monday you were learning about TCP/IP and getting
-a 1,000 foot view of the internet.  Today you're building a pretty
-significant group project.  Wow!
+Next week we'll tackle JavaScript.  For the weekend you should:
 
-Next week we'll start working with CSS and JavaScript in a serious way.  For
-your weekend work:
-
-* Brush up on jQuery.  Code Academy has a good reminder course:
-http://www.codecademy.com/tracks/jquery
-
-* Deliver your group project
+* Finish your group project
 
 * Finish Portfolio challenges 1-4
 
-If you're baffled by something like "Link is not there" or similar,
-just send me an email.
+* Finish any challenges you didn't get to this week.
 
+* Brush up on your JavaScript:
+  * Do or (redo) the JavaScript Labs in Socrates.  Focus on Objects.
+  * Read through  [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - in particular: 'Working With Objects'
+  * Rewrite these Phase 1 Challenges in JavaScript
+    * Roman Numerals
+    * Cookies and Ovens
+
+* Take a moment for you. Go outside or sit with a friend. Rejoice in your journey.  Breathe.
+
+Have a great weekend - see you on Monday.
