@@ -24,10 +24,10 @@ http://jasonylo.com/portfolio/HTML_CSS_projects/responsive/index.html
 }
 ```
 ####Other resources:
-http://en.wikipedia.org/wiki/Responsive_web_design
-http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
-http://www.targetlocal.co.uk/responsive-web-design-resources/
-http://alistapart.com/article/responsive-web-design
+http://en.wikipedia.org/wiki/Responsive_web_design  
+http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design  
+http://www.targetlocal.co.uk/responsive-web-design-resources/  
+http://alistapart.com/article/responsive-web-design  
 
 
 

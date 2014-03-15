@@ -39,19 +39,20 @@ cloned then pull the latest version of master).
 
 ## Thursday
 
-* Katherine Hayden - How can I use `let` and `context` to dry up my tests?
+* Katherine Hayden - [How can I use `let` and `context` to dry up my tests?](./student_files/let_and_context_for_dry_tests.md)
 * Jordan Luyke - What makes a good test?
 * Jason Lo - Responsive Web Design
-* Janet Yi - What are ENV variables?
+* Janet Yi - [What are ENV variables?](https://gist.github.com/krnwonseungee/9536759)
 * Jackie Johnston - [CSS Display Property](https://gist.github.com/jackiejohnston/9522910)
 
 ## Friday
 
-* Germain Boue - What's the difference between ruby's standard library, core library, and gems?
+
+* Germain Boue - [What's the difference between ruby's standard library, core library, and gems?](https://gist.github.com/boue/9540965)
 * Erin Snyder - [What are the 4 rules of simple design?](https://gist.github.com/ErinJoan/9542642#file-simple_design-mdown)
 * Eric Joseph Johnson - How can I inform the user when active record validations fail?
 * Drew Parker - How can I use local git branches to make spiking easier?
-* Christine Dolendo - What makes a good commit?
+* Christine Dolendo - [What makes a good commit?](https://github.com/golden-bears-2014/phase-2-guide/blob/master/lightning-talks/student_files/good_commits.md)
 * Brittan McGinnis - * What are the different ways to use the css position property?
 
 ## Available Talks
