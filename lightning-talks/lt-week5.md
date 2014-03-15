@@ -17,7 +17,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Brittan - jQuery Events
 * NAME - TOPIC
-* NAME - TOPIC
+* Drew - jQuery Effects
 * NAME - TOPIC
 * NAME - TOPIC
 * Eric - JavaScript Form Validation
@@ -54,7 +54,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
 * Johnny - Describe (some) benefits of (Angular/Ember/Backbone)
-* Brittany - jQuery Effects
 * Nic - JavaScript Scope
 * Mason - Coffee Script
 * Hunter - * Active Record : includes and "The N+1 Problem"
@@ -64,7 +63,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Quentin - Testing (shoulda-matchers)
 * Tim - jQuery Selectors
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
-* Matthew - 
+* Matthew -
 * Quentin - Database Migration constraints
 * Johnny- Testing (Jasmine)
 * Jose - Angular Overview
