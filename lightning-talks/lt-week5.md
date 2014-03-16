@@ -51,7 +51,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 * Ryan - Testing (Jasmine)
-* NAME - TOPIC
+* Zohar - jQuery Selectors
 
 
 ## Available Talks
