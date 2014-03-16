@@ -28,7 +28,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
-* NAME - TOPIC
+* Katherine - JavaScript 'this'
 
 ## Wednesday
 
@@ -57,7 +57,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Available Talks
 * STI and Polymorphism.md
-* Irene - JavaScript 'this'
 * Armando - JavaScript Object Literals vs Constructor Function Objects
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
