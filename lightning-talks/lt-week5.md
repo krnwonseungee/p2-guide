@@ -16,10 +16,9 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Monday
 
 * Brittan - jQuery Events
-* NAME - TOPIC
 * Drew - jQuery Effects
-* NAME - TOPIC
-* NAME - TOPIC
+* Germain - Angular Overview
+* Erin - Coffee Script
 * Eric - JavaScript Form Validation
 
 ## Tuesday
@@ -28,7 +27,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
-* NAME - TOPIC
+* Katherine - JavaScript 'this'
 
 ## Wednesday
 
@@ -46,16 +45,22 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 
+## Friday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* Ryan - Testing (Jasmine)
+* NAME - TOPIC
+
 
 ## Available Talks
 * STI and Polymorphism.md
-* Irene - JavaScript 'this'
 * Armando - JavaScript Object Literals vs Constructor Function Objects
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
 * Johnny - Describe (some) benefits of (Angular/Ember/Backbone)
 * Nic - JavaScript Scope
-* Mason - Coffee Script
 * Hunter - * Active Record : includes and "The N+1 Problem"
 * Johnny-* Dynamic Event binding and on
 * Chris - * Partials
@@ -66,7 +71,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Matthew -
 * Quentin - Database Migration constraints
 * Johnny- Testing (Jasmine)
-* Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
 * Stephen - Password hashing with bcrypt gem
 * Ivan - When to use ';' in Javascript?
