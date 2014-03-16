@@ -46,6 +46,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 
+## Friday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* Ryan - Testing (Jasmine)
+* NAME - TOPIC
+
 
 ## Available Talks
 * STI and Polymorphism.md
