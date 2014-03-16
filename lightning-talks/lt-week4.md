@@ -26,7 +26,7 @@ cloned then pull the latest version of master).
 * Ryan Wood - [What is the difference between `GET` and `POST`?](https://gist.github.com/rbn1357/9494786)
 * Nicholas Cu - What is the difference between abstraction and indirection
 * Namrata Honnavar - * What does 'semantic markup' mean?
-* Michael Gleason - Red green refactor
+* Michael Gleason - [Red green refactor](./student_files/red_green_refactor.md)
 
 ## Wednesday
 
