@@ -31,7 +31,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 
-* NAME - TOPIC
+* Lucas - Partials
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
@@ -61,7 +61,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Nic - JavaScript Scope
 * Hunter - * Active Record : includes and "The N+1 Problem"
 * Johnny-* Dynamic Event binding and on
-* Chris - * Partials
 * Darren - JavaScript selectors (and traversal)
 * Quentin - Testing (shoulda-matchers)
 * Tim - jQuery Selectors
