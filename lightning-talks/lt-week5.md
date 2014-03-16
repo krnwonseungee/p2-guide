@@ -16,8 +16,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Monday
 
 * Brittan - jQuery Events
+* Germain - Angular Overview
 * Erin - Coffee Script
-* NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
 * Eric - JavaScript Form Validation
@@ -66,7 +66,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Matthew -
 * Quentin - Database Migration constraints
 * Johnny- Testing (Jasmine)
-* Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
 * Stephen - Password hashing with bcrypt gem
 * Ivan - When to use ';' in Javascript?
