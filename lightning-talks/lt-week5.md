@@ -25,7 +25,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Jason - JavaScript Object Literals vs Constructor Function Objects
 * NAME - TOPIC
-* NAME - TOPIC
+* Melanie - When to use ';' in Javascript?
 * Jordan - Describe (some) benefits of (Angular/Ember/Backbone)
 * Katherine - JavaScript 'this'
 
@@ -69,7 +69,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Johnny- Testing (Jasmine)
 * Mathilde - JavaScript templates (underscore, mustache)
 * Stephen - Password hashing with bcrypt gem
-* Ivan - When to use ';' in Javascript?
 * Henry - jQuery Traversal (http://www.w3schools.com/jquery/jquery_traversing.asp)
 
 
