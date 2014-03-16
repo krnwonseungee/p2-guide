@@ -51,7 +51,7 @@ cloned then pull the latest version of master).
 * Germain Boue - [What's the difference between ruby's standard library, core library, and gems?](https://gist.github.com/boue/9540965)
 * Erin Snyder - [What are the 4 rules of simple design?](https://gist.github.com/ErinJoan/9542642#file-simple_design-mdown)
 * Eric Joseph Johnson - How can I inform the user when active record validations fail?
-* Drew Parker - [How can I use local git branches to make spiking easier?](how_can_i_use_local_git_branches.md)
+* Drew Parker - [How can I use local git branches to make spiking easier?](./student_files/how_can_i_use_local_git_branches.md)
 * Christine Dolendo - [What makes a good commit?](https://github.com/golden-bears-2014/phase-2-guide/blob/master/lightning-talks/student_files/good_commits.md)
 * Brittan McGinnis - * What are the different ways to use the css position property?
 

@@ -104,7 +104,7 @@ Your week team is your go to resource for all questions this week. If you're str
 * Team 1:
   * Brittan McGinnis
   * Christine Dolendo
-  * Drew Parker Eric
+  * Drew Parker
   * Eric Joseph Johnson
 
 * Team 2:
