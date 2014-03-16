@@ -23,7 +23,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 
-* NAME - TOPIC
+* NAME - JavaScript Object Literals vs Constructor Function Objects
 * NAME - TOPIC
 * NAME - TOPIC
 * Jordan - Describe (some) benefits of (Angular/Ember/Backbone)
@@ -56,7 +56,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Available Talks
 * STI and Polymorphism.md
-* Armando - JavaScript Object Literals vs Constructor Function Objects
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
 * Nic - JavaScript Scope
