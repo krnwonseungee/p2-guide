@@ -26,7 +26,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
-* NAME - TOPIC
+* Jordan - Describe (some) benefits of (Angular/Ember/Backbone)
 * Katherine - JavaScript 'this'
 
 ## Wednesday
@@ -59,7 +59,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Armando - JavaScript Object Literals vs Constructor Function Objects
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
-* Johnny - Describe (some) benefits of (Angular/Ember/Backbone)
 * Nic - JavaScript Scope
 * Hunter - * Active Record : includes and "The N+1 Problem"
 * Johnny-* Dynamic Event binding and on
