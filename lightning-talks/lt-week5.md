@@ -15,24 +15,23 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Monday
 
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Brittan - jQuery Events
+* Drew - jQuery Effects
+* Germain - Angular Overview
+* Erin - Coffee Script
+* Eric - JavaScript Form Validation
 
 ## Tuesday
 
+* Jason - JavaScript Object Literals vs Constructor Function Objects
 * NAME - TOPIC
 * NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Jordan - Describe (some) benefits of (Angular/Ember/Backbone)
+* Katherine - JavaScript 'this'
 
 ## Wednesday
 
-* NAME - TOPIC
+* Lucas - Partials
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
@@ -46,29 +45,29 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 
+## Friday
+
+* NAME - TOPIC
+* NAME - TOPIC
+* NAME - TOPIC
+* Ryan - Testing (Jasmine)
+* NAME - TOPIC
+
 
 ## Available Talks
 * STI and Polymorphism.md
-* Irene - JavaScript 'this'
-* Armando - JavaScript Object Literals vs Constructor Function Objects
 * Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
-* Johnny - Describe (some) benefits of (Angular/Ember/Backbone)
-* Brittany - jQuery Effects
 * Nic - JavaScript Scope
-* Harry - JavaScript Form Validation
-* Mason - Coffee Script
 * Hunter - * Active Record : includes and "The N+1 Problem"
 * Johnny-* Dynamic Event binding and on
-* Chris - * Partials
 * Darren - JavaScript selectors (and traversal)
 * Quentin - Testing (shoulda-matchers)
 * Tim - jQuery Selectors
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
-* Matthew - jQuery Events
+* Matthew -
 * Quentin - Database Migration constraints
 * Johnny- Testing (Jasmine)
-* Jose - Angular Overview
 * Mathilde - JavaScript templates (underscore, mustache)
 * Stephen - Password hashing with bcrypt gem
 * Ivan - When to use ';' in Javascript?

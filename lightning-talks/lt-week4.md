@@ -15,6 +15,7 @@ cloned then pull the latest version of master).
    day.
 5. Put your name in front of the talk title.
 6. Submit a pull request!  (and get someone else to merge it)
+7. **Add your talk gist to the student_files folder and add a link to it from your name below.**
 
 
 # Week 1 Lightning Talks
@@ -22,54 +23,41 @@ cloned then pull the latest version of master).
 ## Tuesday
 
 * Zohar Liran - What is rack anyway?
-* Ryan Wood - What is the difference between `GET` and `POST`?
-* Nicholas Cu - TOPIC
+* Ryan Wood - [What is the difference between `GET` and `POST`?](https://gist.github.com/rbn1357/9494786)
+* Nicholas Cu - What is the difference between abstraction and indirection
 * Namrata Honnavar - * What does 'semantic markup' mean?
 * Michael Gleason - Red green refactor
 
 ## Wednesday
 
-* Melanie Archer - What makes a good Pull request?
-* Matt Bechtel - What is the 'params' hash?
-* Mason O'Neal - TOPIC
-* Lyndsey Williams - What is the difference between `GET` and `POST`?
-* Lucas Mathis - TOPIC
+* Melanie Archer - [What makes a good Pull request?](./student_files/what-makes-good-pull-request.md)
+* Matt Bechtel - [What is the 'params' hash?](./student_files/what_is_the_params_hash.md)
+* Mason O'Neal - Sinatra Partial Views
+* Lyndsey Williams - What is the request response cycle?
+* Lucas Mathis - What is a code kata?
+
 
 ## Thursday
 
-* Katherine Hayden - How can I use `let` and `context` to dry up my tests?
-* Jordan Luyke - TOPIC
+* Katherine Hayden - [How can I use `let` and `context` to dry up my tests?](./student_files/let_and_context_for_dry_tests.md)
+* Jordan Luyke - What makes a good test?
 * Jason Lo - Responsive Web Design
-* Janet Yi - TOPIC
-* Jackie Johnston - CSS Display Property
+* Janet Yi - [What are ENV variables?](https://gist.github.com/krnwonseungee/9536759)
+* Jackie Johnston - [CSS Display Property](https://gist.github.com/jackiejohnston/9522910)
 
 ## Friday
 
-* Germain Boue - What's the difference between ruby's standard library, core library, and gems?
-* Erin Snyder - What are the 4 rules of simple design?
-* Eric Joseph Johnson - TOPIC
-* Drew Parker Eric - TOPIC
-* Christine Dolendo - What makes a good commit?
-* Brittan McGinnis - TOPIC
+
+* Germain Boue - [What's the difference between ruby's standard library, core library, and gems?](https://gist.github.com/boue/9540965)
+* Erin Snyder - [What are the 4 rules of simple design?](https://gist.github.com/ErinJoan/9542642#file-simple_design-mdown)
+* Eric Joseph Johnson - How can I inform the user when active record validations fail?
+* Drew Parker - [How can I use local git branches to make spiking easier?](./student_files/how_can_i_use_local_git_branches.md)
+* Christine Dolendo - [What makes a good commit?](https://github.com/golden-bears-2014/phase-2-guide/blob/master/lightning-talks/student_files/good_commits.md)
+* Brittan McGinnis - * What are the different ways to use the css position property?
 
 ## Available Talks
-* How can I inform the user when active record validations fail? http://edgeguides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
-* Responsive Web Design 
-
-* What are `ENV` variables?
-* How can I use local git branches to make spiking easier?
-* What is the request response cycle?
 * What is the arrange act assert pattern?
-* What makes a good test?
-* Database indexing
-* What is the difference between abstraction and indirection?
-* Sinatra Partial Views
-* What are the different ways to use the css position property?
-* What is a code kata?
-* What is the 'params' hash?
-* How can I use `let` and `context` to dry up my tests?
-* How can I use `$LOAD_PATH` to avoid using `require_relative`?
-* What's the difference between ruby's standard library, core library, and gems? - Germain Boue
 * How can I use the sessions hash in Sinatra?
+* How can I use `$LOAD_PATH` to avoid using `require_relative`?
 * When do I use test doubles?
 

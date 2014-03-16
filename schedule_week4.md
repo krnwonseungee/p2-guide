@@ -23,7 +23,7 @@
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice: four-minute meditation
-- 9:15 Lecture: Testing / [Sinatra Skeleton File Presentations](skeleton.md).
+- 9:15 Lecture: [Testing](lectures/testing.md) / [Sinatra Skeleton File Presentations](skeleton.md).
 - 9:50 - 12:00 Pair on challenges
  - Release 3 (testing) on [Deaf Sinatra 1](../../../deaf-sinatra-1-synchronous-forms-challenge)
   - [Craigslist, Jr](../../../craigslist-jr-challenge)
@@ -37,11 +37,11 @@
 
 - 8:45 - 9:00 Meet with accountability buddies
 - 9:00 EE Practice
-- 9:15 Lecture:
+- 9:15 Lecture: [REST in 10 minutes and Deploying to Heroku](lectures/REST-and-heroku.md)
 - 9:50 - 12:30 Pair on challenges (**Controller and unit tests where
   appropriate are now expected, even if the challenge does not explicitly mention doing so**)
 
-- 2:00 - 2:50 - Lecture:  / Lightning Talks
+- 2:00 - 2:50 - Lecture: User Authentication and Sessions  / Lightning Talks
 - 2:50 - 5:50 Pair on Challenges
 * [Heroku 1: Getting Started](../../../heroku-1-getting-started-challenge)
 * [Heroku 2: Apps Ahoy](../../../heroku-2-apps-ahoy-challenge)
@@ -63,7 +63,7 @@
 - 9:15 Lecture:
 - 9:50 - 12:30 Pair on challenges.
 
-* [Layout Drill: Left-hand Navigation](../../../layout-drill-left-hand-navigation-challenge)
+ * [Layout Drill: Left-hand Navigation](../../../layout-drill-left-hand-navigation-challenge)
  * [Layout Drill: Right-hand Navigation](../../../layout-drill-right-hand-navigation-challenge)
  * [Layout Drill: Top Navigation](../../../layout-drill-top-navigation-challenge)
  * [Layout Drill: Fixed Navigation](../../../layout-drill-fixed-navigation-challenge)
@@ -104,7 +104,7 @@ Your week team is your go to resource for all questions this week. If you're str
 * Team 1:
   * Brittan McGinnis
   * Christine Dolendo
-  * Drew Parker Eric
+  * Drew Parker
   * Eric Joseph Johnson
 
 * Team 2:
