@@ -49,14 +49,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Michael - jQuery Selectors
 * Christine - Testing (shoulda-matchers)
-* NAME - TOPIC
+* Nic - Javascript Prototypes
 * Ryan - Testing (Jasmine)
 * Zohar - jQuery Selectors
 
 
 ## Available Talks
 * STI and Polymorphism.md
-* Chermaine -  JavaScript Prototype
 * Quentin - Helpers methods
 * Nic - JavaScript Scope
 * Johnny-* Dynamic Event binding and on
