@@ -32,43 +32,33 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 
 * Lucas - Partials
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Lyndsey - TOPIC
+* Janet - TOPIC
+* Matt - TOPIC
+* Mason - TOPIC
 
 ## Thursday
 
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-
-## Friday
-
+* Namrata - TOPIC
+* Nic - TOPIC
 * Michael - jQuery Selectors
 * Christine - Testing (shoulda-matchers)
-* NAME - TOPIC
 * Ryan - Testing (Jasmine)
 * Zohar - jQuery Selectors
 
 
 ## Available Talks
 * STI and Polymorphism.md
-* Chermaine -  JavaScript Prototype
-* Quentin - Helpers methods
-* Nic - JavaScript Scope
-* Johnny-* Dynamic Event binding and on
-* Darren - JavaScript selectors (and traversal)
-* Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
-* Matthew -
-* Quentin - Database Migration constraints
-* Johnny- Testing (Jasmine)
-* Mathilde - JavaScript templates (underscore, mustache)
-* Stephen - Password hashing with bcrypt gem
-* Henry - jQuery Traversal (http://www.w3schools.com/jquery/jquery_traversing.asp)
-
+* JavaScript Prototype
+* Helper methods
+* JavaScript Scope
+* Dynamic Event binding and on
+* JavaScript selectors (and traversal)
+* Active Record : Single Table Inheritance / Polymorphism
+* Database Migration constraints
+* Testing (Jasmine)
+* JavaScript templates (underscore, mustache)
+* jQuery Traversal
 
 
 
