@@ -16,6 +16,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Monday
 
 * Brittan - jQuery Events
+* Christine - Testing (shoulda-matchers)
 * Drew - jQuery Effects
 * Germain - Angular Overview
 * Erin - Coffee Script
@@ -48,7 +49,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Friday
 
 * Michael - jQuery Selectors
-* Christine - Testing (shoulda-matchers)
+* 
 * Nic - Javascript Prototypes
 * Ryan - Testing (Jasmine)
 * Zohar - jQuery Selectors
