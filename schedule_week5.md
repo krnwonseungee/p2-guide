@@ -97,3 +97,40 @@ challenge you have created.
  * [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
  * [Flickr, Jr.](../../../flickr-jr-challenge)
  * [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
+
+
+
+####Teams
+Your week team is your go to resource for all questions this week. If you're struggling - go to your team first.  If your winning - share it with your team.  All pairing should happen within the team.  You will work with this team on your weekend project as well.
+
+* Team 1:
+  * Brittan McGinnis
+  * Erin Snyder
+  * Zohar Liran
+  * Jordan Luyke
+
+* Team 2:
+   * Christine Dolendo
+   * Germain Boue
+   * Michael Gleason
+   * Nicholas Cu
+   * Janet Yi
+
+* Team 3:
+  * Jackie Johnston
+  * Katherine Hayden
+  * Namrata Honnavar
+  * Melanie Archer
+
+* Team 4:
+  * Eric Joseph Johnson
+  * Mason O'Neal
+  * Lucas Mathis
+  * Drew Parker
+
+* Team 5:
+  * Jason Lo
+  * Lyndsey Williams
+  * Matt Bechtel
+  * Ryan Wood
+
