@@ -16,7 +16,7 @@
   * [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
   * [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
   * [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
-* 2:00 - LECTURE:
+* 2:00 - LECTURE: [OO-JS](lectures/oo-js/README.md)
 * 3:00-6:00 Pair on Challenges
   * **"Rule"**:  Henceforth you cannot use jQuery without a JS Model.
   * **So Required it Hurts** [Orange Trees](../../../orange-jasmine-challenge)
