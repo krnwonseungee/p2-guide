@@ -60,7 +60,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Quentin - Helpers methods
 * Nic - JavaScript Scope
 * Johnny-* Dynamic Event binding and on
-* Darren - JavaScript selectors (and traversal)
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * Matthew -
 * Quentin - Database Migration constraints
