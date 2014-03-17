@@ -48,7 +48,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Friday
 
 * Michael - jQuery Selectors
-* NAME - TOPIC
+* Christine - Testing (shoulda-matchers)
 * NAME - TOPIC
 * Ryan - Testing (Jasmine)
 * Zohar - jQuery Selectors
@@ -62,7 +62,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Hunter - * Active Record : includes and "The N+1 Problem"
 * Johnny-* Dynamic Event binding and on
 * Darren - JavaScript selectors (and traversal)
-* Quentin - Testing (shoulda-matchers)
 * Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
 * Matthew -
 * Quentin - Database Migration constraints
