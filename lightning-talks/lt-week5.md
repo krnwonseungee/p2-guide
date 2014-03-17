@@ -19,7 +19,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Christine - Testing (shoulda-matchers)
 * Drew - jQuery Effects
 * Germain - Angular Overview
-* Erin - Coffee Script
+* Erin - [Coffee Script](https://github.com/golden-bears-2014/phase-2-guide.git)
 * Eric - JavaScript Form Validation
 
 ## Tuesday
