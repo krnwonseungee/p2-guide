@@ -33,7 +33,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Lucas - Partials
 * NAME - TOPIC
-* NAME - TOPIC
+* Namrata - JavaScript selectors (and traversal)
 * NAME - TOPIC
 * NAME - TOPIC
 
