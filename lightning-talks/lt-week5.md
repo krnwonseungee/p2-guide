@@ -25,7 +25,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Tuesday
 
 * Jason - JavaScript Object Literals vs Constructor Function Objects
-* Jackie - Active Record : includes and "The N+1 Problem"
+* Jackie - [Active Record : includes and "The N+1 Problem"](https://gist.github.com/jackiejohnston/47be27d5dcb2457d1601)
 * Melanie - When to use ';' in Javascript?
 * Jordan - Describe (some) benefits of (Angular/Ember/Backbone)
 * Katherine - JavaScript 'this'
