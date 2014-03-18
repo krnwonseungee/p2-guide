@@ -7,10 +7,12 @@ For a given effect, you can set the duration for the animation.  Default value i
 
 Animations can also call other animations so that you can chain together different animations.
 
+Below is an example of the toggle effect being triggered when the click event occurs.  If you wanted to chain together another animation, you would add another method call on the 3rd line below.
+
 ```java
 $("#clickMe").click(function()) {
   $("#book").toggle("slow",function() {
-});
+})};
 ```
 
 ## Example
