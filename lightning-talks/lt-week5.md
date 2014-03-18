@@ -36,8 +36,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Lyndsey - Database Migration constraints
 * Janet - JavaScript Scope
 * Matt - TOPIC
-* Mason - TOPIC
-
+* Mason - JavaScript templates (underscore, mustache)  
 
 
 ## Thursday
@@ -55,8 +54,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Helper methods
 * Dynamic Event binding and on
 * JavaScript selectors (and traversal)
-* Active Record : Single Table Inheritance / Polymorphism
-* JavaScript templates (underscore, mustache)
+* Active Record : Single Table Inheritance / Polymorphism  
 * jQuery Traversal
 
 
