@@ -22,9 +22,9 @@
   * **So Required it Hurts** [Orange Trees](../../../orange-jasmine-challenge)
 
 
-#### Tuesday
+#### Tuesday Solo Optional Day
 
-[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
 
 * 8:45 - 9:00 Meet with accountability buddies
@@ -43,6 +43,9 @@
 
 #### Wednesday
 
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+
+
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture: [AJAX]()
@@ -55,8 +58,7 @@
 
 
 #### Thursday  - Solo Optional Day
-
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00 Phase 3 Pitches
