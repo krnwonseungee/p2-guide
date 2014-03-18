@@ -16,15 +16,15 @@
   * [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
   * [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
   * [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
-* 2:00 - LECTURE:
+* 2:00 - LECTURE: [OO-JS](lectures/oo-js/README.md)
 * 3:00-6:00 Pair on Challenges
   * **"Rule"**:  Henceforth you cannot use jQuery without a JS Model.
   * **So Required it Hurts** [Orange Trees](../../../orange-jasmine-challenge)
 
 
-#### Tuesday
+#### Tuesday Solo Optional Day
 
-[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UU9SNjlTQXNyNlRkfGRlZmF1bHR8ODNkZjllYzVmZGNmZWQ4MDY3ZWFjMWM1MWM0Y2U2Njc)
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
 
 * 8:45 - 9:00 Meet with accountability buddies
@@ -43,6 +43,9 @@
 
 #### Wednesday
 
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+
+
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
 * 9:10 Daily Overview Lecture: [AJAX]()
@@ -55,8 +58,7 @@
 
 
 #### Thursday  - Solo Optional Day
-
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+[Book Your Appointment with A Teacher](https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00 Phase 3 Pitches
@@ -97,3 +99,40 @@ challenge you have created.
  * [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
  * [Flickr, Jr.](../../../flickr-jr-challenge)
  * [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
+
+
+
+####Teams
+Your week team is your go to resource for all questions this week. If you're struggling - go to your team first.  If your winning - share it with your team.  All pairing should happen within the team.  You will work with this team on your weekend project as well.
+
+* Team 1:
+  * Brittan McGinnis
+  * Erin Snyder
+  * Zohar Liran
+  * Jordan Luyke
+
+* Team 2:
+   * Christine Dolendo
+   * Germain Boue
+   * Michael Gleason
+   * Nicholas Cu
+   * Janet Yi
+
+* Team 3:
+  * Jackie Johnston
+  * Katherine Hayden
+  * Namrata Honnavar
+  * Melanie Archer
+
+* Team 4:
+  * Eric Joseph Johnson
+  * Mason O'Neal
+  * Lucas Mathis
+  * Drew Parker
+
+* Team 5:
+  * Jason Lo
+  * Lyndsey Williams
+  * Matt Bechtel
+  * Ryan Wood
+

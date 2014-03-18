@@ -16,15 +16,16 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Monday
 
 * Brittan - jQuery Events
-* Drew - jQuery Effects
+* Christine - Testing (shoulda-matchers)
+* Drew - [jQuery Effects](./student_files/jquery_effects.md)
 * Germain - Angular Overview
-* Erin - Coffee Script
+* Erin - [Coffee Script](https://github.com/golden-bears-2014/phase-2-guide.git)
 * Eric - JavaScript Form Validation
 
 ## Tuesday
 
 * Jason - JavaScript Object Literals vs Constructor Function Objects
-* NAME - TOPIC
+* Jackie - [Active Record : includes and "The N+1 Problem"](https://gist.github.com/jackiejohnston/47be27d5dcb2457d1601)
 * Melanie - When to use ';' in Javascript?
 * Jordan - Describe (some) benefits of (Angular/Ember/Backbone)
 * Katherine - JavaScript 'this'
@@ -32,45 +33,29 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 
 * Lucas - Partials
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
+* Lyndsey - Database Migration constraints
+* Janet - JavaScript Scope
+* Matt - TOPIC
+* Mason - JavaScript templates (underscore, mustache)  
+
 
 ## Thursday
 
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-* NAME - TOPIC
-
-## Friday
-
+* Namrata - JavaScript selectors (and traversal)
 * Michael - jQuery Selectors
-* NAME - TOPIC
-* NAME - TOPIC
+* Christine - Testing (shoulda-matchers)
+* Nic - Javascript Prototypes
 * Ryan - Testing (Jasmine)
 * Zohar - jQuery Selectors
 
 
 ## Available Talks
 * STI and Polymorphism.md
-* Chermaine -  JavaScript Prototype
-* Quentin - Helpers methods
-* Nic - JavaScript Scope
-* Hunter - * Active Record : includes and "The N+1 Problem"
-* Johnny-* Dynamic Event binding and on
-* Darren - JavaScript selectors (and traversal)
-* Quentin - Testing (shoulda-matchers)
-* Jamie - [Active Record : Single Table Inheritance / Polymorphism](STI_and_Polymorphism.md)
-* Matthew -
-* Quentin - Database Migration constraints
-* Johnny- Testing (Jasmine)
-* Mathilde - JavaScript templates (underscore, mustache)
-* Stephen - Password hashing with bcrypt gem
-* Henry - jQuery Traversal (http://www.w3schools.com/jquery/jquery_traversing.asp)
-
+* Helper methods
+* Dynamic Event binding and on
+* JavaScript selectors (and traversal)
+* Active Record : Single Table Inheritance / Polymorphism  
+* jQuery Traversal
 
 
 
