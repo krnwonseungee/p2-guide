@@ -8,10 +8,9 @@ For a given effect, you can set the duration for the animation.  Default value i
 Animations can also call other animations so that you can chain together different animations.
 
 ```java
-  $("#clickMe").click(function()) {
-    $("#book").toggle("slow",function() {
-    });
-}
+$("#clickMe").click(function()) {
+  $("#book").toggle("slow",function() {
+});
 ```
 
 ## Example
