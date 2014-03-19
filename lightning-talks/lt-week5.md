@@ -32,11 +32,11 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 
-* Lucas - Partials
+* Lucas - jQuery Traversal
 * Lyndsey - Database Migration constraints
 * Janet - JavaScript Scope
 * Matt - TOPIC
-* Mason - JavaScript templates (underscore, mustache)  
+* Mason - JavaScript templates (underscore, mustache)
 
 
 ## Thursday
@@ -54,8 +54,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Helper methods
 * Dynamic Event binding and on
 * JavaScript selectors (and traversal)
-* Active Record : Single Table Inheritance / Polymorphism  
-* jQuery Traversal
+* Active Record : Single Table Inheritance / Polymorphism
+* Partials
 
 
 
