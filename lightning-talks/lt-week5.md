@@ -35,7 +35,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Lucas - Partials
 * Lyndsey - Database Migration constraints
 * Janet - JavaScript Scope
-* Matt - TOPIC
+* Matt - [STI and Polymorphism.md](/student_files/STI_Polymorphism.md)
 * Mason - JavaScript templates (underscore, mustache)  
 
 
@@ -50,7 +50,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Available Talks
-* STI and Polymorphism.md
 * Helper methods
 * Dynamic Event binding and on
 * JavaScript selectors (and traversal)
