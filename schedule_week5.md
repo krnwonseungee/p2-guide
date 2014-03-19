@@ -48,7 +48,7 @@
 
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture: [AJAX CODE](lectures/ajax) : [AJAX Cheat Sheet](lectures/ajax_cheat_sheet.md)
+* 9:10 Daily Overview Lecture: [AJAX CODE](lectures/ajax_code) : [AJAX Cheat Sheet](lectures/ajax_cheat_sheet.md)
 * 9:30 - 12:30 Pair on challenges.
  * [Deaf Sinatra 2: Asynchronous Forms](../../../deaf-sinatra-2-asynchronous-forms-challenge)
  *  [Lucky Ajax](../../../lucky-ajax-challenge)
