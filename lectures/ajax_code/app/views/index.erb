@@ -1,0 +1,19 @@
+<div class="container">
+  <h1> Welcome to my trips page </h1>
+
+  <div class="addtrip">
+    <%= erb :trip_new %>
+  </div>
+
+  <div class="trips">
+    Here are your trips!
+    <% if @trips %>
+    <%= erb :trips, locals => @trips %>
+    <% end %>
+  </div>
+  <div class="cool_trips">
+    <a id="cool-trip" href="/cool_trips" data-type = "get" >Get a cool trip</a>
+    <div id="#show_trip"></div>
+  </div>
+
+</div>
