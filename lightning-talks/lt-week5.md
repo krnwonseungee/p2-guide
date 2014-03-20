@@ -26,17 +26,17 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Jason - JavaScript Object Literals vs Constructor Function Objects
 * Jackie - [Active Record : includes and "The N+1 Problem"](https://gist.github.com/jackiejohnston/47be27d5dcb2457d1601)
-* Melanie - [When to use ';' in Javascript?](/student_files/when-to-use-semicolons-in-javascript.md)
+* Melanie - [When to use ';' in Javascript?](./student_files/when-to-use-semicolons-in-javascript.md)
 * Jordan - Describe (some) benefits of (Angular/Ember/Backbone)
 * Katherine - JavaScript 'this'
 
 ## Wednesday
 
-* Lucas - Partials
+* Lucas - jQuery Traversal
 * Lyndsey - Database Migration constraints
 * Janet - JavaScript Scope
 * Matt - [STI and Polymorphism.md](/student_files/STI_Polymorphism.md)
-* Mason - JavaScript templates (underscore, mustache)  
+* Mason - JavaScript templates (underscore, mustache)
 
 
 ## Thursday
@@ -53,8 +53,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Helper methods
 * Dynamic Event binding and on
 * JavaScript selectors (and traversal)
-* Active Record : Single Table Inheritance / Polymorphism  
-* jQuery Traversal
+* Active Record : Single Table Inheritance / Polymorphism
+* Partials
 
 
 

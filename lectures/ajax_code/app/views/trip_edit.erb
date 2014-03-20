@@ -1,0 +1,5 @@
+<form class="trip" action=<%= "/trips/#{@trip.id}" %> method="post">
+  <input type="text" name="trip[location]" value= <%= "'#{@trip.location}'" %> >
+  <input type="hidden" name="_method" value="put">
+  <input type="submit" value="Edit This Trip">
+</form>
