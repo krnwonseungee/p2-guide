@@ -12,8 +12,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 # Week 6 Lightning Talks
 
-
-
 ## Monday
 
 * NAME - TOPIC
@@ -65,8 +63,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Strategy Design Pattern
   * Functional JavaScript (as opposed to OO)
   * Hoisting in JavaScript
-  - Jose: Sass
+  * Sass
   * Factory Design Pattern
   * Template Method
   * Git Stash
+  * Use XXXX API - available for multiple people as long as it's a different API
+    * Twillio
+    * Facebook
+    * GoogleMaps
+
 
