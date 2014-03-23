@@ -41,7 +41,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Erin - Sass
 * NAME - TOPIC
-* NAME - TOPIC
+* Christine - falsey in JavaScript
 * NAME - TOPIC
 * NAME - TOPIC
 
@@ -55,7 +55,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * D3
   * Closures
   * Singleton Design Pattern
-  * falsey in JavaScript
   * Testing with API's
   * Eval in JavaScript
   * Prototypical Inheritance without new
