@@ -42,13 +42,12 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Erin - Sass
 * Jackie - Git Stash
 * Christine - falsey in JavaScript
-* NAME - TOPIC
+* Janet - Functional JavaScript (as opposed to OO)
 * NAME - TOPIC
 
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
-  *  Functional JavaScript (as opposed to OO)
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
   * Observer Design Pattern
