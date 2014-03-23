@@ -23,7 +23,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 
-* NAME - TOPIC
+* Melanie - Factory Design Pattern
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
