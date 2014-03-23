@@ -40,7 +40,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Thursday
 
 * Erin - Sass
-* NAME - TOPIC
+* Jackie - Git Stash
 * Christine - falsey in JavaScript
 * NAME - TOPIC
 * NAME - TOPIC
@@ -64,7 +64,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Hoisting in JavaScript
   * Factory Design Pattern
   * Template Method
-  * Git Stash
   * Use XXXX API - available for multiple people as long as it's a different API
     * Twillio
     * Facebook
