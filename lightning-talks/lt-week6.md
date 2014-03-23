@@ -39,7 +39,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 
-* NAME - TOPIC
+* Erin - Sass
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
@@ -63,7 +63,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Strategy Design Pattern
   * Functional JavaScript (as opposed to OO)
   * Hoisting in JavaScript
-  * Sass
   * Factory Design Pattern
   * Template Method
   * Git Stash
