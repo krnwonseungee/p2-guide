@@ -141,6 +141,7 @@
 - [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 - [Good Habits](http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?
 - [exercism.io JavaScript](exercism.io/setup/javascript)
+- [JavaScript Prototype](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 
 #### Jasmine
 
@@ -177,3 +178,6 @@
 
 ### Books
 - [Principles of Object Oriented Programming in Javascript](http://www.nostarch.com/releases/OOJS_PR.html)
+
+### Katas
+- [Code Wars](http://www.codewars.com)
