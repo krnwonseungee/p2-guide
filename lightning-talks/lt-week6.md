@@ -27,7 +27,8 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Matt - Strategy Design Pattern
 * Katherine - JavaScript Callbacks (again)
 * Jordan - Singleton Design Pattern
-* NAME - TOPIC
+* Lucas - Twilio API
+
 
 ## Wednesday
 
@@ -57,7 +58,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Adapter Design Pattern
   * Template Method
   * Use XXXX API - available for multiple people as long as it's a different API
-    * Twillio
     * Facebook
 
 
