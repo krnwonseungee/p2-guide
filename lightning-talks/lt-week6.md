@@ -16,7 +16,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Jason - Hoisting in Javascript
 * NAME - TOPIC
-* NAME - TOPIC
+* Britt - Prototypical Inheritance without new
 * NAME - TOPIC
 * NAME - TOPIC
 * Namrata - Template Method
@@ -51,7 +51,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Available Talks
   *  Exceptions and Errors in Sinatra  
   * Testing with API's  
-  * Prototypical Inheritance without new
+  * 
   * Adapter Design Pattern
   * Use XXXX API - available for multiple people as long as it's a different API
     * Facebook
