@@ -34,7 +34,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
-* NAME - TOPIC
+* Germain - Prototypical Inheritance with new
 * Michael - Use GoogleMaps API
 
 ## Thursday
@@ -49,7 +49,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Available Talks
   *  Exceptions and Errors in Sinatra
   *  JavaScript Callbacks (again)
-  *  Prototypical Inheritance with new
   * Observer Design Pattern
 
   * Closures
