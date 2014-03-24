@@ -14,7 +14,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Monday
 
-* NAME - TOPIC
+* Jason - Hoisting in Javascript
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
@@ -59,8 +59,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Prototypical Inheritance without new
   * Adapter Design Pattern
   * Strategy Design Pattern
-  * Functional JavaScript (as opposed to OO)
-  * Hoisting in JavaScript
   * Factory Design Pattern
   * Template Method
   * Use XXXX API - available for multiple people as long as it's a different API
