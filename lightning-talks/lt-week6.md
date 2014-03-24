@@ -35,7 +35,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
-* NAME - TOPIC
+* Michael - Use GoogleMaps API
 
 ## Thursday
 
@@ -51,7 +51,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
   * Observer Design Pattern
-  
+
   * Closures
   * Singleton Design Pattern
   * Testing with API's
@@ -63,6 +63,5 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Use XXXX API - available for multiple people as long as it's a different API
     * Twillio
     * Facebook
-    * GoogleMaps
 
 
