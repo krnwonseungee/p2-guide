@@ -24,7 +24,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Tuesday
 
 * Melanie - Factory Design Pattern
-* NAME - TOPIC
+* Matt - Strategy Design Pattern
 * NAME - TOPIC
 * NAME - TOPIC
 * NAME - TOPIC
@@ -58,7 +58,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Eval in JavaScript
   * Prototypical Inheritance without new
   * Adapter Design Pattern
-  * Strategy Design Pattern
   * Factory Design Pattern
   * Template Method
   * Use XXXX API - available for multiple people as long as it's a different API
