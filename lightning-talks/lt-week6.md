@@ -25,7 +25,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Melanie - Factory Design Pattern
 * Matt - Strategy Design Pattern
-* NAME - TOPIC
+* Katherine - JavaScript Callbacks (again)
 * NAME - TOPIC
 * NAME - TOPIC
 
@@ -48,7 +48,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra
-  *  JavaScript Callbacks (again)
   * Observer Design Pattern
 
   * Closures
