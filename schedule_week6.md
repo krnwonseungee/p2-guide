@@ -9,7 +9,7 @@
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Present group projects.
-* 9:30 Daily Overview Lecture: API's and Exception Handling
+* 9:30 Daily Overview Lecture: [API's and Exception Handling](lectures/API)
 * 9:30-12:30 Pair on challenges
  * [Recent Tweets 1](../../../recent-tweets-1-challenge)
  * [Recent Tweets 2](../../../recent-tweets-2-challenge)
@@ -41,7 +41,9 @@ scheduled for an interview with an instructor*
  * [Tweet Later](../../../tweet-later-challenge)
  * [Faker-Lite](../../../faker-lite-challenge)
  * STRETCH [Oh My Auth! (Google)](../../../oh-my-auth-google-challenge)
-* 2:00 LECTURE: Background Jobs (Sidekiq) / Lightning Talks
+* 2:00 Lightning Talk / LECTURE: Guest Lecture - Facade Pattern and API's
+
+* 5:00 LECTURE: Background Jobs (Sidekiq)
 
 #### Thursday  - Solo Optional Day
 
