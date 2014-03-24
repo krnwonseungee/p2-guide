@@ -40,6 +40,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Thursday
 
+* Nic -  Closures  
 * Erin - Sass
 * Jackie - Git Stash
 * Christine - falsey in JavaScript
@@ -49,7 +50,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Available Talks
   *  Exceptions and Errors in Sinatra  
-  * Closures  
   * Testing with API's  
   * Prototypical Inheritance without new
   * Adapter Design Pattern
