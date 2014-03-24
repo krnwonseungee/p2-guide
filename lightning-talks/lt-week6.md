@@ -33,7 +33,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * NAME - TOPIC
 * NAME - TOPIC
-* NAME - TOPIC
+* Drew - Factory Design Pattern
 * Germain - Prototypical Inheritance with new
 * Michael - Use GoogleMaps API
 
@@ -57,7 +57,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   * Eval in JavaScript
   * Prototypical Inheritance without new
   * Adapter Design Pattern
-  * Factory Design Pattern
   * Template Method
   * Use XXXX API - available for multiple people as long as it's a different API
     * Twillio
