@@ -44,7 +44,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Namrata - JavaScript selectors (and traversal)
 * Michael - jQuery Selectors
 * Christine - Testing (shoulda-matchers)
-* Nic - Javascript Prototypes
+* Nic - [JavaScript Prototype](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 * Ryan - Testing (Jasmine)
 * Zohar - jQuery Selectors
 
