@@ -43,7 +43,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Jackie - Git Stash
 * Christine - falsey in JavaScript
 * Janet - Functional JavaScript (as opposed to OO)
-* NAME - TOPIC
+* Ryan - D3
 
 
 ## Available Talks
@@ -51,7 +51,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
   *  JavaScript Callbacks (again)
   *  Prototypical Inheritance with new
   * Observer Design Pattern
-  * D3
+  
   * Closures
   * Singleton Design Pattern
   * Testing with API's
