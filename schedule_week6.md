@@ -60,3 +60,38 @@ scheduled for an interview with an instructor*
 * 9:30 - 6:00 Team Project Day :
   * Refactor [Survey Gorilla Refactor]() team project in new teams.
 * 5:00 Present Refactors.
+
+* Team 1:
+  * Jordan
+  * Lucas
+  * Germain
+  * Lyndsey
+  * Erin
+
+* Team 2:
+  * Brittan
+  * Michael
+  * Ryan
+  * Janet
+
+* Team 3:
+  * Christine
+  * Zohar
+  * Eric
+  * Melanie
+
+* Team 4:
+  * Nicolas
+  * Katherine
+  * Mason
+  * Matt
+
+* Team 5:
+  * Namrata
+  * Jackie
+  * Jason
+  * Drew
+
+
+
+
