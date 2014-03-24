@@ -32,7 +32,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 
-* NAME - TOPIC
+* Mason - Observer Design Pattern  
 * Zohar - Eval in JavaScript
 * Drew - Factory Design Pattern
 * Germain - Prototypical Inheritance with new
@@ -48,12 +48,9 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Available Talks
-  *  Exceptions and Errors in Sinatra
-  * Observer Design Pattern
-
-  * Closures
-  * Testing with API's
-  * 
+  *  Exceptions and Errors in Sinatra  
+  * Closures  
+  * Testing with API's  
   * Prototypical Inheritance without new
   * Adapter Design Pattern
   * Template Method
