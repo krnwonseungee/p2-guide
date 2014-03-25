@@ -35,7 +35,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Mason - Observer Design Pattern
 * Zohar - Eval in JavaScript
-* Drew - Factory Design Pattern
+* Drew - Adapter Design Pattern
 * Germain - Prototypical Inheritance with new
 * Michael - Use GoogleMaps API
 * Namrata - Template Method
@@ -53,7 +53,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Available Talks
   * Prototypical Inheritance without new
-  * Adapter Design Pattern
   * Use XXXX API - available for multiple people as long as it's a different API
     * Facebook
   * JavaScript Callbacks (again)
