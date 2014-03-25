@@ -19,6 +19,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Britt - Prototypical Inheritance without new
 * NAME - TOPIC
 * NAME - TOPIC
+* Lyndsey -Testing with API's
 
 
 ## Tuesday
