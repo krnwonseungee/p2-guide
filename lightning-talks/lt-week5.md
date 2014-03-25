@@ -32,11 +32,11 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 
-* Lucas - Partials
+* Lucas - jQuery Traversal
 * Lyndsey - Database Migration constraints
 * Janet - JavaScript Scope
-* Matt - TOPIC
-* Mason - JavaScript templates (underscore, mustache)  
+* Matt - [STI and Polymorphism.md](/student_files/STI_Polymorphism.md)
+* Mason - JavaScript templates (underscore, mustache)
 
 
 ## Thursday
@@ -44,18 +44,17 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Namrata - JavaScript selectors (and traversal)
 * Michael - jQuery Selectors
 * Christine - Testing (shoulda-matchers)
-* Nic - Javascript Prototypes
+* Nic - [JavaScript Prototype](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 * Ryan - Testing (Jasmine)
 * Zohar - jQuery Selectors
 
 
 ## Available Talks
-* STI and Polymorphism.md
 * Helper methods
 * Dynamic Event binding and on
 * JavaScript selectors (and traversal)
-* Active Record : Single Table Inheritance / Polymorphism  
-* jQuery Traversal
+* Active Record : Single Table Inheritance / Polymorphism
+* Partials
 
 
 

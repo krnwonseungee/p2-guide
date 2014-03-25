@@ -1,0 +1,8 @@
+<ul>
+  <% @trips.each do |trip| %>
+  <li>
+    <% @trip=trip %> 
+    <%= erb :trip_edit, locals => @trip %> <%= erb :trip_delete, locals => @trip %>
+    </li>
+  <% end %>
+</ul>
