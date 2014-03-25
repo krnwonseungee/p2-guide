@@ -1,7 +1,7 @@
 #Factory Design Pattern
 
 ##What:
-A factory is an object that can create other object.
+A factory is an object that can create other objects.
 
 ##How:
 A Factory has three parts:
