@@ -19,7 +19,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Britt - Prototypical Inheritance without new
 * NAME - TOPIC
 * NAME - TOPIC
-* Namrata - Template Method
+
 
 ## Tuesday
 
@@ -37,7 +37,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Drew - Factory Design Pattern
 * Germain - Prototypical Inheritance with new
 * Michael - Use GoogleMaps API
-
+* Namrata - Template Method
 ## Thursday
 
 * Nic -  Closures  
