@@ -24,7 +24,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Tuesday
 
-* Melanie - Factory Design Pattern
+* Melanie - [Factory Design Pattern](./student_files/factory_design_pattern.md)
 * Matt - Strategy Design Pattern
 * Katherine - JavaScript Callbacks (again)
 * Jordan - Singleton Design Pattern
