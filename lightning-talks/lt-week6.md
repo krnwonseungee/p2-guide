@@ -47,19 +47,13 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Christine - falsey in JavaScript
 * Janet - Functional JavaScript (as opposed to OO)
 * Ryan - D3
+* Eric - Exceptions and Errors in Sinatra
+
 
 
 ## Available Talks
-<<<<<<< HEAD
-  *  Exceptions and Errors in Sinatra
   * Closures
-  * Testing with API's
   * Prototypical Inheritance without new
-=======
-  *  Exceptions and Errors in Sinatra
-  * Testing with API's
-  *
->>>>>>> master
   * Adapter Design Pattern
   * Use XXXX API - available for multiple people as long as it's a different API
     * Facebook
