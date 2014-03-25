@@ -19,6 +19,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Britt - Prototypical Inheritance without new
 * NAME - TOPIC
 * NAME - TOPIC
+* Lyndsey -Testing with API's
 
 
 ## Tuesday
@@ -32,7 +33,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 ## Wednesday
 
-* Mason - Observer Design Pattern  
+* Mason - Observer Design Pattern
 * Zohar - Eval in JavaScript
 * Drew - Factory Design Pattern
 * Germain - Prototypical Inheritance with new
@@ -40,7 +41,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * Namrata - Template Method
 ## Thursday
 
-* Nic -  Closures  
+* Nic -  Closures
 * Erin - Sass
 * Jackie - Git Stash
 * Christine - falsey in JavaScript
@@ -49,9 +50,16 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Available Talks
-  *  Exceptions and Errors in Sinatra  
-  * Testing with API's  
-  * 
+<<<<<<< HEAD
+  *  Exceptions and Errors in Sinatra
+  * Closures
+  * Testing with API's
+  * Prototypical Inheritance without new
+=======
+  *  Exceptions and Errors in Sinatra
+  * Testing with API's
+  *
+>>>>>>> master
   * Adapter Design Pattern
   * Use XXXX API - available for multiple people as long as it's a different API
     * Facebook
