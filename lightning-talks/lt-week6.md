@@ -26,7 +26,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Melanie - [Factory Design Pattern](./student_files/factory_design_pattern.md)
 * Matt - Strategy Design Pattern
-* Katherine - JavaScript Callbacks (again)
+* Katherine - [JavaScript Closures](https://gist.github.com/raorao/7455054)
 * Jordan - Singleton Design Pattern
 * Lucas - Twilio API
 
@@ -52,10 +52,10 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 
 ## Available Talks
-  * Closures
   * Prototypical Inheritance without new
   * Adapter Design Pattern
   * Use XXXX API - available for multiple people as long as it's a different API
     * Facebook
+  * JavaScript Callbacks (again)
 
 
