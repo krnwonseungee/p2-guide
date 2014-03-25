@@ -30,7 +30,6 @@
 * 8:45 - 9:00 Meet with accountability buddies
 * 9:00  EE Training, Choose Afternoon Lecture
 * 9:10 Daily Overview Lecture (optional): Breakout / Refinement on Javascript
-  * [Breakout on MVC in Javascript]()
 * 9:30 - 12:00 Pair on challenges.
 
   * [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
