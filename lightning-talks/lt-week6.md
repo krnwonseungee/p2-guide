@@ -43,7 +43,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 
 * Nic -  Closures
 * Erin - Sass
-* Jackie - Git Stash
+* Jackie - [Git Stash](https://gist.github.com/jackiejohnston/b9e512cd123ac5d934ff)
 * Christine - falsey in JavaScript
 * Janet - Functional JavaScript (as opposed to OO)
 * Ryan - D3
